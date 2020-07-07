@@ -1,0 +1,70 @@
+Sai Dhir
+Email me on Indeed: indeed.com/r/Sai-Dhir/ebedosedo81fo4cf
+WORK EXPERIENCE
+Sasken Technologies Pvt. Ltd Pune, Maharashtra
+January 2017 to Present
+ORACLE
+January 2011 to Present
+STP is basically a router that realys ss7 messages through various signally points. In project
+all
+STPS were replaced by ORACLE STP due to its advanced features, high end support, flexibility.
+The STP is connected to adjacent SEPs and STPs via signaling links. Based on the address fields
+of the SS7 messages, the STP routes the messages to the appropriate outgoing signaling link.
+Client: ORACLE
+Team Size: 4
+Role: fetching data, analyzing, monitoring, troubleshooting
+Technologies: filezilla, putty
+Major Development
+Currently working on External Browser Integration for the Payment Gateway
+Multiple Shipping methods Inside Order Invoice
+ORACLE - Gurgaon, Haryana
+October 2016 to January 2017
+Karizma Order Manager & Karizma Order System
+ORACLE
+March 2011 to October 2011
+Stamp Duty means a tax payable on certain legal documents specified by statute; the duty may
+be fixed or ad valorem meaning that the tax paid as a stamp duty may be a fixed amount or
+an amount which varies based on the value of the products, services or property on which it is
+levied. It is basically a kind of tax paid on any transaction based on exchange of documents or
+execution of instruments.
+Client: Max Life Insurance
+Team Size: 4
+Role: Business Analyst, Testing and Bug Fixing.
+Technologies: Group Asia
+Major Development
+> Reading of the new requirements and have a thorough knowledge regarding the functionality
+and generating test case regarding it.
+PMJJ BY: PMJJBY (Pradhan Mantri Jeevan Jyoti Bima Yojana) is a one year Life insurance scheme,
+auto renewed every year, offering coverage for death due to any reason. The PMJJBY scheme is
+available to anyone between 18 and 50 years of age and with a CSB Savings bank account The
+main administrator within the scheme could be life insurance corporation in addition to hardly
+any other insurance providers who will be able to give similar benefits under the scheme
+Team Size: 4
+Role: business analyst, testing
+Technologies: group asia
+EDUCATION
+Client-Server Architecture
+CDAC Mohali, Punjab
+January 2017 to Present
+Bachelor of Engineering in Engineering
+Punjab Technical University (PTU) Jalhandar
+2012 to 2016
+B.E
+Punjab Technical University
+2012 to 2016
+Android
+CDAC Mohali - Mohali, Punjab
+SKILLS
+CHANGE MANAGEMENT (Less than 1 year), Configuration Management (Less than 1 year), Git
+(Less than 1 year), Incident Management (Less than 1 year) Linux (Less than 1 year)
+ADDITIONAL INFORMATION
+Operating Systems Windows 7, ubuntu Linux
+Configuration Management Git, son
+Incident Management IBM i series 400
+Domain insurance
+Platform - Windows
+Framework-Grou Asia
+Domian Telecom
+Domain telecom
+Platform-windows
+Framework-filezilla, putty

@@ -1,0 +1,117 @@
+Senthil Kumar
+Senior Technical Lead HCL Cisco
+Email me on Indeed: indeed.com/r/senthil.kunar/d9d82865dd38d44s
+Result oriented Networking Professional with 11 years' experience in
+testing network products diversified skills includes testing ACI SDN fabric,
+UCSD orchestration, Routing and Switching: design, deploy and
+troubleshoot customer network
+Extensive knowledge of Testing and Deploying network test plans,
+protocols, Strategies and Lab Setup.
+In-depth knowledge of ACI fabric, Routing and switching protocols
+Proven communication skills and the ability to troubleshoot and solve
+network issues
+Skilled in providing support in various networking testing activities to
+provide effective support and handling of customer escalation and for
+ensuring timely and effective support
+WORK EXPERIENCE
+Senior Technical Lead
+HCL Cisco Bengaluru, Karnataka
+October 2015 to Present
+Project Title: Feature testing and Deployment on ACI fabric for Cisco IT and UCSD
+ACI Fabric deployment in single POD and Multi-POD environment
+Deployed Cisco ACI Multi-Site Controller with ACI fabric for Testing stretched
+EPG's between Data centers
+Deployed Cisco IT replica Setup in Local Lab
+Handling Cisco IT customer network and pre-deployment of image testing before handing to
+CISCO IT Customer
+End to end testing of Cisco IT test bed, upgrade and downgrade of Various
+images
+Configured SDN Controller (APIC) Decommissioned and Commissioned in cluster
+Configured UCS manager
+APIC upgrade downgrade, Cisco Nexus 9k leaf spine downgrade upgrade testing.
+Bring up ACI leaf and spine fabric with UCS fabric interconnect
+Implementation of VMware DVS and Cisco AVS in Esxi host and tested the AVS
+functionality
+Tested redundancy testing on leaf, spine and fabric interconnect
+Communicated inconsistencies between System Specifications and Test Results
+to development and/or analyst team
+Involved in Defect Review meetings escalating and prioritizing issues effectively
+Experience in implementation of VMware Infrastructure 5.5 / 6.0
+Managed Virtualization environment using VMware EXI 5.5/6.0, Vcenter 5.5/6.0
+Creating and Managing virtual machines and Templates
+Migration of VM using Vmotion between clusters
+Configured Windows iSCSI SAN and integrated to VMware
+Testing Cisco APIC with UCSD integration with Multi Site Controller
+Technical Lead
+Aricent Cisco
+July 2012 to September 2015
+client Cisco Systems
+Project Title: Feature testing and Deployment on CISCO CARRIER PACKET
+TRANSPORT
+Worked on EFT with Bharti Telecom and China Telecom Demo for 9.7 rings features
+Conducting the Dev-test activities for CTP for Rings 9.7 feature. Bring up new setup,
+written test cases for CPT 50 Ring feature to test REP and also to validate MPLS TP and P2MP
+EVC
+Tested MPLS TP, single segment and multi-segment Pseudowire, P2MP EVC, REP
+features.
+Tested EVC P2MP type on that carried out Single tag, Double tab of 802.1q and Dotlad
+Based on Cisco Resilient Ethernet Protocol feature CPT 9.7 testing is carried out.
+Created open and closed end segment for REP topology and tested Rings CTP 9.7 feature
+Tested Mac learning, aging, flushing and limiting features
+Tested multiple frame size and JUMBO frame verification with MPLS TP
+Tested Link Aggregation verification with MPLS TP
+Tested Memory Backup verification with fully loaded CPT configuration
+Hardware redundant Plug in and Plug out Circuit Pack test and High availability testing
+for CTP 600
+Network Protection verification testing with MPLS TP working LSP and Protected LSP
+Tested DHCP Snooping
+Tested EVC P2MP type on that carried out Single tag, Double tab of 802.1q and Dot1ad
+Tested Mac learning, aging and limiting features
+Supporting customer queries for the product
+Technical Lead
+Aricent Group
+December 2011 to June 2012
+Client KeyMile Germany
+Conducting the Dev-test activities for Eth-Sys series switch. Bring up new setup,
+preparation of FT test plan, derive test estimate for the Release.
+Tested the various images submitted by release -ops team
+Carried out manual testing on Plan 802.10 ( Mac aging, Mac flooding, Tag and untag)
+using SNMP mib browser and Aricent ISS
+Written test cases for RSTP and MSTP features and tested it.
+Debug the failures by configuring the test bed manually and filing the defects
+Technical Lead (HCL)
+client Cisco Systems
+January 2010 to December 2011
+Cisco 12000 Gigabit
+Switching Router)
+Performed the Role of Technical lead for a team member size of 4
+Test the various images submitted by release -ops team
+Carried out manual testing of Connection Server (HSRP) and OSPF features to verify
+the functionality
+Tested OSPF point to point and Broadcast network
+Bring up new setup, prepare test plan, derive test cases and execute the test cases
+Debug the failures by configuring the test bed manually and filing the defects
+Interact & co-ordinate with Dev-test and Development team to review the CFD'S and script
+coverage.
+Find defects through manual testing and verify the defects
+Analyze both internal and externally found defects and come up with a plan to reduce the
+defects missed out in the scripts.
+Test Lead (HCL)
+client Cisco Systems
+May 2007 to December 2011
+Virtualization)
+Performed the Role of lead for a team member size of 5
+Image testing on ACE module and ACE 4710 Appliance.
+Coordinating with onsite/offsite teams in resolving the defects found when performing
+Testing.
+Given white paper & Presentation document in ACE High Availability and Securing
+ACE 4710 with ACS server
+Test Plan writing, reviewing and planning test strategies.
+Peer to Peer Reviews to avoid Post Delivery Defects
+Lab Test Bed creation and Infrastructure Maintenance
+Configured High Availability of ACE Module, ACE Appliance and ANM Servers
+Configured End to End traffic Load balancing of Data center using the ACE 4710, ACE
+module and CSM devices
+Deployed different topologies NAT, Routed and Bridged for End to End traffic Load
+balancing of Data center
+Lab Administrator

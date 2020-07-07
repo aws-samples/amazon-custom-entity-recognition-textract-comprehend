@@ -1,0 +1,48 @@
+Pranay Sathu
+Software Test Automation Engineer
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Pranay-Sathu/ef2fc9od9ec5dde7
+Over 3.6 years of experience in IT industry developing automation code for various clients (Web
+and Mobile applications)
+Extensive Work Experience in test automation using tools Selenium Webdriver, Xamarin.UITe
+and exposure to all phases of SDLC.
+Involved in development of automation framework using C#.
+Experience in Test management tools like Quality center, JIRA, VSTS.
+Proficiency in C# programming with development of Automation scripts.
+Strong Debugging skills using Visual Studio.
+Involved in story grooming sessions, backlog prioritization and product road map discussions
+Experience in working closely with the product management team (Product owner, BA and UX)
+for requirement discussion.
+Good experience in reviewing requirements and identify ambiguity in requirements.
+Preparing test cases for the system covering User stories, reviewing them with the developers
+and finalizing the test cases.
+Strong experience in facilitating UAT scenarios/sessions. Provide sprint end product demo to
+cross functional teams
+Support Project manager in generating test coverage reports, defect metrics.
+Good Work experience in performance testing using HP load runner (True client protocol)
+Basic knowledge in authoring user stories in BDD format.
+Basic knowledge in automating the applications using tool Protractor
+Quick learner, Self-motivated and problem solving skills.
+Willing to relocate to: Pune, Maharashtra hyderbad, Telangana - Bangalore Urban, Karnataka
+WORK EXPERIENCE
+Consultant
+Neudesic (Vendor @ Microsoft)
+Working as Test Automation Engineer.
+Software Test Automation Engineer
+EPAM
+December 2014 to October 2017
+Worked as Test Automation Engineer.
+EDUCATION
+Bachelor (B Tech) in Name of the Education Establishment
+SR ENGINEERING COLLEGE (SREC)
+SKILLS
+C# (Less than 1 year), Database (Less than 1 year), Java (Less than 1 year), JIRA (Less than 1
+year), load runner (Less than 1 year)
+ADDITIONAL INFORMATION
+Key Skills:
+Programming Languages: C#, Java
+Automation Testing: Selenium Webdriver, Xamarin.UITest, Protractor, Speflow
+Performance Testing: HP Load Runner (True Client protocol)
+Software Testing: Test Scripts, Test Case Design, Test Summary
+Platform: Windows.
+Database: SQL Server 2012, Oracle
+Management tools: JIRA, HP Quality center; vsts.

@@ -1,0 +1,82 @@
+Nidhi Pandit
+Test Engineer Infosys Limited
+Email me on Indeed: indeed.con/r/Nidhi-Pandit/b4b383dbe14789c5
+Overall around 4 years of work experience Currently working with Infosys Limited designated
+as Test
+Engineer. Experience in Automation and Manual Testing in telecom and banking domain.
+WORK EXPERIENCE
+Test Engineer
+Infosys Limited
+June 2016 to Present
+Project Description:
+CBIL (Core Banking Integration Layer) is a crucial integration layer that is specifically addressing
+the architectural complexity due to multiple core banking systems and variants at HSBC. It is a
+standard service
+interface across different core banking systems to facilitate easy integration with other global
+systems.
+CBIL is a strategic initiative to standardize all interfaces with core banking without impacting the
+under lying
+core banking system.
+Roles & Responsibilities
+Understanding the functional requirements of the API.
+Involvement in Test Planning.
+Verifying the documents provided by the development team.
+Creating test data request document to test the service on the certified environment.
+Create and automate Test Cases.
+Preparing Stub to virtualize the API.
+Executing test cases in local and certified environments and validating the responses.
+Participation in Stand up Calls, Scrum Calls, Sprint Planning, Retrospective Meetings.
+Defect Management in JIRA.
+Involvement in Automation Scripting.
+Presenting completed APIs to the client.
+Experience in working under client environment, multi-vendor environment.
+Test Engineer
+Infosys Limited
+February 2014 to Present
+Test Engineer
+Infosys Limited
+July 2014 to January 2016
+Project Description:
+Order Management Fulfillment (OMFUL), which belongs to Telecommunication Domain, is a
+unified
+business process management framework that orchestrates, automates and manages the
+service
+fulfillment process, aligning people, processes and technology. This product caters the end to end
+functionality for telecom services in OSS space. Our role as a team was to ensure any Initiate/
+Change
+Request towards the product is delivered successfully in time with no compromise in quality.
+Roles & Responsibilities:
+Understanding the client requirement
+Creating SQL scripts and deploying on the local environment (UNIX)
+Sanity testing on different environments
+Performing Manual Testing on OMFUL Application
+Creating and maintaining test cases as per the requirement
+Run and validate the test cases in the system which is integrated in a real production like
+environment
+Creating manual stubs to complete the process fulfillment flow
+Defect Management
+Creating Show And Tell Related documents
+Participation in support team at the time of Production Deployment
+EDUCATION
+State Board
+2008
+Education
+Passing
+Bachelor in Electronics
+Central India Institute
+Engineering
+Technical University
+SKILLS
+API. (1 year), Scripting. (1 year), SOAP (1 year), UI (1 year), XML (3 years)
+ADDITIONAL INFORMATION
+Key Technical Skills
+Technical Experience: - Automation Testing (REST API, Service Virtualization), Functional Testing,
+Regression Testing
+Manual Testing, Scripting (SQL)
+Domain Experience: - Telecom, Banking
+Programming & Scripting Languages: - HTML, CSS, XML, SQL, JAVA (Basic), JSON
+SDLC Model: -Waterfall, Agile
+Testing Tools: - CA LISA, APM (Amdocs Process Manager), SOAP UI, TOSCA, HP-ALM (QC)
+Test Management Tools: -JIRA, Quality Center
+Other Tools: -SQL Developer, TOAD.
+Database: - DB2, SQL

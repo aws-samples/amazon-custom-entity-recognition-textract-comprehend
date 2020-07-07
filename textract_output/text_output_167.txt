@@ -1,0 +1,125 @@
+Rahul Tayade
+Global Production Support Lead, Infosys Ltd (Technology Lead) HSBC
+Pune, Maharashtra Email me on Indeed: indeed.com/r/Rahul-Tayade/ce40c3731cb6976
+Total 12+ years of IT experience in the analysis, design, development, Testing support,
+implementation, CAT support and management of full life cycle applications, project coordination,
+managing development and support projects.
+More than 7 years of experience on Project Leading support and maintenance project including
+enhancements of the application.
+Over 4 years of Project Management experience on support/maintenance projects.
+Managed multiple applications with team more than 16 members.
+Involved in PM activities like dealing with customer, identifying new business, get new business,
+accordingly raising quotes, and get PO approved from customer, track the work and bill customer
+based on Resource Utilization, Workforce management, manage project costing by providing
+cost-effective solutions etc.
+Involve in SIX Sigma and Lean initiative to remove the unwanted NVA (non-value add) improve
+on costing and performance side
+Was deputed to client side UK-IPSWICH to deal with client and handle issues, achieve the client
+confidence by creating road map for improvement and improving performance and during that
+time customer satisfaction rating was increased to 4.9 from 4.4 out of 5.
+Handled responsibilities as the single point of contact for various projects, transitioning and
+offshore coordinator.
+As a ASG Project lead involved in ASG activities like resource management, work allocation,
+shift management, handling escalations, SLA performance and dashboard reporting, ITES Metric
+reports, Highlight reports, coordinating and performing deployments, QMG audits, PMR activities
+etc.
+Practiced ITIL V3 processes during my tenure on application support projects which includes
+Service Transition, Service Operations (Incident management, Change Management, Problem
+Management) and Continual Service Improvements
+Handled effort estimation using Function Point (IFPUG Guidelines), cost estimation and planning
+various projects.
+Prepared performance improvement plan on activities related to application performance.
+Managed and Delivered VDC Migrations, Database Migration projects.
+Capacity planning, work load and work force planning.
+Interact with the business analysts &amp; application leads to come up with technical designs
+based on the functional designs.
+Worked extensively on Oracle PL/SQL, UNIX, Scripting and have good interpersonal skills.
+Involved in Service transition and successfully completed all quality gates
+Documented and Managed DR activities successfully
+Involved in BCP planning and execution.
+Team mentoring and help team when needed
+Involved in escalations and resolve the issue smoothly by involving business stakeholders and
+team effectively.
+WORK EXPERIENCE
+Global Production Support Lead, Infosys Ltd (Technology Lead)
+HSBC Pune, Maharashtra
+June 2016 to Present
+Currently working in Global Standards IT under the CDD (Customer Due Diligence) program which
+is responsible for tackling financial crime by implementing new tools to better understand their
+customers.
+I lead a global 24*7 production support team for a number of Tier 1 KYC (Know Your client)
+FCR (Financial Crime Risk) applications and provide hands on application support to a user base
+across 35 countries in 42 markets, for HSBC and its subsidiaries First Direct and Marks &amp;
+Spencer Bank.
+Tasks:
+Mentoring team on Technical as well as Process front
+Implementing new processes
+Implementing a global 24*7 Support Model
+Supporting the rollout of new customer onboarding tool across 35 countries
+Supporting weekly release cycles
+Responsibilities:
+offshore Leadership/People Management
+Service Delivery Management
+Stakeholder Management
+Relationship Management
+Service Recovery Management
+Production Support
+Incident Management
+Problem Management
+Change Management
+Release Management &amp; Support during releases
+Involve in Service Improvement Process for Faster and Smooth delivery
+Resolving technical issues relating to application from offshore
+Training &amp; Mentoring new resources for the Projects
+Documentation and manage Knowledge bank for team reference
+Documentation and execution of DR activities
+Technology Lead
+HSBC Pune, Maharashtra
+October 2015 to July 2016
+Involved in Transition of application
+Preparation of in Knowledge Transfer plan from HSBC to Infosys,
+Managing KT schedules and made sure that it working as per plan
+Managing variance and made sure that portion left should get discussed as per updated plans.
+Mentoring new team on technical and process front
+Helping team where laps in KT plan or miscommunications
+Preparation and scheduling of Reverse KT plans and smooth execution of it
+Managing stake holders and business and give them confidence for moving support to new
+team
+Made sure that this plan passed from all quality gates in order to start work from new team
+Documentation of all these Knowledge and Process
+Project Lead
+British Telecom UK Pune, Maharashtra
+August 2010 to July 2015
+FPQ system is used for entry and reporting of quality data. It is national database for all quality
+checks. It is used to record field performance quality scores of resources and based on the entry
+of it evaluate the quality scores. It is also used for score sheet and contractor management. Base
+on the score sheets auditors performs the transaction audits. FPQ also provides the transactional
+and statistical reports.
+V21 is crucial interface between the oss and the network. It is based on Metasolv's component
+OMS.
+OMS: A Centralized Order Management system that allows changing processes and adding
+interfaces automatically
+off Shore Project Manager for various integration projects for the client.
+Requirement Understanding for future development and enhancement by interacting with
+client, E2E Solution Designers and other stake holders.
+Prepared application performance improvement plan such CSIP (Continuous Service
+Improvement Plan), Get-well Plan.
+Providing estimation of effort and timescale for all the project deliveries
+Managing components deliveries impacted by various Releases
+Perform project planning, scheduling, monitoring, and reporting activities.
+Interface with the client team to update them on the issues, risks and status of the offshore
+delivery.
+Part of Application/Detail Design team to design high level and low level of the integration work.
+Ensure system is delivered within planned cost, timescale and resource budgets.
+Perform Release Management
+Effort Estimation, Cost estimation, Allocate work to the team, track and raise the queries and
+resolve issues related to deliveries.
+Design, Development, Testing for various projects.
+Change Requests/Maintenance Release
+Resolving technical issues relating to application from offshore
+Training &amp; Mentoring new resources for the Projects.
+Oracle Database Migration, Application Migration to VDC environment.
+Completed VDC Migration (Daas, Caas, Maas) for various application
+Along-side the responsibilities mentioned above I was involved in various initiatives by client for
+improvement in team efficiency like Six Sigma and Lean management that saved lots of efforts
+and in turns monetary benefits to customer.

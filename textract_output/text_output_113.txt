@@ -1,0 +1,83 @@
+Abdul B
+Arabic Language supporter (Content Analyst)
+Karnataka, Karnataka - Email me on Indeed: indeed.com/r/Abdul-B/eb2d7eod29fe31be
+7+ years of experience in supporting specially Arabic Language content Arabization.
+Good expertise in working at MNC. As Thomson Reuters for EMEA Project as giving
+language support as a content analyst for financial Data.
+Language testing in LG soft India as a language tester engineer.
+The Arabic project of CRM for Microsoft project with language testing experience in
+Wipro technologies.
+Arabic, Urdu, English and Mobile features testing in L G Soft India Bangalore.
+Present working at Al-wadi Int School as an Arabic/Islamic teacher.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Arabic Language Trainer
+Associated Bengaluru, Karnataka
+2010 to 2012
+and Arabization Jobs and
+worked as in interpreter for several clients. Language CA for (Arabic) CRM project in Wipro
+Technologies.
+Arabic Linguist
+Hyderabad, Telangana
+June 2010 to September 2010
+Team Size 30
+Windows Server 2008 R2, MS Office 2010, Windows Vista,
+Visual Studio 2008 SP1, Microsoft Exchange Server 2007,
+Environment Software Windows Server 2008 R2 Active Directory Server, Windows
+Server 2008 R2 Hyper-V, Product Studio, UI And
+functional automation testing frameworks.
+Description:
+Microsoft Dynamics CRM is CRM Software application that the businesses use to track and
+manage the interactions with their customers such as phone calls and emails. This project
+involves
+testing the Microsoft Dynamics CRM Version5 for around 16 languages for localization and
+functional issues.
+Roles and Responsibilities:
+Created the test cases for Microsoft Dynamics CRM modules
+Execution of the test cases and updating the results in the bug tracking and logging internal
+tool "Product Studio"
+Creating automation test cases
+Middle East language tester engineer
+2006 to 2010
+Test Engineer (Arabic language)
+MICROSOFT INC -
+June 2007 to October 2007
+Duration: 2007 June -Oct 2008
+Resume
+Work Experience (Wipro Technologies) CRM project
+Project Details
+PROJECT#5 Microsoft Dynamics CRM
+Client MICROSOFT INC.
+Role Test Engineer (Arabic language)
+Testing Automated (UI &amp; Functional) &amp; Manual
+EDUCATION
+Master's
+SKILLS
+ENGINEER (4 years), TESTING (Less than 1 year), UI (3 years), USER INTERFACE (Less than 1
+year), ANALOG (Less than 1 year)
+ADDITIONAL INFORMATION
+Technical Skills: LG soft India (Bangalore)
+Apart from teaching and training, I posses a good know how and have experience of working on
+mobilization in the field of Telecommunication while I was working as a UI tester (Software Tester
+Engineer Using with TD ) for Middle east Languages at LG Soft India.
+PROJECT DETAILS
+Platform: Analog Devices
+Domain: GSM and GPRS
+Defect Tracking Tool: Test Director (Mercury Quality Centre)
+Test Tool: Genie (Target Testing &amp; Signal Logs)
+Description: The ADI model of LG Electronics is a color display model, Contains the features of
+Telephony services, SMS, MMS, WAP, Java Application, Bluetooth and advanced multimedia
+features like MP3, Camera, FM, Video Recording. This model supports PC Sync tool that is used to
+connect Mobile Station with PC.
+Resume
+Responsibilities:
+Teaching students the language skills and interaction in the language of Arabic. Also
+teaching and interacting with Arabs as a language translator.
+Interaction with Arab professionals during the tenure as a software tester in LG soft.
+writing test cases for new features, and Updating of check lists.
+Involved in feature testing modules like Messages, Settings, and Browser.
+Reported bugs and execution in Test Director.
+Conduct Target Testing on Mobile Station (Call Flow, Roaming &amp; Mobility Management,
+Radio Resource stability and GPRS connection) using test Tool.
+Conduct IOT in different locations of India.
+Good knowledge command in the Middle East languages Arabic, Urdu &amp; Farsi

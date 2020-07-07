@@ -1,0 +1,59 @@
+Chhaya Prabhale
+Kharadi, Pune, 411014, IN Email me on Indeed: indeed.com/r/Chhaya-
+Prabhale/99700a3a95e3ccd7
+This application is Used to information of customer and agency and to
+Check the reorder level of cylinder.
+Title: "Gas Agency System"
+Platform: MS Access
+This application is used to store daily information of Cylinder,
+Customer. Printing Customer information, Employee information,
+Selling information and finding particular customer records etc.
+WORK EXPERIENCE
+DBA Client
+Pune, Maharashtra
+June 2006 to Present
+Experiance Summary:
+Creation of tools (using Perl), shell scripting and PL-SQL for testing the quality of Data as per
+requirements. Creating reports / feedbacks.
+Able to create scripts for automation.
+Checking data fields contents by running shell scripts &amp; sql queries
+Database management like, conversion and manipulation of AND'S Global Road Data using
+SQL and compiling them to AND'S navigational road data.
+Developing PL-SQL models to fetch required data.
+writing shell script for automation for support and system admin.
+Project Name: Product Releasing Data 2018H2
+Microsoft
+2007 to 2007
+Testing of data is done by manually and customizing tools developed in Shell/Perl scripting.
+We modify the Shell scripts as per requirements &amp; to test the Drawing &amp; Image with
+modified scripts. The product is in Geographic data files (GDF) format this guides to the customer
+when the customer needs data up to a certain level.
+My Role:
+Performed Black Box, Functional, Integration and Regression Testing of application.
+Involved in creation and execution of test cases.
+Reporting of bugs.
+Tools:
+Perl Scripts, Shell Scripts, Sql query, PL-SQL and in-house tools on Unix Sun Solaris
+SKILLS
+PERL (10+ years), SCRIPTING (10+ years), SQL (10+ years), DATABASE (10+ years), SHELL
+SCRIPTING (10+ years)
+ADDITIONAL INFORMATION
+Key Skills:
+Demonstrating responsibility and initiative with an emphasis on Teamwork &amp; Co-
+operation.
+Ability to work under high pressure while maintaining high standards of work.
+A highly consistent and pragmatic approach to problem solving.
+Operating Systems: Windows (XP/2000), UNIX Sun Solaris 9. Linux (Red-hat-6)
+Scripts: Shell, Basic Perl (UNIX, Linux)
+Languages: C, C++, VB 6.0
+Database: Oracle, MySQL, Access, DB2
+Primary Skill: Unix shell scripting, Sql, perl (Intermediate Level), pl-sql
+Test tools: Basic Knowledge of QTP, WIN RUNNER, Test Director
+Strengths:
+Professional Programming Skill and experience.
+Expert in working with various operating systems.
+Exceptional Technical Skill.
+Highly skilled in customer service.
+Good deliver output in less time without losing efficiency.
+Excellent Communication Skill.
+Proven strength in problem solving, coordination and analysis

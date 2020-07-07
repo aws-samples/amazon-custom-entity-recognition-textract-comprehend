@@ -1,0 +1,148 @@
+Vijayalakshmi Govindarajan
+SAP as a Consultant SAP Basis
+Chennai, Tamil Nadu Email me on Indeed: indeed.com/r/Vijayalakshmni-govindarajan/
+d71bfb70a66b0046
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+SAP as a Consultant
+SAP Basis
+May 2012 to Present
+Involved in 3 support Projects and 1 implementation Project.
+System Build, System Refresh, system upgrade and system maintenance activities.
+Self-motivated and goal-oriented, with a strong ability to organize and prioritize tasks
+efficiently.
+Excellent team player with good communication, analytical, problem solving skills.
+Certification Done: Oracle certified Java Programmer
+Finished Diploma in Java course from NIIT
+EDUCATION
+MCA in Computer Applications
+Thiagarajar School of Management Madurai, Tamil Nadu
+BSc
+Sri Sathya Sai Institute of Higher Learning Anantapur, Andhra Pradesh
+HSC
+TVS Lakshmi Matriculation Higher Secondary School Madurai, Tamil Nadu
+SSLC
+TVS Lakshmi Matriculation Higher Secondary School Madurai, Tamil Nadu
+SKILLS
+JAVA (6 years), ORACLE (6 years), SAP (6 years), ABAP (Less than 1 year), ACCESS (Less than 1
+year)
+ADDITIONAL INFORMATION
+TECHNICAL EXPERTISE
+psliminietoilijpgalaismioovinarjaliliiioeisierovlmle ioovinargjaiitfeasiourisicfrertoteadikeootoattoo
+sllwieilijpisisigjuilisromema
+Operating System
+Worked on UNIX AIX and Windows Environment.
+Troubleshooting & Identifying os level Bottle necks.
+Monitoring Top CPU Utilization/Memory Utilization issues at oS-level.
+Administrating File system and permission issues at OS-Level.
+Database Administration
+Database administration on Oracle 10 g, 11 g, 12 c.
+Monitoring & perform database backup at DB13 level.
+cluster Administration on Oracle 11 g, 12 C..
+SAP HANA Database Administration
+Monitoring HANA DB and to troubleshoot performance issues using HANA studio.
+Importing and activating views and procedures.
+Troubleshooting HANA data and log backup issues.
+Monitoring top CPU Utilization/Memory Utilization issues at os-level.
+SLT Replication of tables from ECC to HANA DB.
+Third Party Tools Worked
+Open text.
+PAS Pay metric Adapters.
+TRAX
+HP, Service now.
+CPS, Redwood Job scheduling.
+Vertex.
+Programming Knowledge
+C, C++, Core Java, J2EE, EJB, Struts
+Contributions and Achievements
+Conducted training for New joiners
+Conducted team meetings and internal training sessions
+Received "Manager's Choice Award" thrice for managing crisis situation
+Received "Deep Skill Adder Award" every quarter for taking Personal interest
+PROJECT (Support): 1
+Organization: IBM India PVT LTD
+Role: SAP Basis Consultant
+client: Maersk Line- MLIT Basis
+Database: Oracle 11g
+Platform: Linux 2.6
+Period: April 2015 to September 2016 and from Aug 01, 2017 to till date
+Responsibilities:
+Creation of oss ID and registering Developer for Access key and Object key in SMP.
+Apply osS Notes using SNOTE.
+Experience on deployment of digital signature in Java Landscape.
+Apply SPAM/SAINT, Support Packages, and Add-ons.
+Performance Monitoring for ECC, BI, SRM, CRM, and PI systems.
+Handling user tickets and system performance tickets.
+Background Job Administration such as scheduling/Cancelling and Troubleshooting background
+jobs as per client requirement
+Performed daily health checks across the landscape.
+Analyzing and troubleshooting daily issues occurred in health checks.
+Index rebuild for BW and ECC systems.
+Run update stats for ECC and BW tables.
+Printer configuration.
+Detecting Expensive SQL statements
+Monitoring and troubleshooting JAVA systems using NWA and admin tools like Visual Admin tool
+and Config tool.
+Database cluster Administration.
+System Refresh from Production to Quality and Pre Prod.
+System Restore from Production to Quality, Pre Prod. Same system restore
+System Upgrade from EHP 6 to EHP 7.
+Kernel upgrade for the entire landscape.
+System Build for System Upgrade.
+DB Export and Import across the landscape.
+PROJECT (Implementation) 2
+organization: IBM India PVT LTD
+Role: SAP Basis Consultant
+client: Maersk Line- MLIT Build Basis
+Database: Oracle 11g
+Platform: Linux 2.6
+Period: September 2016 to July 2017
+Responsibilities:
+Creation Database Source in Java systems.
+Creation of Product, Software Component, Business Systems and Technical Systems in PO SLDs.
+Performance capture whenever test load went into the system.
+Troubleshooting JAVA and ABAP stack systems.
+Creating source systems in BW systems, Maintaining and troubleshooting RFC connections for
+the same.
+client opening and closing depending up on requirement.
+Creating osS messages on various issues to SAP in SMP.
+sso Configuration in Solution Manager.
+PROJECT (Support) 3
+Organization: IBM India PVT LTD
+Role: SAP Basis Consultant
+client: Ericsson
+Database: Oracle 11g
+Platform: Linux 2.6
+SAP: ECC 6.0, BW ABAP 7.31
+Period: July 2013 to November 2014.
+Responsibilities:
+Performed all SAP Basis Activities like Performance monitoring, Monthly report generation.
+Printer configuration.
+Detecting Expensive SQL statements
+Monitoring and troubleshooting JAVA systems using NWA and admin tools like Visual Admin tool
+and Config tool.
+Table space monitoring using BRTOOLS.
+Database Administration using BRTOOLS.
+Kernel upgrades for the entire landscape.
+Part of EHP upgrade from ERP6.0 EHP 6 to ERP6.0 EHP 7
+PROJECT (Support) 4
+Organization: IBM India PVT LTD
+Role: Associate SAP Basis Consultant L1
+Client: Unilever, UK
+Database: Oracle 10g
+Platform: Linux 2.6 Linux V 6.2
+SAP: ECC 6.0, BW ABAP 7.31, CRM 7.31
+Period: May 2012 to June 2013.
+Responsibilities:
+Performed all SAP Basis Activities like Production System Performance monitoring, Monthly report
+generation.
+Performance Monitoring for ECC, BI, SRM, CRM, and PI systems.
+Handling User tickets.
+Background Job Administration such as scheduling/Cancelling and Troubleshooting background
+jobs as per client requirement
+Performed daily health checks across the landscape.
+Analyzing and troubleshooting daily issues occurred in health checks.
+Importing Transports across the Landscape.
+Creating/modifying User roles as per client requirement.
+PESONAL DETAILS:
+Name: Vijayalakshmi Govindarajan

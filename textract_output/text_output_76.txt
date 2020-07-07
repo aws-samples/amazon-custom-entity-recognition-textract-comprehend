@@ -1,0 +1,105 @@
+Sarfaraz Ahmad
+Associate network engineer TATA Communications Ltd
+Muzaffarpur, Bihar Email me on Indeed: indeed.com/r/sarfaraz:Ahmad/1498048ada755ac
+Cisco Certified Internetwork Associate in Routing & Switching with progressive experience in
+deployment and administration of Network infrastructure. I am looking for opportunities to further
+improve my abilities & skills in the field of Network and Security technologies.
+Professional 2.5 years of experience in network Implementation & Troubleshooting in local and
+remote environments.
+Well accented with the key IT skills in the domain of LAN/WAN/Network Security, installation &
+configuration of IT networks, maintenance & troubleshooting.
+Potential of handling multiple tasks easily and capable of meeting deadlines.
+Possess excellent interpersonal communications and organizational skills.
+WORK EXPERIENCE
+Associate network engineer
+TATA Communications Ltd Pune, Maharashtra
+March 2017 to Present
+Department: CMIP (IP Provisioning)
+Responsibilities:-
+> Working on Alcatel Migration project for Tata Communications Ltd, responsible for provisioning
+and migrating customer services from Cisco (7200/7600) /Juniper (MX104) to Alcatel provider
+edge router (SR 7750)
+To carry out bulk migration and planned events of enterprise customers to enhance the network
+capabilities and compatibilities for new technologies.
+> Responsible for carrying domestic as well as international customer services migration
+activities in bulk. Involving all other stakeholders responsible for end to end delivery of customer
+services, to carry the successful migration.
+Parenting existing business switch ring with Alcatel Routers in combination with cisco routers
+with the help of field Engineers and synchronizing vlan database on each switch.
+Shut the interface and protocol on Cisco Routers and un-shut the interface on Alcatel routers
+during Migration activity.
+> Comparing the results of pre-check and post-checks and revert the links to cisco that are not
+coming Up on Alcatel or not compatible with cisco i.e. EIGRP.
+> Troubleshooting and resolving the customer issues related to either at routing level such as
+EIGRP, OSPF, BGP, MPLS or at access level Post migration activity.
+Troubleshooting and managing LAN-tO-LAN VPN on cisco router.
+Troubleshooting and managing GRE Tunnel on services Getaway.
+Configuration on cisco, juniper, Huawei switch creation Ether channel, VLAN, MSTP, QNQ,
+Dot1Q etc.
+Configuring and managing SVI interface on a Layer3 switch to provide inter VLAN routing.
+Configuration Line VTY on customer CISCO router.
+Configuration port security on customer hand up switch port.
+Troubleshooting end user network connectivity issue.
+erforming technical escalations in line with company policy.
+Accountable for customer review meetings weekly basis & giving feedback to the subordinate
+team and Management.
+Responsible for any internal or external escalation (Customer's End)
+Focus on customer requirements and providing them strategic plans for backups, redundancies
+and minimum downtimes under severe outages.
+Network engineer
+Cisco Mumbai, Maharashtra
+August 2015 to February 2017
+Responsibilities/Achievement
+Experience in configuring and troubleshooting of routing protocols and Firewalls
+Backing up and Upgrading software on Cisco router, switches using TFTP server
+Troubleshooting end user network connectivity issue
+Experience in installing and configuring DHCP services on Cisco Router and Switch.
+Configuring and troubleshooting Ether channel/Port-channel issue
+Configuring and troubleshooting VLAN, VTP and STP.
+Configuring and managing BPDU guard and Filter on a switch
+Providing port security on switch interface
+Dealing with Dynamic routing protocol Such as EIGRP, OSPF and BGP
+Configuring and managing SVI interface on a Layer3 switch to provide inter VLAN routing
+worked on networks with WAN protocols such as HDLC and PPP.
+Worked on Gateway Redundancy protocols such as HSRP on Cisco Router.
+Implemented traffic filters using Standard and Extended access-lists, Distribute-Lists, and
+Route Maps.
+>
+Installation, upgradation, Backup and restoration of checkpoint firewall
+Implemented rules, NAT, URL filtering on checkpoint firewall.
+Configuring and managing Rules and NAT on firewalls.
+EDUCATION
+Bachelor of Commerce in Commerce
+R.D.S COLLEGE - Bihar Sharif, Bihar
+July 2013
+H.S.C
+Dr. R.M.L.S COLLEGE Bihar Sharif, Bihar
+2009
+S.S.C in G.N.H.S
+Bihar School Examination Board - Patna, Bihar
+2007
+SKILLS
+BGP (2 years), EIGRP. (2 years), OSPF (2 years), security (2 years), vlan (2 years)
+ADDITIONAL INFORMATION
+Technical Skills
+Network
+> Switching: CST, PVST, PVST+, RSTP and MST, VLAN, Private VLAN, Trucking, Inter-VLAn Routing,
+SPAN/RSPAN, Ether channel or Port Bundling using static and dynamic protocol (PAgP and LACP)
+FHRP: HSRP (V1 & V2), VRRP and GLBP.
+Routing: Configuration and Troubleshooting Layer 3 Routing protocols such as Static routing,
+floating routing, RIP, EIGRP, OSPF, BGP, VRF-Lite and MPLS.
+Data Security
+>
+Checkpoint Firewall FW Monitor, TCP-DumpS, Rules, NAT, IPsec VPN, Backup & Restore, URL
+filtering, Installation, Migration, Upgradation, ClusterXL etc.
+> ASA Firewall: Access Control Lists with object, Address Translation, IPsec VPN, LAN-to-LAN VPN,
+High Availability in Active-Active & Active-Standby Mode, Redundant interface, SLA Monitoring,
+Security Contexts.
+> IOS Firewall: Standard and extended access list and Zone Based Firewall (ZBF), DMVPN, IPsec,
+IPsec over GRE.
+Services
+> Services: ARP, GARP, RARP, DNS, DHCP, FTP, TFTP, TCP, ICMP, TELNET, SSH, HTTP, HTTPS. IP
+SLA, NTP, SNMP
+Areas of Interest
+To perform troubleshooting and network performance planning.
+To implement enterprise level network architectures.

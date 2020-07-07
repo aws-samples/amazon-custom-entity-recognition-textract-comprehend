@@ -1,0 +1,79 @@
+Madas Peddaiah
+Anantapur, Andhra Pradesh Email me on Indeed: indeed.com/r/Madas-
+Peddaiah/557069069de72b14
+Having 3 moths of experience in Manual Testing.
+Previously worked with Infosys Limited, Mysore as a Software Test Engineer.
+Having good experience in Executed Test Cases as per Client Requirements.
+Having good experience in identifying the test scenarios and designing the test cases.
+Worked on IE, Firefox and Chrome Driver using Selenium.
+Good Knowledge in Core Java, SQL.
+Experience in designing, preparing and executing test cases for client server and web based
+applications STLC Concepts.
+> Web Based Application Testing
+Experience in understanding business requirements, preparing and execution of test cases for
+System Customizations/Enhancements and Initiatives.
+Quick learner with the ability to grasp new technologies.
+Excellent team player having ability to finish the tight deadlines and work under pressure.
+Good exposure on Manual Testing & Bug Life Cycle.
+WORK EXPERIENCE
+Infosys Limited Mysore, Karnataka
+September 2014 to December 2014
+Educational Technologies:
+Software Test Engineer
+Infosys Limited
+September 2014 to December 2014
+-September 2014 to December 2014.
+Project: 1
+Client: Loan Account
+Role: Software Test Engineer
+Team Size: 4
+Technologies: J2EE, Oracle 10g, Windows 7
+Used Tools: Selenium, Core Java, HPQC and Eclipse.
+Duration: September 2014 to December 2014
+Project Description:
+In this project we maintain all details about account transaction details, customer loan account
+details, calculate monthly EMI'S and there activity like Account login details, Account transaction,
+Loan account details etc.
+Responsibilities:
+Participated in identifying the test scenarios and designing the test cases.
+Prepared and Executed Test Cases as per Client Requirements.
+Performed Manual Testing on some modules.
+Feasibility analysis of Manual Test Cases.
+Performed Functional, Compatibility testing on different browsers like Firefox & Chrome.
+Defect tracking & Bug Reporting.
+Project: 2
+Client: Hospital Management
+Role: Software Test Engineer
+Team Size: 4
+EDUCATION
+B-Tech
+Kuppam Engineering College Kuppam, Andhra Pradesh
+2014
+Education, A.P
+Vani Jr college
+October 1977 to 2010
+Education, A.P
+Padmavani High School
+2008
+ADDITIONAL INFORMATION
+Technical Skills:
+Tools: Manual Testing, Selenium (Selenium IDE, Selenium Web Driver), Eclipse IDE.
+Languages: C, Core Java
+Database: SQL
+Operating Systems: Windows XP, 7, 8
+Management Tool: HP Quality Center
+Defect Tracking Tool: JIRA
+Projects Summary:
+Technologies: J2EE, Oracle 10g, Windows 7
+Used Tools: Selenium, Core Java, HPQC and Eclipse
+Duration: September 2014 to December 2014.
+Project Description:
+In this project, we maintain all details about Hospital details like- Hospital address, Consultant
+Doctor, Doctor Details, Permanent Doctor, Medicine, Lab Test, In Patient, Out Patient etc.
+Responsibilities:
+Prepared and Executed Test Cases as per Client Requirements.
+Participated in identifying the test scenarios and designing the test cases.
+Performed Manual Testing on some modules.
+Feasibility analysis of Manual Test Cases.
+Performed Functional, Compatibility testing on different browsers like Firefox & Chrome.
+Defect tracking & Bug Reporting.

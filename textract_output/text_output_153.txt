@@ -1,0 +1,54 @@
+Priyesh Dubey
+Azure Developer with 9 Yrs 8 months of working experience in Dot Net
+Technologies
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Priyesh-Dubey/cd079a9e5de1828
+Willing to relocate to: Pune, Maharashtra Hyderabad, Telangana Bangalore Urban, Karnataka
+WORK EXPERIENCE
+Architect
+Cognizant Hyderabad, Telangana
+August 2017 to Present
+2017.
+worked with Microsoft, Hyderabad as Software Engineer from January 2015 to Aug 2017.
+Worked as Senior Software Engineer in Philips India Limited, Bangalore from October 2011 to
+Dec 2014.
+Worked as Project Engineer in Wipro Technologies from Aug 2008 to Oct 2011.
+Technical Experience
+9 years 8 month of total IT relevant experience in analysis, design and development of windows,
+web and cloud based (Azure) application in .NET.
+Proficient experience of 4 years in WPF using MVVM and PRISM.
+Proficient experience of 1.5 year in Azure Technologies.
+Worked at the architecture, design and implementation level of the development.
+Proficient to understand the technical &amp; functional specifications.
+Have strong hold on Object Oriented Programming concepts with extensive exposure in O0AD
+using various Design Patterns.
+Good working knowledge with designer tools such as Visio.
+Experienced in writing unit tests using NUnit and VS tests using Moq and Microsoft Fakes for
+C# modules.
+Good working knowledge of Agile and Waterfall methodology.
+Good at grasping any kind of technology at a tremendous pace with minimum training.
+Professional Experience
+Possess good work ethics with excellent communication and interpersonal skills.
+Quick learner and very keen to learn new technologies.
+Effective in working independently as well as collaboratively.
+Experience in developing quick POC alternatives as per the new technology needs and analyze
+the performance and maintenance aspect.
+Highly motivated, dependable trouble shooter and possess good analytical and problem-solving
+techniques.
+In depth knowledge and hands on experience of Software Development Life Cycle (SDLC) and
+Project management processes.
+Strong analytical ability, conceptualization, presentation and communication skills.
+Software Developer
+Microsoft
+Worked as Individual Contributor in Technical Role
+EDUCATION
+MCA
+MANIT
+SKILLS
+WPF (Less than 1 year), Web API, Azure, ASP.Net MVC, Design Patterns, WCF, C#
+ADDITIONAL INFORMATION
+Technical Skills
+Microsoft Technologies C#.Net, WPF, WCF, ASP.Ne MVC, Web API, Biztalk Server 2013
+cloud Azure
+Version Control Git, VSTS, SVN, IBM Rational clear Case
+Scripting PowerShell
+Unit Test MOQ, VS Test, Microsoft Fakes, N-Unit

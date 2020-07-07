@@ -1,0 +1,85 @@
+Shreyanshu Gupta
+Software Development Engineer with 6 months of experience in Java, C,
+Velocity, Web Development at Amazon Development Centre.
+Bangalore, Karnataka Email me on Indeed: indeed.com/r/Shreyanshu.
+Gupta/6bd08d76c29d63c7
+elf-Motivated and Hardworking Computer Science student seeking to apply my skills and in the
+process, develop
+professionally.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Software Development Engineer
+Amazon
+Interned at Amazon Development Centre for 6 months 2017
+Projects did during Internship
+Blog Migration from TypePad to Amazon
+Amazon owns a blog omnivoracious.con which is used to improve the book sales in
+amazon.com It was
+recently hosted in a 3rd party blogging platform TypePad.
+The project required to find a platform which satisfies all the requirements and transfer all
+TypePad content
+to the Amazon-owned platform maintaining the functionalities and compatibility.
+Used Velocity Templating Language, Java, Amazon Tools and Many Blogging Platforms.
+Mobile Widget Disparity
+Due to some recent changes in Amazon configuration, there was a content disparity between
+book
+description of mobile and desktop in millions of products.
+The project required to find the reason for disparity and then find a solution that doesn't affect
+other
+features & is also expandable.
+Used Java, configuration files, and Amazon Tools.
+Physical to Amazon Video Conversion
+To promote Amazon Video Over Physical Video source (DVD, Blu Ray), certain features were
+created like
+Popup Window and messages above Add to Cart button.
+This project required to create UI for each of the features and check whether it satisfies all the
+criteria.
+Used Java, JSP, configuration files and bean creation.
+EDUCATION
+B. Tech in Computer Science
+Kalinga Institute of Industrial Technology
+July 2013 to April 2017
+SKILLS
+ANDROID (Less than 1 year), Git (Less than 1 year), HTML (Less than 1 year), PHP (Less than
+1 year), SQL (Less than 1 year), Java (Less than 1 year), C, Velocity (Less than 1 year), C++,
+Database Management (Less than 1 year)
+LINKS
+tps://ww.linkedin.con/in/shreyanshu-gupta-135176103
+CERTIFICATIONS/LICENSES
+Online Content Writer
+July 2016 to Present
+Was Online Content writer for Greymeter.com
+Android Application Development
+June 2015 to Present
+Learned to create basic Android Apps using Eclipse and Android Studio.
+PUBLICATIONS
+Blog Migration from TypePad to Amazon
+ttps://www.amazonbookreview.com
+July 2017
+Amazon owns a blog amazonbookreview.co which is used to improve the book sales in
+amazon.com. It was recently hosted in a 3rd party blogging platform TypePad.
+The project required to find a platform which satisfies all the requirements and transfer
+all TypePad content to the Amazon owned platform while maintaining its functionalities and
+compatibility.
+Used Velocity Templating Language, Java, Amazon Tools and Many Blogging Platforms.
+Mobile Widget Disparity
+July 2017
+ttps://www. linkedin.com/in/shreyanshu-gupta-135176103/
+ttps://www.amazonbookreview.com
+Due to some recent changes in Amazon configuration files, there was content disparity between
+book description of mobile and desktop in millions of products.
+The project required to find the reason for disparity and then find a solution that doesn't affect
+other features & is also expandable.
+Used Java, configuration files and Amazon Tools.
+Physical to Amazon Video Conversion
+July 2017
+To promote Amazon Video Over Physical Video source (DVD, Blu Ray), certain features were
+created like Popup Window and messages above Add to Cart button.
+This project required to create UI for each of the features and check whether it satisfies all the
+criteria.
+Used Java, JSP, configuration files and bean creation
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Programming language: C, SQL, Core Java, Android, Velocity
+Web Development - PHP, Basic knowledge of HTML
+Basic knowledge of GIT Version Control System

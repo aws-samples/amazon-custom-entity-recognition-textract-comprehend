@@ -1,0 +1,40 @@
+Ravi Shivgond
+Bidar, Karnataka - Email me on Indeed: indeed.com/r/Ravi-shivgond/4018c67548312089
+To associate with an organization that promises a creative and challenging career in progressive
+Environment to enhance my knowledge, skills to be a part of team that excels in work towards
+the growth of the organization.
+WORK EXPERIENCE
+Technical Support Engineer
+SAP Bengaluru, Karnataka
+November 2017 to February 2018
+I completed PLC Automation course that's way I will rejoin that job
+EDUCATION
+Govt. High school Yernalli
+B.E. in Electrical
+Karnataka State - Bidar, Karnataka
+SKILLS
+AC (Less than 1 year), Allen Bradley (Less than 1 year), Engineer (Less than 1 year), FANUC
+(Less than 1 year), GE FANUC (Less than 1 year)
+ADDITIONAL INFORMATION
+TECHNICAL QUALIFICATION:
+> Obtained Post graduate diploma in Industrial Plant Automation Engineer from Prolific Systems
+and Automation Bangalore. With hands on practical experience in Industrial Automation Tools
+specializing in PLC, SCADA and VFD.
+>> Attended a 3-day National level seminar on "Mat Lab and its Applications" organized by E&EE
+department of GNDEC Bidar.
+ACADEMIC PROJECT:
+Speed synchronization of multiple DC motors in industries using wireless RF.
+> Aim: To find Speed synchronization of multiple DC motors in industries using wireless RF.
+> Main Components Used: LCD Display, Diodes, Potentiometer, Rectifier, transformer, DC motor,
+DC motor drive, [...] microcontroller, RF transistor, RF receiver, IR sensor, etc.
+> TECHNICAL SKILLS: Post Graduate Diploma in Industrial Automation (PGDIA) Course from M/s.
+Prolific Systems and Technologies Pvt. Ltd., Bangalore which includes:
+Allen Bradley Micro Logix100o, SLC 5 / 03 RS Logix 500
+Siemens S7-300 SIMATIC MANAGER-5.4
+GE FANUC Versamax Micro, Proficy Machine
+Delta WPL Soft 2.42
+Mitsubishi FX3U 16M GX-Developer
+Omron Sysmac - CP1E CX-Programmer
+DCS AC-800 F Freelance Industrial IT
+Field Basics of Fi, Interface With Live Plant
+Instrumentation Setup With SLC 5 / 03 Controller Interfaced With In touch SCADA

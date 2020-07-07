@@ -1,0 +1,96 @@
+Meenalochani Kondya
+Systems Engineer, Infosys Bangalore
+Bangalore Urban, Karnataka Email me on Indeed: indeed.com/r/Meenalochani-
+Kondya/81e406bd03e7a6d2
+Completed .Tech Software Systems with specialization in Data Analytics through Work
+Integrated Learning Program of Bir la Institute of Technology and Science, Pilani in 2017
+Placed in Infosys at our college campus and attended 4 months Internship program between
+February and May 2013 with Infosys at their Mysore campus
+Over 4.5 years of software development experience in web technologies using NET
+Framework [...] and SQL Server 2012
+In depth knowledge of NET Framework including C#, ASP.NET, NET, MVC 4/5
+Good experience of Database Design and Software Development Life Cycle (SDLC)
+Experienced in converting the Business Requirements into Technical Specifications
+Good understanding of object oriented design and programming
+Excellent team player as well as a team leader with problem-solving and trouble-shooting
+capabilities
+Willing to relocate to: Bangalore Urban, Karnataka
+WORK EXPERIENCE
+Senior Systems Engineer
+Infosys
+Software development
+Systems Engineer, Infosys Hyderabad
+Gas Request Hyderabad, Telangana
+December 2014 to June 2015
+December 2014 to June2015
+This project involved creating a new application for the employees to record their in- timings and
+out-timings and allowing them to regularize their working hours.
+DESCRIPTION This web application was developed using MVC4, HTML5, JavaScript, MS-SQL 2012,
+ASP.NET and some open source Javascripts like Slickgrid.
+As a developer, my responsibility in this project included design, development,
+reviews and testing.
+Gas Request
+(As Systems Engineer, Infosys Hyderabad)
+Southern Gas
+CLIENT Southern Gas, a wholly owned subsidiary of Atlanta Gas Light Resources (NYSE:
+GAS), provides natural gas delivery service to more than 1.5 million customers in
+Georgia.
+tepsrliwineioilleralecrai-konalileeininseraoleisitrrerlor
+ROLE
+eveloper
+PERIOD
+October 2013 to November 2014
+This project involved creating a new application that accomplished the following- 1. Enabled the
+customers to raise gas connection requests and register their
+complaints for failures in the gas connections.
+2. Intimated the contract employees of AGL for repairing the faulty gas
+connections.
+3. Enabled tracking of their processes by capturing their analysis and repair
+DESCRIPTION status data.
+The application enabled the employees to function offline also in remote areas through periodical
+synchronizing of remote databases as and when connectivity
+became re-established
+This web application was developed using MVC4, HTML5, Javascript, MS-SQL
+developer, my responsibility
+2012 to 2012
+in this project included design, development, unit and system testing.
+MEENALOCHANI HARI KONDYA .Net Developer)
+Mobile: +91 9500615962
+E-mail: ari.krv@gmail.com
+EDUCATION
+M Tech in Technology & Science
+Birla Institute - Pilani, Rajasthan
+2017
+B Tech in Sri Ramakrishna
+Anna University
+2013
+Education
+Board of Secondary - Coimbatore, Tamil Nadu
+2009
+University u
+Technology
+Engineering College - Coimbatore, Tamil Nadu
+State Board
+Matriculation School - Coimbatore, Tamil Nadu
+SKILLS
+ASP (1 year), ASP.NET (1 year), MS ASP (1 year), NET (1 year), ENGINEER (Less than 1 year)
+ADDITIONAL INFORMATION
+Technical Skills
+Languages C#, MVC 4.0, ASP.NET, Javascript, JQuery, AJAX, Windows Services, SQL
+Server 2012
+IDE MS Visual Studio 2015, SQL server 2012
+Web Authoring Tools HTML 5, CSS 3.0, XML
+Microsoft Office MS PowerPoint, MS Word, MS Visio, MS Excel
+Operating Systems Microsoft Windows
+Source Code TFS 2013, VSS 2012
+Management
+MEENALOCHANI HARI KONDYA .Net Developer)
+Mobile: +91 [...]
+E-mail: ari.krv@gmail.com
+Project Details
+Doodle Web
+(As Senior Systems Engineer, Infosys Bangalore)
+Southern Gas
+CLIENT Southern Gas, a wholly owned subsidiary of Atlanta Gas Light Resources
+(NYSE: GAS), provides natural gas delivery service to more than 1.5 million
+customers in Georgia.

@@ -1,0 +1,80 @@
+Soumya Balan
+IT SUPPORT
+Sulthan Bathery, Kerala, Kerala Email me on Indeed: indeed.com/r/Soumya-
+Balan/97ead9542c575355
+To work in a progressive organization where I can enhance my skills and learning to contribute
+to the success of the organization.
+WORK EXPERIENCE
+Technical support engineer
+Microsoft
+Position: TECHNICAL SUPPORT ENGINEER
+Company: Microsoft Corporation Microsoft India Global Technical Support Center (Microsoft
+IGTSC), Bangalore
+Years of Experience: 2 Years and 4 Months
+Responsibilities
+Represent Microsoft and communicate with corporate customers via telephone, written
+correspondence, or electronic service regarding technically complex escalated problems
+identified in Microsoft software products, and manage relationships with those customers.
+Manage not only the technically complex problems, but also politically charged situations
+requiring the highest level of customer skill.
+> Receive technically complex, critical or politically hot customer issues, and maintain ownership
+of issue until resolved completely.
+Solve highly complex problems, involving broad, in-depth product knowledge or in-depth
+product specialty.
+> Use trace analysis, and other sophisticated tools to analyze problems and develop solutions
+to meet customer needs.
+> Lead triage meetings to share knowledge with other engineers and develop customer solutions
+efficiently.
+Act as technical lead, mentor, and model for a team of engineers; provide direction to others,
+review solutions and articles, mentoring existing &amp; aspiring Engineers.
+Write technical articles for knowledge base.
+Consult, collaborate and take escalations when necessary.
+Maintain working knowledge of pre-release products and take ownership for improvement in
+key technical areas.
+Manage customer escalations and recognize when to solicit additional help.
+Participate in technical discussions and engage with product team if required to resolve issues
+and represent customer segments.
+Exchange Server Knowledge
+Exchange Server 2007
+Exchange Server 2010
+Exchange Server 2013
+0365
+UG PROJECT TITLE: Memory Bounded Anytime Heuristic Search A* Algorithm
+>
+This Project presents a heuristic-search algorithm called Memory-bounded Anytime Window
+A* (MAWA*) which is complete, anytime, and memory bounded. MAWA* uses the window-
+bounded anytime-search methodology of AWA* as the basic framework and combines it with the
+nemory-bounded A* like approach to handle restricted memory situations.
+Simple and efficient versions of MAWA* targeted for tree search have also been presented.
+Experimental results of the sliding-tile puzzle problem and the traveling-salesman problem show
+the significant advantages of the proposed algorithm over existing methods.
+Technical and Co-Curricular activities
+> Star Performer in Microsoft IGTSC in 2014.
+Paper Presentations on Applications of Robotics in INOX 2K12.
+Attended a Three-Day workshop on C and C++ Programming and Aliasing.
+Attended a One-Day One. workshop on Java and Hardware Workshop at VECW
+> Paper presentation 4G Technologies, cloud Computing, Heuristic Algorithms and Applications,
+Open Source Software.
+Multimedia presentations on Artificial Intellegence, 6th Sense, and Robotics.
+Completed training of OCA (9i, 10g) from Oracle University.
+> Attended SPARK training program in Infosys Mysore.
+> Attended System Hardware Training program at HCL, Pondicherry.
+EDUCATION
+BE in Computer Science and Engineering
+Vivekananda Engineering College for Women - Chennai, Tamil Nadu
+2013
+BTEC HNC in Aviation in Hospitality and Travel Management
+Frankfinn Institute of Airhostess Training - Calicut, Kerala
+2008
+State Board
+2007
+SKILLS
+Linux (Less than 1 year), Microsoft Office (Less than 1 year), MS OFFICE (Less than 1 year)
+problem solving (Less than 1 year)
+ADDITIONAL INFORMATION
+Skill Set
+> Excellent communication and interpersonal skills.
+> Proficient in Computer Applications -Microsoft Office Windows (Windows 2007, XP, 8, 8.1 and
+Windows 10), Linux, Fedora.
+Strong analytical and problem solving skills.
+Ability in managing a team of professionals and enjoy being in a team.

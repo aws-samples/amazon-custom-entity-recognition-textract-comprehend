@@ -1,0 +1,119 @@
+Rupesh Reddy
+Technology Consultant EIT Services India Private Limited
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Rupesh-Reddy/5402dfa9c92fb7bt
+Possessing 6.3 years of IT experience in the domain of Data warehousing/Business Intelligence.
+Remarkable experience in SAP Business objects XIR2, XI 3.1, BI4.0 and BI4.1
+Proficient in administration of Business Objects and Cognos repositories, services and servers
+for high availability of environments.
+Basic overview of Tableau Administration.
+Extensively worked on CMC, Universe Designer, Desktop Intelligence, Infoview/BI Launch pad
+and Web Intelligence.
+Experience in SAPBI 4.0/4.1 CMC, UDT, IDT, BI Launch Pad, WebI Rich client, UMT, LCM.
+Experience in Migration from XIR2, XI3.1 to SAPBI 4.0 by using Upgrade Management Tool (UMT)
+Experience in converting UNV to UNX by using Information Design Tool (IDT)
+Using the Report Conversion Tool converted Desk I reports to Web I reports in BOXI 3.1 and
+BI4.0.
+Experience in upgrading the environment from BI4.0 to BI4.1
+Web I Reports &amp; Universes were deployed from Development to Production Environment
+by using Life Cycle Management Console (LCM)
+Experience in setting up a Disaster Recovery Environment of Business Objects XIR3.1 and BI4.0
+Excellent knowledge on Cognos connection, Security and Configuration.
+Profile based Publications were created and scheduled reports to user BI Inbox.
+File &amp; Scheduled based Events were created and scheduled the reports.
+Familiarity with Root Cause Analysis, Troubleshooting and Debugging of issues in Production
+Environment.
+Extensively worked on Installation and Configuration of Business Objects.
+Experience in maintaining the environments.
+Remarkable experience in applying patches/fixes for SAP Business Objects XIR3.1 BI4.0 and
+BI4.1
+Proficient knowledge on Architecture and functioning of SAP Business Objects.
+Possess excellent communication, decision-making, problem solving, analytical and
+interpersonal skills with result oriented dedication towards goals. Capable of working as a Team
+Member or Individually with minimum supervision.
+An
+enthusiastic and project-oriented team player with solid communication, leadership skills
+and the ability to develop creative solutions for challenging client needs.
+Flexible and versatile to adapt to any new environment with a strong desire to keep pace with
+latest technologies.
+This project is upgrading Business Intelligence 4.0 environment to latest available version of
+Business Intelligence 4.1.
+Roles and Responsibilities:
+Lead the team of 8 resources in upgrading Business Intelligence 4.0 to 4.1
+Coordinating with Wintel, Data protection and Database team for the backup.
+Involving vendor in case of any installation issues.
+Configuring the environment, Scaling of the services after the installation.
+Validation the environment, testing the work flow of the reports and the client tools before
+releasing the environment to the customers.
+Fixing the issues found during end user testing, by involving vendor if needed.
+PAN Card: BBDPR2171L
+Issuing Office: Hyderabad
+Issue Date: 31-Jan 2011
+Expiry Date: 30-Jan 2021
+WORK EXPERIENCE
+Technology Consultant
+EIT Services India Private Limited
+September 2015 to Present
+Worked as Senior Systems Engineer for Infosys Limited from February 2012 to September 2015
+DXC Technology, Business objects Administrator
+EIT Services India Private Limited Bengaluru, Karnataka
+September 2015 to Present
+Project #1: State Bank of Mauritius
+Domain: Banking
+Overview:
+The business objective of this project is to have a unified reporting platform for accessing and
+analysing the data from any business systems as per the business requirement. It includes
+Development, Test, Stage and Production based Environment supporting 300+ users.
+Environment:
+Four Environments Development, Test, Stage and Production
+Clustered Environment
+Windows servers
+OS: Microsoft Windows 2008 Server
+Role &amp; Responsibilities:
+As a Team Lead currently handling 5 resources and helping them on delivery issues.
+Co-ordination with team on universe/report related issues and performance issues.
+Preparing weekly and monthly progress report.
+Upgraded the non-production environments to higher patch versions.
+Performed installation, configuration and scaling of the production environment.
+Ensure HA of the production environment. Participate and lead the DC-DR exercise.
+2 months of client facing experience, which included the production go-lives. Handled the issues
+raised post production go-live, ensured the stability of environment.
+Create and manage users, groups and folders. Ensure appropriate privileges are assigned to
+the different users.
+Suggested and implemented publication mechanism for report spooling (file location based
+triggering), which eliminated the manual report scheduling activity.
+Technical Proficiency: Understanding project related technical features, raising issues,
+proactively identifying the issues.
+Project Completeness: Timeliness of deliverable, Timely Escalation / Status updates / reports,
+Status updates of calls / requests, Problem solving, Ability to work out solutions independently.
+Independently perform complex troubleshooting, root-cause analysis, solution development.
+Interact with end users or clients to resolve issues with Business objects
+Coordinate with SAP support for patches and bug fixes.
+To manage nodes, servers and services.
+Backup and restore of Business Objects.
+Worked with Wintel and DBA team related to OS and Database related issues.
+Monitoring the Jobs and sever space availability and CPU Process.
+Deployment/Migrations of folders and objects from DEV to TEST, TEST to UAT and UAT to PROD
+environment.
+Recommend and implement of automation for known and recurring activities.
+Preparing standard operating procedures for related Business Object issues.
+Handled the basic report development and maintenance activities.
+ALM Owner: ALM (Tool for tracking and monitoring the defects raised for the UAT report related
+issues)
+HPSM Lead: HPSM (Tool for tracking and monitoring the defects raised for the PROD report
+related issues)
+Infosys Limited, Business objects Administrator
+Business objects Bengaluru, Karnataka
+February 2012 to September 2015
+Project #1: Pfizer Pharmaceuticals
+Domain: Life sciences
+EDUCATION
+B Tech in Electronics and Communication Engineering
+Sri Venkateswara College of Engineering and Technology Affiliated Anantapur, Andhra
+Pradesh
+2007 to 2011
+ADDITIONAL INFORMATION
+Soft Skills:
+Cross Cultural Sensitivity
+Written Communication Skills
+Articulation Skills
+Effective Meetings

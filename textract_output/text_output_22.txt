@@ -1,0 +1,97 @@
+Harini Komaravelli
+Test Analyst at Oracle, Hyderabad
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Harini-
+Komaravelli/2659eee82e435d1b
+6 Yrs. of IT Experience in Manual and Automation testing.
+WORK EXPERIENCE
+QA Analyst
+Oracle
+Test Analyst at Oracle, Hyderabad
+Infosys Ltd Hyderabad, Telangana
+November 2011 to February 2016
+Hyderabad from Nov 2011 to Feb17 2016
+Worked in Tata Consultancy Services, Hyderabad from Feb 24 to Apr 11 2017
+Currently working as a Test Analyst at oracle, Hyderabad
+QA Analyst with 6 years of IT experience
+Oracle
+EDUCATION
+MCA
+Osmania University
+B.Sc. in Computer Science
+Osmania University
+SKILLS
+Functional Testing, Blue Prism, Qtp
+ADDITIONAL INFORMATION
+Area of Expertise:
+Familiar with Agile Methodologies.
+Having knowledge in Energy (Petroleum) & Health Care domains.
+Involved in preparation of Test Scenarios.
+Preparing Test Data for the test cases.
+ttpsindetcoelhrintkoreravellipeseeeeleasiibeisid:e
+Experienced in development and execution of Test cases effectively.
+> Experienced in Functional testing, GUI testing, Smoke testing, Regression testing and
+Integration Testing
+Experienced in doing Accessibility testing of an application
+Ability to understand user Requirements, Functional and Design specifications.
+Good knowledge of SDLC and STLC processes.
+Deciding the Severity and Priority of bugs.
+Experience in using Microsoft Test Manager & Oracle Test Manager as Test Management Tools.
+Having good experience in testing windows based & web based applications.
+Involved in Client Interactions for reviews, issues and for any clarifications.
+Web Services Testing
+Writing Test Scripts in QTP, Testcomplete.
+Creating Object Repositories and Function Libraries in QTP.
+Enhanced QTP scripts using VB Script.
+Strong experience in working with Blue Prism tool
+Worked on different Environments like Windows Application & Web Application
+Technical Skills:
+Test Automation Tools: Blue Prism, QTP 10.0, Testcomplete
+Test Management Tool: Microsoft Test Manager, Oracle Test Manager & JIRA
+Databases: Oracle 10g, SQL Server.
+Operating Systems: Windows 7
+Project 1:
+Title: Cadence
+client: Baker Hughes
+Technologies: Microsoft Visual Studio and Microsoft Team Foundation Server
+Client Background:
+An oilfield services company delivering focused efforts on shale gas and other oilfield services.
+It provides services, tools and software for drilling and formation evaluation, well completion,
+production management, seismic data collection and interpretation.
+Project Description:
+AUT (Application under test) is the next generation revolutionary, robust, easy to use scalable
+well site data acquisition processing and interpretation system for client's Drilling Services to
+deliver services that meets cross divisional business requirements consistently.
+Project 2:
+Description:
+Paragon supports your entire care team with one tool that your clinicians need to help deliver
+the best patient care. Designed by physicians, nurses, pharmacists and mid level providers that
+have a first-hand understanding of clinical workflow needs, Paragon clinical applications allow
+your caregivers to focus on what matters most; spending time caring for patients. Since Paragon
+is fully-integrated across all applications and built around a single patient database, information
+entered anywhere in the system is immediately available to the entire care team. Immediate
+access not only helps clinicians make better treatment decisions it also helps promote patient
+safety. Paragon offers a broad suite of multidisciplinary clinical software solutions together with
+anytime, anywhere access to the complete patient record.
+Responsibilities:
+Performed Smoke testing and Regression testing.
+Involved in Generating and Executing Test Script using Quick Test Pro & Blue Prism
+Usability and User Interface Testing.
+Involved in Defect tracking and reporting the bugs using TFS
+Participated in frequent walk-through meetings with Internal Quality Assurance groups and with
+development groups.
+Participated in client calls and clarifying the doubts by having AT&T sessions
+Involved in functional, regression and smoke testing to validate the application data changes
+done in windows application
+Certifying the build status by running the scripts as part of smoke testing
+Project 3:
+Description:
+Food & Beverages R&A: Easily manage business across multiple locations while reducing IT
+cost and complexity. cloud-based point-of-sale (POS) solutions enable centralized enterprise
+management with lower upfront costs and a smaller footprint.
+Responsibilities:
+Performed Functional testing and Regression testing.
+Involved in Generating and Executing Test Scripts using Blue Prism tool and Open script
+Involved in preparing bots using Blue Prism tool.
+Accessibility testing of the web application
+Involved in Defect tracking and reporting the bugs using JIRA
+WebServices testing by calling API's to export the data

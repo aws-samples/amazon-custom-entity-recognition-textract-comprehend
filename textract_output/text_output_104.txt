@@ -1,0 +1,147 @@
+Anurag Asthana
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Anurag-Asthana/ea7451b2bdb6115e
+Looking forward for joining a company where my creative thinking and excellent skills in
+application development using modern development tools will be utilized.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Infosys LTD - MAHARASHTRA, IN -
+April 2017 to Present
+Location: Pune, India
+Client: Insurance Client from London
+Duration: April 2017 -Till Date
+Technology/Tools: Microsoft SharePoint 2013, Azure Cognitive Services, Azure Service Bus, Azure
+Blob Storage, .net framework 4.7
+Responsibilities:
+Independently worked on designing solution architecture of the project.
+Lead team from technical front in all the components built
+Followed Agile development approach to efficiently manage continuous development process
+and incremental requirement changes
+Design SharePoint components using SharePoint CSOM and net framework 4.7
+Design Azure components using azure net sdks and net framework 4.7
+Implement Micro Services architecture using Azure Service Bus
+Project Title: SharePoint 2013 Application Development and Enhancement
+Infosys LTD - London
+-
+February 2017 to March 2018
+Infosys LTD - MAHARASHTRA, IN -
+August 2015 to January 2017
+SharePoint Designer
+Microsoft SharePoint -
+2017 to 2017
+2013, Nintex.
+Responsibilities:
+Investigated and identified requirements via process flows, use cases communicated with
+Subject Matter Experts to define system requirement.
+Suggested improvements to be included into new system for Skills Alignment Portal
+Followed Agile development approach to efficiently manage continuous development process
+and incremental requirement changes
+Independently designed, developed and delivered multiple forms and workflows over
+SharePoint 2013 start from scratch using Nintex
+Designed and Implemented useful components using SharePoint out-of-the-box capabilities and
+SharePoint REST web service
+Utilized SharePoint APPs technology to create custom enhancements on current sites for
+customer satisfaction and efficiency
+Developed underwriting support applications using asp.net MVC / Web API.
+Infosys LTD - MAHARASHTRA, IN -
+December 2013 to July 2015
+Enterprise IT Support
+Infosys LTD - MAHARASHTRA, IN -
+September 2013 to November 2013
+Location: Pune, India
+Client: 0il and Gas Client from USA
+Duration: September 2013 - November 2013
+Infosys LTD - MAHARASHTRA, IN -
+June 2013 to August 2013
+Location: Pune, India
+Client: Oil and Gas Client from USA
+Duration: June 2013 - August 2013
+Infosys LTD - MAHARASHTRA, IN -
+February 2013 to May 2013
+Infosys LTD - MAHARASHTRA, IN
+November 2012 to January 2013
+Location: Pune, India
+Client: Infosys Ltd.
+Duration: November 2012 - January 2013
+SharePoint Designer, Avepoint Docave
+Microsoft SharePoint
+2012 to 2012
+6.
+Responsibilities:
+Responsible for creating SharePoint hosted apps.
+Responsible for developing web services [WEB API's].
+Responsible for creating ECMA scripts.
+Responsible for creating console applications using SharePoint Client Object Model.
+Responsible for migrating SharePoint MOSS 2007 sites to SharePoint 2013 using Avepoint
+Docave.
+Responsible for developing remote site provisioning mechanism using CSOM
+Responsible for creating provider hosted apps using asp.ne mVc.
+Project Title: Operating System
+Microsoft Fast Search, SharePoint Designer
+Microsoft SharePoint
+2010 to 2010
+Responsibilities
+Responsible for maintaining database of the project.
+Responsible for designing page layouts.
+Responsible for creating ECMA scripts.
+Responsible for creating console applications using SharePoint Client Object Model.
+Responsible for creating SSIS solution to import data from multiple sources using SharePoint
+web services.
+Responsible for creating custom SharePoint alerts using SSIS solution.
+Responsible for creating SSRS solution to create Dashboards.
+Responsible for creating Stored Procedures and Functions used for various operations.
+Responsible for customizing list forms.
+Responsible for creating Search pages using Microsoft FAST search 2010.
+Microsoft SharePoint -
+2010 to 2010
+Responsibilities:
+Responsible for fixing bugs in SharePoint applications
+Responsible for automating bug fixing process.
+Responsible for interacting with clients for understanding business requirements.
+Responsible for enhancing SharePoint application as per business requirements.
+Identifying limitations and suggesting appropriate solutions.
+Microsoft InfoPath Designer
+Microsoft SharePoint -
+2010 to 2010
+2010, Microsoft SharePoint Designer 2010, Microsoft Office 2010.
+Responsibilities:
+Responsible for creating multiple custom lists and document libraries.
+Responsible for creating and customizing InfoPath forms and associating it with document
+libraries.
+Responsible for creating SharePoint Designer Workflows.
+Responsible for customizing list forms and views.
+Responsible for creating Excel reports in SharePoint.
+Project Title: 5 Day close Monitoring Tool
+Technology/Tools: Microsoft SharePoint 2010, Microsoft SQL Server 2008 R2, Microsoft Visual
+Studio 2010, Microsoft InfoPath Designer 2010, Microsoft SharePoint Designer 2010, Microsoft
+Office 2010
+Responsibilities:
+Responsible for creating custom lists, document libraries, SharePoint groups.
+Responsible for creating custom permission levels in SharePoint and defining permission
+policies on lists, libraries and web parts.
+Responsible for maintaining database of the project.
+Responsible to create SSIS packages.
+Responsible to create power pivot reports.
+Responsible for creating dashboards on SharePoint site using Power Pivot library.
+Responsible for creating tool for generating power pivot reports on multiple servers.
+Microsoft Designer
+Microsoft SharePoint
+2010 to 2010
+2010.
+Responsibilities:
+Responsible for creating multiple custom lists and document libraries.
+Responsible for creating and customizing InfoPath forms and associating it with document
+libraries.
+Responsible for creating SharePoint Designer Workflows.
+Responsible for customizing list forms and views.
+Responsible for creating custom permission levels and applying it to various lists and libraries.
+EDUCATION
+Bachelor of Technology in Information Technology
+Graphic Era University - Dehra Dun, Uttarakhand
+May 2012
+Senior Secondary - Kashipur, Uttarakhand
+2008
+SKILLS
+MICROSOFT SHAREPOINT (7 years), SHAREPOINT (7 years), .NET (6 years), MICROSOFT VISUAL
+STUDIO (6 years), VISUAL STUDIO (6 years)
+ADDITIONAL INFORMATION
+SKILLS

@@ -1,0 +1,107 @@
+Ashok Kunam
+Team Lead Microsoft
+Email me on Indeed: indeed.com/r/Ashok-kunam/7aac8767aacf1oal
+Software Engineering professional with over 2.5 years of experience in development,
+enhancement, integration, implementation and maintenance of software applications using
+Oracle
+Served some of the major clients such as Microsoft, Cisco, Oracle Eloqua, iTalent
+Knowledge of Operating Systems (OS) coding techniques, Internet Protocol (IP), interfaces and
+hardware subsystems, reading schematics and data sheets for components
+Expertise in Java, J2EE, hibernate, spring, PHP, Nifi, Angular JS, JavaScript, JQuery, REST Web
+services, Jive, Lithium
+Successfully developed cloud based connectors using REST Web services and JIVE custom tiles
+plugins
+Proficient in end-to-end implementation of various projects; including designing, development,
+coding, debugging, analyzing the logs & implementation of software applications
+Proven skills of understanding business requirements and translating them into technical
+specifications
+Possess interpersonal, analytical and negotiation skills with proven track record of utilizing a
+process-oriented approach towards the accomplishment of cost, profit, service & organizational
+goals
+WORK EXPERIENCE
+Team Lead
+Microsoft
+July 2017 to Present
+Environment: Java 1.8, Spring MVC, Hibernate, REST API Calls, Power BI desktop tool, Lithium
+Bulk data API, SQL Server, Maven, Log 4j, Git, JIRA, Scrum
+Role: Team Lead
+Period: July '17 Till Date
+Description: Power BI deployed on Lithium Community, 7, 000 Power BI users can collaborate
+and transfer the knowledge among them. On an average 150 k activity per day in the community.
+cloud Connector is required to fetch the all the activities from the community and perform data
+mining and preserve into database as report generator format
+Highlights:
+Provided support in the total software development life cycle of the project
+Implemented cloud connector to read the Lithium bulk data API, parse the data and inserted
+it into SQL Server
+Generated views as per requirements & prepared Power BI reports
+Organization: iTalent Corporation
+Title: MyiTalent
+Client: iTalent
+Environment: Java 1.8, PHP, REST API Calls, hibernate, Angular JS, CSS, MySQL, Maven, Log
+4j, Git, JIRA, Linux
+Role: Team Lead
+Period: July '17 Till Date
+Description: Instantly find and hire the right candidate for your job opening. With MyiTalent,
+corporate human resource managers and hiring managers can now easily manage the hiring
+process with their recruiters. Review and select from pre-screened candidates that match your
+requirements. Find and identify experts within your company. Browse project scope of work and
+details, including budget information. Collaborate with your own personal recruiter at all times.
+Provide feedback on candidates and projects
+Highlights:
+Developed PHP Backend Services
+Implemented ZOHO integration for jobs and candidates using REST web services
+Created Cron Job to fetch candidates from ZOHO
+Organization: iTalent Corporation
+Title: CSC
+client: Cisco
+Environment: Java 1.8, Spring MVC, Hibernate, REST API Calls, Lithium Bulk data API, MySQL,
+Maven, Log 4j, Git, JIRA, Scrum
+Role: Team Lead
+Period: July '17 Till Date
+Description: Migration from Drupal community to the Lithium Community which is enhanced
+with custom cloud search using Attivio.
+Highlights:
+Provided support in the total software development life cycle of the project
+Implemented cloud connector to read the Lithium bulk data API, parse the data and inserted
+it into SQL Server
+Generated views as per requirements & prepared Power BI reports
+EDUCATION
+Bachelor of Technology in ECE
+Jawaharlal Nehru Technology University - Kakinada, Andhra Pradesh
+2014
+SKILLS
+database (Less than 1 year), Git (Less than 1 year), Java (Less than 1 year), JIRA (Less than 1
+year), life cycle (Less than 1 year)
+LINKS
+ttps://ww.linkedin.com/in/ashok-kuna-85a845ae
+tps://ww.linkedin.con/inashok.kunai-85a845a8
+ADDITIONAL INFORMATION
+Technical Skills
+Programming Languages: Java & J2EE, PHP, Apache Nifi, SOAP Web Services, Rest Web Services,
+Jackson-2
+Framework's: Spring, Hibernate, Junit, Mockito
+Database: MYSQL, SQL Server, Oracle
+App/Web Servers: Tomcat, Apache
+Operating Systems: Windows, Linux
+SKM: Lithium
+Tools: Git, JIRA, Eclipse, putty
+Knowledge Purview
+Methodologies and Principles:
+Code Generation Tools
+Documentation Generation
+Inversion of Control
+Iterative Development
+Object Oriented Programming
+Deployment
+Agile
+Professional Experience
+Core Competencies
+- Requirement Gathering
+- Deployment & Support
+- Project Management
+Software Development Life Cycle
+- Delivery Management
+- Quality Assurance
+- Application / Software Development
+- Liaison & Coordination

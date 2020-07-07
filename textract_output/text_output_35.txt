@@ -1,0 +1,50 @@
+Khushboo Choudhary
+Developer
+Noida, Uttar Pradesh - Email me on Indeed: indeed.com/r/Khushboo-choudhary/
+b10649068fcdfa42
+To pursue a challenging career and be part of a progressive organization that gives scope to
+enhance my
+knowledge, skills and to reach the pinnacle in the computing and research field with sheer
+determination,
+dedication and hard work.
+WORK EXPERIENCE
+Developer
+SAP ABAP Noida, Uttar Pradesh
+January 2018 to May 2018
+SAP ABAB 7.4 Noida, Uttar
+(5 months) Pradesh
+Technical Proficiency
+1. SAP ABAP 7.4 2. OOPS
+3. DBMS 4. Core Java
+5. C/C++ 6. Data Structures
+Roles and Responsibilities
+Creating report generating modules.
+Creating interactive modules for trainers to train.
+Official Projects
+1. Uploading file from non-sap system to sap system using BAPI.
+2. Uploading excel data using BDC.
+3. Generating Adobe forms.
+4. Creating smart forms for order purchasing.
+5. Automatic email sending module using workflow.
+6. Creating classical reports.
+7. Creating function module.
+EDUCATION
+B. .Tech in CSE
+MM University
+2013 to 2017
+CBSE
+Paratap Public School Karnal, Haryana
+December 2011
+CBSE in Technology Used
+Silver Bells Public School - Muzaffarnagar, Uttar Pradesh
+October 2009
+Engineering College
+SKILLS
+ANDROID (Less than 1 year), CISCO (Less than 1 year) NETWORKING (Less than 1 year)
+ADDITIONAL INFORMATION
+Development Skills.
+May 2016 1.5 Learned about "Basic Networking" using Cisco MMEC, Mullana
+Packet Tracer.
+June, 2015 2 Built an application which have functionality of Solitaire Infosys inc.
+converting a text into speech using text to speech class Mohali, India
+named "kid'z speak" using Android.

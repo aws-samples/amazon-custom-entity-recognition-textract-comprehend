@@ -1,0 +1,104 @@
+Dushyant Bhatt
+BI / Big Data/ Azure
+Hyderabad-Deccan, Telangana, Telangana Email me on Indeed: deed.com/r/Dushyant
+Bhatt/140749dace5dc26f
+10+ years of Experience in Designing, Development, Administration, Analysis, Management in
+the Business Intelligence Data warehousing, client Server Technologies, Web-based Applications,
+cloud solutions and Databases.
+Data warehouse: Data analysis, star/ snow flake schema data modeling and design specific to
+data warehousing and business intelligence environment.
+Database: Experience in database designing, scalability, back-up and recovery, writing and
+optimizing SQL code and Stored Procedures, creating functions, views, triggers and indexes.
+cloud platform: Worked on Microsoft Azure cloud services like Document DB, SQL Azure, Stream
+Analytics, Event hub, Power BI, Web Job, Web App, Power BI, Azure data lake analytics(u-SQL
+Big Data: Worked Azure data lake store/analytics for big data processing and Azure data factory
+to schedule U-SQL jobs. Designed and developed end to end big data solution for data insights.
+BI:
+O ETL: Designed and developed ETL solution in SSIS. Experience in Logging, Error handling,
+configuration, deployment, troubleshooting and performance tuning of SSIS Packages.
+O
+Reporting: Experience in all the Latest Reporting Tools like Tableau Data visualization, Power
+BI and SSRS 2012. Act as a Point of Contact in Data Interoperability, Analytics and BI and
+Production Support issue resolution. Experience in Developing Performance Dashboards, Score
+cards, Metrics, what if analysis, Prompts, Drills. Reports/Dashboards for all the functional areas
+including Finance, Pricing, Purchasing and Sales/Marketing.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Software Engineer
+Microsoft hyderbad, Telangana
+December 2015 to Present
+1. Microsoft Rewards Live dashboards:
+Description: Microsoft rewards is loyalty program that rewards Users for browsing and shopping
+online. Microsoft Rewards members can earn points when searching with Bing, browsing with
+Microsoft Edge and making purchases at the Xxbox Store, the Windows Store and the Microsoft
+Store. Plus, user can pick up bonus points for taking daily quizzes and tours on the Microsoft
+rewards website. Rewards live dashboards gives a live picture of usage world-wide and by
+markets like US, Canada, Australia, new user registration count, top/bottom performing rewards
+offers, orders stats and weekly trends of user activities, orders and new user registrations. the
+PBI tiles gets refreshed in different frequencies starting from 5 seconds to 30 minutes.
+Technology/Tools used
+Event hub, stream analytics and Power BI.
+Responsibilities
+Created stream analytics jobs to process event hub data
+sliirteioiosryanttlatuaosicesitireisiereriomtaadti
+sliminieroioisyattlatuenesieseerisiterortolealil
+Created Power BI live dashboard to show live usage traffic, weekly trends, cards, charts to show
+top/bottom 10 offers and usage metrics.
+2. Microsoft Rewards Data Insights:
+Description: Microsoft rewards is loyalty program that rewards Users for browsing and shopping
+online. Microsoft Rewards members can earn points when searching with Bing, browsing with
+Microsoft Edge and making purchases at the Xbox Store, the Windows Store and the Microsoft
+Store. Plus, user can pick up bonus points for taking daily quizzes and tours on the Microsoft
+rewards website. Rewards data insights is data analytics and reporting platform, processes 20
+million users daily activities and redemption across different markets like US, Canada, Australia.
+Technology/Tools used
+Cosmos (Microsoft big-data platform), C#, X-flow job monitoring, Power BI.
+Responsibilities
+Created big data scripts in cosmos
+C# data extractors, processors and reducers for data transformation
+Power BI dashboards
+3. End to end tracking Tool:
+Description: This is real-time Tracking tool to track different business transactions like order,
+order response, functional acknowledgement, invoice flowing inside ICOE. It gives flexibility to
+customers to track their transactions and appropriate error information in-case of any failure.
+Based on resource based access control the tool gives flexibility to end user to perform different
+actions like view transactions, search based on different filter criteria and view and download
+actual message payload. End to end tracking tool stitches all the business transaction like order
+to cash flow and connects different hops inside ICOE like gateway, routing server, Processing
+server. It also connects different systems like ICOE, partner end point and SAP.
+Technology/Tools used
+Azure Document db, Azure web job and Web APP, RBAC, Angular JS.
+Responsibilities
+Document dB stored procedures.
+Web job to process event hub data and populate Document db
+Web App API.
+Stream analytics job to transform data
+Power BI reports
+4. Biztrack Tracking Tool:
+Description: - This is real-time Tracking tool to track different business transactions like order,
+order response, functional acknowledgement, invoice flowing inside ICOE. It gives flexibility to
+customers to track their transactions and appropriate error information in-case of any failure.
+Based on resource based access control the tool gives flexibility to end user to perform different
+actions like view transactions, search based on different filter criteria and view and download
+actual message payload.
+Technology/Tools used
+SQL server 2014, SSIS, .net API, Angular JS.
+Responsibilities
+ETL solution to transform business transactions data stored in Biztalk tables.
+SQL azure tables, stored procedures, User defined functions.
+Performance tuning.
+Web API enhancements.
+EDUCATION
+Saurashtra University - Morbi, Gujarat
+2007
+SKILLS
+problem solving (Less than 1 year), project lifecycle (Less than 1 year), project manager (Less
+than 1 year), technical assistance. (Less than 1 year)
+ADDITIONAL INFORMATION
+Professional Skills
+Excellent analytical, problem solving, communication, knowledge transfer and interpersonal
+skills with ability to interact with individuals at all the levels
+Quick learner and maintains cordial relationship with project manager and team members and
+good performer both in team and independent job environments
+Positive attitude towards superiors &amp; peers
+Supervised junior developers throughout project lifecycle and provided technical assistance.

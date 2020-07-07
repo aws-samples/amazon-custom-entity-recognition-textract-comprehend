@@ -1,0 +1,65 @@
+Ahmad Bardolia
+Project Lead for Infosys OpenStack
+Email me on Indeed: indeed.com/r/Ahmad-Bardolia/se2c49ease7dcd27
+OpenStack cloud implementation as a Project Lead for Infosys Openstack triplo (Redhat
+Director) Private cloud with OpenShift in India
+OpenStack cloud implementation as a Project Lead for Makemytrip OpenStack Private cloud
+in India
+Openstack cloud implementation as a Project Lead for Solartis (Chennai, Madurai) OpenStack
+Private cloud in India
+Team member of OpenStack Private cloud deployment of Cisco USA
+Deployed Private cloud using OpenStack for Government (Bangalore Police) cloud data center
+6 POC on OpenStack private cloud
+3 production cloud deployments using OpenStack and kvm
+Virtualization: Hyper-V, Esxi, KVM, Citrix Xen Server
+cloud: AWS, Azure, Google cloud Platform (GCP), OpenStack, Red hat cloud Director
+AWS cloud skills: EC2, EBS, Autoscaling, S3, cloud formation, RDS, DynamoDB, Route 53, AWS
+API, AWS python SDK, SNS, SQS, SWF, workspaces, Beanstalk, AWS redshift, AWS Elastic Map
+reduce
+cloud foundry: Developer and Deploying Pivotal cloud foundry on AWS, Google
+OpenShift Enterprise: Implementing Redhat Openshift Enterprise on Premise or on OpenStack
+or on AWS, Azure, OR on Openstack
+Azure cloud Skills: Virtual machines, Azure Active Directory, Traffic Manager, Azure Storage,
+Azure storage, Azure networking, Implementing Azure solutions
+Google cloud Skills: hands on knowledge on Google compute engine, Migration to Google cloud,
+GCP Container Engine-An Overview, GCP Container Registry, GCP cloud Storage, GCP cloud
+Datastore, GCP cloud SQL, GCP Networking, Load Balancing, GCP cloud DNS, GCP cloud
+Dataproc ( Big Data service), GCP cloud IAM
+Automation: Chef, Puppet and ansible essential
+Paas skills: Pivotal cloud foundry, Redhat OpenShift
+Docker Skills: Docker essentials and Docker swarm advanced, Docker cloud, Docker cloud data
+center, GitHub integration for Docker, Kubernetes.
+Version control: GitHub, Bit Bucket
+DevOps Skill: Jenkins, Maven, SonarQube, Teamcity, Octopus, JFrog, Nexus
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Project Lead for Infosys Openstack
+OpenStack cloud Chennai, Tamil Nadu
+OpenStack Private cloud in India
+Team member of OpenStack Private cloud deployment of Cisco USA
+Deployed Private cloud using Openstack for Government (Bangalore Police) cloud data center
+6 POC on OpenStack private cloud
+3 production cloud deployments using OpenStack and kvm
+Virtualization: Hyper-V, Esxi, KVM, Citrix Men Server
+cloud: AWS, Azure, Google cloud Platform (GCP), Openstack, Red hat cloud Director
+AWS cloud skills: EC2, EBS, Autoscaling, S3, cloud formation, RDS, DynamODB, Route 53, AWS
+API, AWS python SDK, SNS, SQS, SWF, workspaces, Beanstalk, AWS redshift, AWS Elastic Map
+reduce
+cloud foundry: Developer and Deploying Pivotal cloud foundry on AWS, Google
+OpenShift Enterprise: Implementing Redhat OpenShift Enterprise on Premise or on Openstack
+or on AWS, Azure, OR on Openstack
+Azure cloud Skills: Virtual machines, Azure Active Directory, Traffic Manager, Azure Storage,
+Azure storage, Azure networking, Implementing Azure solutions
+Google cloud Skills: hands on knowledge on Google compute engine, Migration to Google cloud,
+GCP Container Engine-Ar Overview, GCP Container Registry, GCP cloud Storage, GCP cloud
+Datastore, GCP cloud SQL, GCP Networking, Load Balancing, GCP cloud DNS, GCP cloud
+Dataproc ( Big Data service), GCP cloud IAM
+Automation: Chef, Puppet and ansible essential
+Version control: GitHub, Bit Bucket
+Devops Skill: Jenkins, Maven, SonarQube, Teamcity, Octopus, JFrog, Nexus
+EDUCATION
+Master's
+SKILLS
+Sql Server, cloud Computing, Openstack, Openshit, AWS, GCP, Azure, Cloustack, KVM, Hyper- -
+V, Citrix Xen Server, ESXi, Chef, Ansible, Jenkins, Maven, Sonar Qube, Nexus, Teamcity, Octopus,
+(3 years)

@@ -1,0 +1,68 @@
+Nikhileshkumar Ikhar
+Product development engineer with 7+ years of experience with
+M.Tech. in IT. Successfully developed & deployed, platform & behaviour
+design strategies in well-established corporations as well as emerging
+startups.
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Nikhileshkumar-Ikhar
+cb907948c3299ef4
+Willing to relocate to: Hyderabad, Telangana - Mumbai, Maharashtra
+WORK EXPERIENCE
+Product Development
+Aggrigator Bengaluru, Karnataka
+2015 to Present
+Aggrigator is Stanford incubated startup. It is an agriculture-based online marketplace in US B2B
+market.
+First non-co-founding engineer to come on board reported directly to CTO.
+Developed Reverse Auction Engine. A farmer would bid for their SKU and engine would pick
+farmer based on bidding and capacity.
+Developed Palletization engine. A pallet can have multiple SKU boxes from multiple buyers. The
+engine generates a packing sequence of boxes in pallets in a truck container according to the
+delivery route.
+Developed prototype to categorize SKU with Deep learning.
+Owned delivery of functionalities development, behavioural nudges, shaping of platform business
+model, aligning of product development to business.
+Architected, designed & deployed websites, database, UI/UX to facilitate farm fresh produce
+procurement & delivery to end consumers. Owned and developed various features like,
+Inventory management plays a big role in optimizing cold storage, warehouse and trucking
+requirement. It helped in reducing crop wastage.
+Invoicing of sold crops and tracking payments.
+Order tracking for buyer and seller.
+Fetching USDA price list daily via a web crawler.
+Generating various reports in online, CSV and PDF format.
+Worked with technologies like Python, Django, Celery, MySQL, MongoDB, Ubuntu, Neural
+Network.
+First, six months employer was Above Solutions.
+Software Engineer
+Cisco Bengaluru, Karnataka
+2012 to 2015
+Owned and developed several products to help network migration, upgradation, tracking bugs,
+tracking
+tsineiooeliilesrunthareisaweeteisier
+vulnerabilities.
+Presented several proofs of concept for new business requirement.
+Worked on various technologies such as Python, Java, Django, Celery, Cisco routers, SDN,
+OnePk & Hadoop.
+Worked on network migration during intern
+Cisco
+January 2012 to June 2012
+System Engineer
+Infosys Pune, Maharashtra
+2008 to 2010
+Worked as an SAP Basis consultant. Organised various in house events.
+EDUCATION
+M.Tech. in IT in VIT, Pune
+IIIT - Bengaluru, Karnataka
+2010 to 2012
+SKILLS
+Django (6 years), Java (3 years), MongoDB (3 years), MySQL (3 years), Python (6 years)
+LINKS
+http://github.com/nik-hil
+http://linkedin.com/in/nikha
+ADDITIONAL INFORMATION
+Skills
+Python, Django, Celery, Java, AngularJs HTML, Bootstrap 3, Shell Script, MySQL, MongoDB,
+Ubuntu
+Business Skills
+Platform business model, Behaviour design
+http://github.com/nik-hil
+http://linkedin.com/in/nikhar

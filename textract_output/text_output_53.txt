@@ -1,0 +1,71 @@
+Pradeeba V
+LEAD ENGINEER CISCO
+Email me on Indeed: indeed.com/r/Pradeeba.v/19ff20f4b8552375
+WORK EXPERIENCE
+LEAD ENGINEER
+CISCO
+June 2014 to Present
+PROJECT SPECIFIC SKILLS JAVASCRIPT, 00JS, HTML5, CSS3, REST, DOJO,
+Angular JS
+TOOLS USED SVN, Code Collaborator
+Description:
+Cisco Prime Infrastructure simplifies the management of wireless and wired networks. The Prime
+UI
+offers Prime Widget Toolkit (XWT) which provides dojo widgets. The UI supports HTML 5 features.
+The
+Prime UI offers rich UI experience which includes consistency, better look and feel and scalable
+designs to handle large volume of data.
+Responsibilities:
+Creating Widgets in dojo
+Enhancement of existing widget
+Handling REST calls
+Writing Test cases
+Unit Testing
+2. Project Title FINUX
+INDUSTRY FINACLE BANKING
+SENIOR SYSTEMS ENGINEER
+June 2012 to June 2014
+PROJECT SPECIFIC SKILLS JAVASCRIPT, DOJO, CSS, HTML
+Description:
+Finacle is a core banking software package. It is used by multiple banks across several countries,
+it can
+handle multi-currency transactions.
+ttpsindercoeipraceea-v/ioff2f4besasTsisit-rer-tomn
+To achieve the common look and feel for all the screens where the interaction done with the
+user in the form of getting input values as well as retrieval of some kind of data and display of
+such data.
+I was totally involved in developing the Datagrid UI component in DOJO to display the search
+results which are obtained as a result of inquiring the transactions.
+Responsibilities:
+Front end enhancements for the Core product.
+Discussing and finalizing the end UI screens with Functional and Design teams.
+Writing front end and back end validation routines.
+Regression testing for menus using Service Testing Framework.
+3. Project Title FINACLE
+INDUSTRY BANKING
+CLIENT Universal Banking Product from INFOSYS
+SYSTEMS ENGINEER
+October 2011 to May 2012
+PROJECT SPECIFIC SKILLS JAVASCRIPT, DOJO, CSS, HTML
+Description:
+Finacle is a core banking software package. It is used by multiple banks across several countries,
+it can
+handle multi-currency transactions.
+Being a part of Finacle team, I had involved in making the front end enhancement for Core
+product.
+Responsibilities:
+Front end enhancements for the Core product.
+Bug Fixing
+EDUCATION
+B. Tech
+Institute of Road and Transport May
+October 1980
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Programming Languages: Core Java
+Scripting languages: Javascript, 00JS
+Databases: Oracle
+Operating systems: Windows (7, XP) and UNIX
+Tools & Utilities: Eclipse, SSH, WinSCP, Code Collaborator, SVN
+Web Designing Tools: HTML 4, HTML 5, CSS 3, DOJO, Angular JS
+Web Service: REST Web services

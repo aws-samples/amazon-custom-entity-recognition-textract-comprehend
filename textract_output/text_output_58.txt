@@ -1,0 +1,91 @@
+Pulkit Saxena
+New Delhi, Delhi Email me on Indeed: indeed.com/r/Putkit-saxena/ad3f35bfe88a041
+I have a high degree of technical competence, a strong learning aptitude and an excellent
+work ethic. I am a technical expert in a number of network areas, in particular connectivity,
+performance, scalability and security. As an articulate communicator, I have ability to influence
+people at every level by ensuring that issues are discussed, conflicts are resolved and the best
+solutions are delivered. In my current role I work with the rest of the team to ensure the successful
+delivery and operation of all supported services. Right now, I would like to join a growing company
+that wants to recruit proven and experienced IT people.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Cisco Samba, Jammu and Kashmir
+2000 to 2000
+Ample knowledge in Windows 98 Me 1 Xp 2000 \ Server 2003 \Server 2008 \Server
+2008r2\Server 2012
+Active directory management, NTFS security, disk quota management
+Good understanding of OSI Model, TCP/IP protocol suite (IP, ARP, ICMP, TCP, UDP, RARP, FTP,
+TFTP)
+Ample understanding of Bridging and switching concepts and LAN technologies
+IP addressing and subnetting, Routing concepts
+Sound knowledge of routing protocols RIP V1/V2, OSPF, IGRP & EIGRP
+Switches: Basic Configuration & VLAN setup on Cisco 1900, 2950, 2960 Switches &
+Troubleshooting.
+Router: Basic Configuration & monitoring of Cisco 2500, 2600, 1800
+Vlan: configuration, switching isl, dotlq
+Cisco Firewall 5500 Series: Configuration and policies Setup and Troubleshooting.
+Back-up and restore of all critical resources including router & switches IOS, Outlook, DHCP,
+DNS.
+Functioning knowledge of wan solution, protocol HDLC, PPP
+Working knowledge of, DHCP Server, DNS Server, ADDS, Proxy Server on Linux and Complete
+Knowledge on Windows
+Security administration port security on switch and IP security on Router via Access list
+Familiar with web technology HTML CSS
+Setting up Secure NFS Servers with multiple Clients for File and Disk sharing.
+Setting up SAMBA servers, to enable Windows clients to communicate with Linux without the
+need of additional software on the Windows side.
+Configuring NIS Servers for Centralized and secure Password and Login Management
+Linux user management creating, changing group, and assign permission on resources
+Recover of root password securing terminals
+Hardware
+Computer assembling and maintenance.
+Troubleshooting hardware and software problems.
+Installing and configuring the peripherals, components and drivers.
+Installing software and application to user standards.
+EDUCATION
+MCL in Computer Application
+IGNOU
+BACHELOR'S IN SCIENCE in COMPUTER NETWORKING
+Karnataka State University
+Computer Networking
+Aptech Institute of Technology
+Computing
+Aptech Institute of Technology
+SKILLS
+Firewall (1 year), HTML (1 year), MICROSOFT WINDOWS (1 year), Router (1 year), security. (1
+year)
+ADDITIONAL INFORMATION
+SKILLS
+A computer expert with hardware and software grab.
+Administration and Back-end handling (Technical) on overall basis of the Branch.
+Convincing people tactfully so as to make the company an option for the user.
+AREAS OF EXPERTISE
+Server administration
+Technical documentation
+Network security
+Network management
+Data backups
+Disaster recovery
+Cisco Router
+Cisco Switch
+Network management
+Switching
+Routers
+Firewalls
+Firewall principles
+Remote Access
+PROFESSIONAL
+ACESE RIM
+MICROSOFT Certified
+ADDITIONAL SKILLS
+ADVANCED MS OFFICE (WORD, POWERPOINT, EXCEL, ETC.)
+ADOBE PHOTOSHOP, READER X, ACROBAT, COREL DRAW, MICROMEDIA FLASH ETC.
+JAVA NETBEANS, SQL, HTML, CMD PROMPT, ETC.
+FAMILIAR WITH ALL SORTS OF WINDOW SETS AND WEB BROWSERS.
+ALL KINDS OF UTILITY SOFTWARES AND HARDWARE OPTIONS TO INCREASE EFFICIENCY AND
+EFFECTIVENESS IN WORKING.
+COMPLETE KNOWLEDGE OF MICROSOFT EXCHANGE SERVER 2012.
+CAN DEVELOP WEBSITES BASED ON HTML, PHP ETC.
+BASIC KNOWLEDGE OF ANDROID AND MAC APPLICATIONS.
+COMPLETE KNOWLEDGE OF SERVER AND CLIENT BASED ENVIRONMENT
+BASIC KNOWLEDGE OF MICROSOFT WINDOWS FIREWALL

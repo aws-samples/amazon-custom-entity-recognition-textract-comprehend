@@ -1,0 +1,111 @@
+Prasanna Ignatius
+MICROSOFT Backup Administrator
+Chennai, Tamil Nadu Email me on Indeed: indeed.com/r/Prasanna-
+Ignatius/1404633e9449f641
+System's Engineering Professional with 08 Years 09 Months of Experience in Wipro InfoTech
+(From June 2008 to May 2014) and HCL Technologies (From May 2015 to April 2018) mostly as
+a Backup Administrator.
+Have Experience in Helpdesk, User Lifecycle Management (ULM) otherwise known as Access
+Management Team, Desktop Support, Remote Support, Data Center Operations and Backup
+Management.
+07 Years 06 Months of Experience in Data Protection Manager (DPM) and 05 Years in EMC Legato
+Networker.
+Having hands on Experience in Sun Solaris 9 & Microsoft Windows Server 2000, 2003
+& 2008 R2.
+Expertise in concepts of end-to-end program planning and implementation from scope
+management, to activity sequencing, risk analysis to quality management in adherence to quality
+guidelines and norms.
+Technical Support, Troubleshooting, Debugging & Impact Analysis.
+A technology driven professional with 08+ Years of Experience in the areas of System
+Implementation and Maintenance.
+An effective Team Player with people management, demonstrating strong analytical, problem
+solving & co-ordination skills and ability to follow through with projects from inception to
+completion.
+Highly self-motivated and goal-oriented professional committed to pursuing a long-tern career.
+Possess strong communication, collaboration & team building skills with proficiency at
+grasping new technical concepts quickly & utilize the same in a productive manner.
+Maintained project workbooks and responsible for internal quality audits for the account.
+Experienced Backup Administrator familiar with formulating organizational archive policies.
+Ready to apply learned skills to any corporate decision making process in regard to protecting
+data.
+Can research problem solve and communicate the best ways to perform and coordinate tasks
+throughout the organization.
+WORK EXPERIENCE
+Backup Administrator
+HCL
+May 2015 to April 2018
+Mostly worked as a Backup Administrator
+MICROSOFT Backup Administrator
+HCL TECHNOLOGIES Hyderabad, Telangana
+May 2015 to November 2017
+data using Symantec Backup Exec. Moved 300+ Assets successfully from one location to another
+which includes Servers and Storages.
+ADITYA BIRLA FINANCIAL SERVICES GROUP Mumbai, Maharashtra
+February 2014 to March 2014
+Location: Mumbai
+TATA AIA LIFE INSURANCE COMPANY Helpdesk Mumbai, Maharashtra
+September 2008 to December 2013
+ULM) otherwise known as Access Management Team, Desktop Support, Remote Support, Data
+Center Operations and Backup Management
+Duration: September 2008 - December 2013
+Location: Mumbai
+Program Description: Tata AIA Life Insurance Company Limited (Tata AIA Life) is a joint venture
+company, formed by Tata Sons and AIA Group Limited (AIA) Tata AIA Life combines Tata's pre-
+eminent leadership position in India and AIA'S presence as the largest, independent listed pan-
+Asia life insurance group in the world spanning 17 markets in Asia Pacific. Tata Sons holds a
+majority stake (74 per cent) in the company and AIA holds 26 per cent through an AIA Group
+company. Tata AIA Life Insurance Company Limited was licensed to operate in India on February
+12, 2001 and started operations on April 1, 2001.
+WIPRO INFOTECH Mumbai, Maharashtra
+August 2008 to September 2008
+Location: Mumbai
+EDUCATION
+MS in Systems Engineering in Systems Engineering
+BITS Pilani - Pilani, Rajasthan
+2008 to 2012
+B.Sc Sc in Computer Science
+Bishop Ambrose College, Bharathiar University Coimbatore, Tamil Nadu
+2005 to 2008
+HSC
+State Board
+2004 to 2005
+SKILLS
+Microsoft DPM, EMC Legato Networker & Symantec Backup Exec
+ADDITIONAL INFORMATION
+Skill Set
+Wide experience with EMC Legato Networker & Microsoft Data Protection Manager (Backup
+& Restoration)
+Providing Technical, Functional and Operational Support to users in the implementation and
+use
+of Software Applications & Installation, Configuration, Troubleshooting of Backup Libraries
+and Server's
+Providing support for the process such as Incident/Problem/Service Request/Change.
+Providing training, troubleshooting, technical advice and direction to other members of the
+team.
+Managing the Backup infrastructure to ensure all Service Level Agreements are met.
+Managing and creating different types of the policies for the Backup jobs.
+Monitoring daily Backup status, handling tape changes, troubleshooting of tape libraries and
+drives, restoration of missing files/directories and other Backup related activities.
+Scheduling the Backup's as per the change requirements by overriding the schedule as and
+when required.
+DR restoration on a monthly basis for mission critical Servers and checking the data integrity.
+Creating and maintaining process and procedures run book for data center processes.
+Maintaining Backup data for a 24x7 office.
+Working with offsite storage vendors for tapes.
+Strong ability to organize and schedule tasks as per realistic actions plans.
+Superior ability to work independently in a demanding environment.
+Report Generation Daily, weekly and monthly reports on Major Incidents.
+Technical Skills
+In-depth knowledge in Configuration, Installation and Troubleshooting of Microsoft Data
+Protection Manager.
+Have Knowledge in installing DPM and Central Console, upgrading, repairing, and uninstalling.
+Experienced in DPM protection agent, and setting up protection for computers, servers, and
+workloads.
+Experienced in Troubleshooting DPM errors and issues.
+In-depth troubleshooting of Backup and Restore failures on Windows.
+Performed Data Restorations for Server, File System and/or Databases from the tape & disk
+libraries upon customer request in a calm and controlled fashion while maintaining consistent
+communication with the customer.
+Performed an analysis of CPU/Memory/Disk Utilization for Critical Platforms/Server's.
+Performed EOD Activities on SQL & Window's based Platforms.
+Performed SQL & Oracle DB Backup's and Restoration.

@@ -1,0 +1,61 @@
+Anvitha Rao
+Automation developer
+Email me on Indeed: indeed.com/r/Anvitha-Rao/9d6acc68cc3oc71o
+Seeking a software development internship position for Summer 2018 that utilizes my technical
+skills, education and passion for
+solving interesting problems as a software professional.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Automation developer
+SAP Labs - Bengaluru, Karnataka -
+August 2016 to August 2017
+Worked as an automation developer in the development of cloud based Human capital
+management System and
+Integration frameworks Dell Boomi and SAP HANA Cloud Platform Integration.
+Development of automation framework using Java Selenium and RestFul API'S for payroll
+projects.
+Collaborating with customers on migrating Payroll projects to SAP HANA Cloud Platform
+Integration.
+Involved in regression, unity, functionality, performance, sanity and acceptance test driven
+development process.
+Intern
+SAP Labs - Bengaluru, Karnataka
+February 2016 to July 2016
+Worked on migrating Business intelligence tool, Universe Design Tool in Visual Studio using C++.
+Automation of test cases for identifying operations supported by databases using Java.
+Tools: Universe Design Tool, Information Design Tool, Webi and Perforce.
+Projects:
+GeoSpark Integrated with Apache Hadoop
+Identifies top 50 pick up points in New York city based on distributed New York taxi data using
+Apache Spark and Scala.
+Iaas Implementation: cloud application for Image Recognition
+This project uses Amazon S3, SQS and EC2 instances to provide Image recognition service to
+users by implementing load
+balancing and web services.
+Spam Detection
+Identifying spam messages using Natural Language processing techniques in python.
+Analysis of Financial Data
+Exploratory data analysis of stock prices using various data visualization techniques in pandas
+and d3.js
+Effective prediction and prevention of air pollution caused due to automobiles using IOT and data
+analytics techniques
+Analyzes pollutants at different geographical locations and suggests a least polluted route on
+an android application.
+Co-authored a paper -Ref link: http:l/wwijrcct.org/index.phpojsarticle/view/141b
+EDUCATION
+Masters in Computer Science
+Arizona State University - Tempe, AZ
+September 2019
+Bachelor of Engineering in Computer Science
+M S Ramaiah Institute of Technology Bengaluru, Karnataka
+September 2012 to June 2016
+SKILLS
+JAVA (1 year), C++ (Less than 1 year), Hadoop (Less than 1 year), HADOOP (Less than 1 year),
+CSS (Less than 1 year)
+LINKS
+wlinkedin.com/in/anvitha-d.rao-65a06sa7
+ADDITIONAL INFORMATION
+Technical Skills:
+Programming Languages: C, C++, HTML/CSS, Java, Python, Javascript
+Technologies: IOT, MySQL, PostgresQL, D3js, Hadoop and Spark, Gephi
+://ww.linkedin.con/in/anvitha-d.rao-65aos8a

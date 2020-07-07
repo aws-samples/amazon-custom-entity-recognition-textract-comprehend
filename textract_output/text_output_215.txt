@@ -1,0 +1,137 @@
+Suman Biswas
+SAP UI5 Lead, Native HANA Developer Royal Dutch Shell
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Suman-Biswas/63db95fe3ae1491
+Willing to relocate to: Toronto, ON
+WORK EXPERIENCE
+Software Engineer
+Shell Bangalore, Karnataka
+March 2016 to Present
+SAP UI5 Lead, Native HANA Developer
+Technical leader of frontend team (5 team members) for SAP UI5, Fiori, OData, XSJS since 2016.
+Successfully delivered seven end to end development projects (CRV, CRD, Prelude, Charon,
+CTT, GPD, AIF).
+Analyse business requirement, develop solution, prepare prototype, security model, application
+architecture, effort estimation and involve in development delivery.
+Project to expose on-premise HANA box data to outside world via HCP connectivity for mobile
+application.
+Requirement analysis, planning, design and developing the multiple HANA XS application.
+Creation of HANA tables, calculation views, used unit and currency conversion.
+Implementing row level and application enable security in applications using Analytic privilege,
+xsaccess.
+Worked in Agile and Devops methodology.
+Interviewer on SAP UI5 and XS since 2016 for SAPUI5.
+Worked in AngularJs 1.5.
+Software Engineer
+IBM Bangalore
+August 2008 to January 2016
+Performed four roles, Native HANA developer (July 2013 - January, 2016), team lead and onsite
+coordinator (March, 2011 - June, 2013), SAP BI professional (January, 2010 February, 2011),
+VBA developer (August, 2008 December, 2009)
+Worked for British Petroleum (BP, UK), National Grid (NG, UK) and Lab for SAP Solution (LSS,
+Us) account.
+2+ years worked in SAP HANA native development for LSS and NG.
+Developed 9 dash boards for semi real time reports for NG using HANA calculation view and
+HANA live.
+Developed 3 projects in SAP HANA XS and SAP UI5, Lumira applications.
+Worked in SAP BI/IP based production support system (financial planning application) for 5+
+years in BP downstream business.
+Saved 60, 000 man hours by implementing CI in 2012. It was best CI of the year.
+Performed team lead role at BP account of 6 members team for more than 2 years.
+Worked as onsite coordinator at BP (London, UK) for more than 2 years and used to report BP
+senior managers (marketing and refining).
+Managed incident, change and release management in production support system.
+SME for Visual Basic for Application (VBA) and SAP BEx Report Customization for about 2 years.
+Worked in National Grid account (energy industry, UK) for plant management using native HANA
+development.
+Helped IBM presales team by developing POCs to get new business (mock applications
+showcased to potential clients) in LSS account.
+Senior Web Developer Microsoft Technology
+Global System Technologies Kolkata, West Bengal
+January 2008 to July 2008
+Developed multiple web applications using SP.Net, C#.Net, ADO. Net and SQL Server for
+clients. Used to work in S.Net 2 version. There were online music store, shopping cart and
+multiple B2B & B2C applications.
+Senior Web Developer Microsoft Technology
+Global System Technologies Private Limited
+January 2008 to July 2008
+Developed multiple web applications using ASP.Net, C#.Net, ADO.Net and SQL Server for clients.
+Used to work in MS.Net 2 version. There were online music store, shopping cart and multiple B2B
+& B2C applications.
+Software eveloper-Microsoft Technologies
+VIBGYOR TechSolutions - Kolkata, West Bengal -
+April 2007 to December 2007
+Mostly worked in C#.Net, MS SQL Server, XML, flash action script V.2.
+Worked in network programming using TCP socket, multi-threading, image processing
+applications.
+Software Developer-Microsoft Technologies
+VIBGYOR TechSolutions -
+April 2007 to December 2007
+Mostly worked in C#.Net, MS SQL Server, XML, flash action script V.2.
+Worked in network programming using TCP socket, multi-threading, image processing
+applications.
+Microsoft.Ne Developer
+Bright Soft Solutions -
+March 2006 to February 2007
+Primarily worked in MS SQL Server and #.Net with remoting, OOP, nulti-threading, 2D dynamic
+animation.
+Developed online poker card games (Texas hold 'em, Omaha) development for US client.
+Award and Recognition
+Shell CIO award, 2016.
+Best of IBM award, 2012.
+Best CI of the year award, 2012.
+EDUCATION
+MBA in Information Technology
+Sikkim Manipal University
+2013
+Bachelor of Arts
+University of Calcutta - Kolkata, West Bengal
+2005
+'A' Level in Computer Application
+DOEACC
+2003
+'0' Level in Computer Application
+DOEACC
+2002
+SKILLS
+SAP HANA (4 years), SAP UI5/Fiori (4 years), AngularJs (Less than 1 year), Web Development
+(8 years), Asp.N Net (5 years), C# (4 years), SQL Server (3 years), HTML5 (5 years), Javascript (6
+years), CSS3 (6 years), Software Solution Design (2 years), VBA (2 years), SAP BI (2 years)
+LINKS
+ps://www.linkedin.com/in/sumanbiswas2018
+AWARDS
+Shell CIO award
+October 2016
+Received Shell CIO award for Prelude project.
+ps://www.linkedin.com/in/sumanbiswas2018
+Best of IBM award
+December 2012
+Best of IBM award to perform outstanding performance for the whole year.
+Best CI of the year award
+December 2012
+In 2012 can able to save 60,000 man hours by generating continuous improvement (CI) in
+technical area of our project. The work won the best CI award for 2012.
+CERTIFICATIONS/LICENSES
+Introduction to Oil Industry from "The Oxford Princeton Programme",
+2016.
+June 2016 to Present
+Introduction to Gas Industry from "The Oxford Princeton Programme",
+2016
+June 2016 to Present
+PUBLICATIONS
+Technical Blog on Socket Programming in C#
+http://socketprogramming.blogspot.cor
+January 2011
+Detail technical blog on socket and multi-thread programming using C#.Net with lots of sample
+code for beginner to advance level programmer.
+It has more than 15 posts.
+Till now it has more than 2.7 million views.
+ADDITIONAL INFORMATION
+Self-initiative
+Developed social network application (alap.me, 2012 - 2014) using C#.Net, SP.Net, MySQL,
+JavaScript/jQuery, CSS, HTML5. With development.
+Alap.me having social feature with live chat, messaging, friendship, photo and status share.
+For alap.me, setup and managed Windows 2008 server, Web server (IIS7), MySQL DB setup,
+schedule backup, email server configuration, chat server development and setup, client-server
+load balancing to optimize CPU performance, email marking with process development.
+Developed (in 2012) blooddonornetwork.co for social support.
+http://socketprogramning.blogspot.cor

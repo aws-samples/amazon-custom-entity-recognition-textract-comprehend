@@ -1,0 +1,49 @@
+Somanath Behera
+Associate, Cognizant technology Solutions, Bangalore
+Bengaluru, Karnataka - Email me on Indeed: indeed.com/r/Somanath-Behera/
+e9188fe8ba12dbbd
+6 years and 6 months of extensive experience in Requirement Gathering, Analysis, Design,
+evelopment, Implementation, Testing and Support of Data warehousing Applications using
+Informatica Power center ETL Tool.
+Expertise in systems analysis, gathering functional requirements, documenting business
+process, programming and Quality Assurance along with excellent troubleshooting,
+communication, and interpersonal skills for Data Warehouse.
+Quickly adaptable to new technology, coding standards and conventions. Being involved with
+software industry shows professionalism in working in a team and have experience of working
+as POC. Delivered the expectations with Quality and proactive in every situation.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Associate Consultant
+Cognizant Technology Solutions - Bengaluru, Karnataka
+July 2014 to Present
+Have working experience on end to end development using Informatica, Unix and Oracle.
+Effectively managing a small team and delivering successful codes.
+Senior System Engineer in Infosys Limited, Chennai
+Training in Infosys Limited - Mysore, Karnataka
+August 2011 to November 2011
+Mysore from 1st Aug 2011 - 30 Nov 2011. I have worked as Senior System Engineer in Infosys
+Limited, Chennai till 24th June, 2014.
+Currently working in Cognizant from 14th July, 2014 till date.
+EDUCATION
+B. Tech in Electronics and telecommunication
+BPUT - Bhubaneshwar, Orissa
+August 2007 to April 2011
++2 Science in Science
+F.M. Junior College Balasore, Orissa
+June 2003 to April 2005
+theereraeleefeslataberisiirertonloadliletomntad-toreoe:t
+SKILLS
+Oracle Pl/Sql (6 years), Facets (3 years), Hadoop (1 year), healthcare (4 years), Informatica (6
+years)
+ADDITIONAL INFORMATION
+Technical Skills:
+Operating System Unix and Windows
+Programming languages Unix Scripting, SQL and PL/SQL, Core Java, Basics of Python
+Databases and Tools Informatica Power Center, Oracle, Hadoop and Spark
+Other Utilities SVN, Jira
+Scheduling Tools Tidal and Control-M
+cloud Technology Microsoft Azure
+Domain Knowledge Retail, Healthcare, Banking
+Functional Knowledge:
+Have very good functional knowledge on Healthcare and Facets application. Understanding on
+relationship between different Facets tables and their different parameters as designed

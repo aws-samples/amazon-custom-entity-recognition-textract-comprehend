@@ -1,0 +1,83 @@
+Deepika S
+Test Engineer - Infosys Ltd
+Email me on Indeed: indeed.com/r/Deepika-$/1b4436206cf5871b
+WORK EXPERIENCE
+Test Engineer
+Infosys Ltd - Chennai, Tamil Nadu
+April 2017 to Present
+Testing Executive, Infosys Ltd, Chennai
+E-publisher - Coimbatore, Tamil Nadu
+May 2013 to July 2014
+September 2014 - March 2017)
+Test Management Tool
+HP ALM
+2012 to 2012
+Domain: Retail, Banking
+Utilities: Putty, WinScp.
+Operating Systems: Windows XP/7/8
+PROFESSIONAL EXPOSURE
+Software Testing Projects
+Citi Bank
+2005 to 2005
+Description of the Project: The objective of the project is to track the Gifts and Entertainment
+provided to or received from client or potential client or anyone else whom citi does business.
+CGE it is a web based application.
+And the project uses separate tool IFW for reporting.
+Testing Management Tool: ALM for tracking defect
+Duration: Nov 2016 to Till Date
+Customer Service Representative
+TNT Express -
+2004 to 2004
+Description of the Project: The Objective of the project is to use Salesforce for servicing the
+customer. TNT express is a courier company which does international business with more than 60
+countries. They are using more than 30 applications for tracking their process and it is difficult to
+provide service for the customer. This project integrates with all application and provided single
+interface for customer service. Also it helps CSR (Customer Service Representative) to provide
+service for the customer by tracking where exactly their consignment is placed and how much
+time it will take to reach the destination. Also CSR can receive voice calls and place calls to the
+customer through salesforce.
+Job scheduling tool: Director Client
+Testing Management Tool
+Utilities
+Database tools
+Duration
+ALM for tracking requirements, test plans, test execution, reporting and Defect tracking
+: WinScp, Putty
+SQL Developer, Datastage for DB2
+: Mar 2016 - Oct 2016
+03 Project Name: CRM Sales
+Client: TNT Express
+Description of the Project: The Objective of the project is to use Salesforce for customer
+relationship management that stores customer contact information like names, addresses, and
+phone numbers. TNT express is a courier company which does international business with more
+than 60 countries. They used CDB for storing customer information. This project integrates with
+CDB and extracts all customer information. And it creates opportunities for the customers.
+Testing Management Tool
+Utilities
+Database tools
+Duration
+:
+ALM for tracking requirements, test plans, test execution, reporting and Defect tracking
+: WinScp, Putty
+: SQL Developer
+: Jan 2016 - Feb 2016
+02 Project Name: CDB UI Changes
+Client: TNT express
+Description of the Project
+Test Management Tool
+The project is about TNT needs some UI Changes in the CDB application.
+ALM
+01 Duration
+Project Name
+Client
+Description of Project
+Devices tested
+Defect Management Tool
+Duration
+E-Pub
+Client
+Description of Project
+EDUCATION
+B.Sc. in Computer Science
+Bharathiyar University - Coimbatore, Tamil Nadu
+2013

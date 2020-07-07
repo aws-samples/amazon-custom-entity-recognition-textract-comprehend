@@ -1,0 +1,79 @@
+Roshan Sinha
+Application Developer - SAP ABAP
+Kolkata, West Bengal - Email me on Indeed: deed.com/r/Roshan-Simha/ab398efcd288724
+Willing to relocate to: Kolkata, West Bengal - Bangalore City, Karnataka - NCR, Delhi
+WORK EXPERIENCE
+Application Developer
+SAP ABAP - Kolkata, West Bengal -
+March 2011 to April 2018
+Joined as Associate System Engineer, worked as Application Developer for maintenance and
+development of SAP systems for clients from Distribution, Chemicals and Petrochemicals and
+Industrial sectors.
+Application Developer
+IBM India Pvt. Ltd. -
+April 2011 to March 2018
+Application Development and Maintainence services on SAP using ABAP as programming
+language.
+Application Developer
+SAP ABAP - Kolkata, West Bengal -
+June 2017 to November 2017
+Non-ALE Outbound File Interfaces for Forward and Reverse Logistics Application from SAP to EMM
+system Return, Replacement and Dispatched IMEI and SIM Serial Data Interfaces.
+Application Developer
+SAP ABAP -
+July 2016 to November 2017
+IMSP Applications built on OOPS-ABAP, BAPI, FM.
+Smartform for Credit/Invoice Note
+Application Developer
+SAP ABAP - Kolkata, West Bengal -
+May 2017 to June 2017
+from Repacking - Batch creation, Create Inbound Delivery, Reprint Handling Unit, Post Goods
+Movement, Goods Receipt and Goods Issue.
+Application Developer
+SAP ABAP - Kolkata, West Bengal -
+January 2017 to May 2017
+Audit and Tax applications built on reports and enhancements in ABAP, Purchase TAX Reports,
+C/F Forms.
+Application Developer
+SAP ABAP - Kolkata, West Bengal -
+July 2013 to July 2016
+Upload Purchase Order Header Data.
+DIM Monthly Price deviation table.
+EHS Module: -
+LACK1 report, Where-Used Report and CK2/CK3 Interface
+Application Developer
+SAP ABAP - Bengaluru, Karnataka -
+February 2013 to June 2013
+Design and Implement Technical Strategies for the Team Deliverable along with Leads.
+Uploading of Internal Orders (Cost Objects) using Batch Input Recording.
+Uploading of Direct Purchase Orders using BAPI.
+Implementation of User Exit for overriding standard billing document number ranges.
+Implementation of Pricing List Category Quote Order Header in CRM and SD.
+Enhancement for Filter products by material type in GTS.
+Develop adding custom fields and field logic in CRM WEBUI
+Application Developer
+SAP ABAP - Kolkata, West Bengal -
+January 2013 to February 2013
+Developed Outbound Interface Report from SAP to CLM, spool generation and Enhancement of
+Screen Elements using Dynamic Search Help.
+Application Developer
+SAP ABAP - Kolkata, West Bengal -
+January 2012 to December 2012
+Worked on Remedy Tickets for issues with following applications: -
+Overtime Request on BP People Portal enhancement from Time Attendance domain in HR.
+TAX certificate Administration from Payroll.
+Worked on Custom Infotype for TAX Form.
+Application Developer
+SAP ABAP - Kolkata, West Bengal -
+August 2011 to December 2011
+Enhancement of standard and custom transaction, interfaces and e-forms
+EDUCATION
+B .Tech in Technology
+Anna University Chennai - Chennai, Tamil Nadu
+2010
+SKILLS
+Sap Abap
+ADDITIONAL INFORMATION
+SKILLS
+SAP ABAP
+OOPS-ABAP

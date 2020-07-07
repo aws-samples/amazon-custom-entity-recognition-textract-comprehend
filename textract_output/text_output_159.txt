@@ -1,0 +1,105 @@
+Ramakrishna Rao
+Devops Consultant Tech Mahindra Ltd
+Bengaluru, Karnataka Email me on Indeed: deed.com/r/Ramakrishna.
+Ra0/0b57f5f9d35b9e5c
+An accomplished IT Professional with 15.2 years of Competent technical expertise in solution
+design, architecture, system analysis, components design, development and testing of client
+server, Intranet/ Internet, N-tier systems in Microsoft, Java and middleware projects at
+Development, Support, E2E and Transition, Transformation, migration Projects at Telecom (BSS
+and oss), Networking, Finance, Content Management, Healthcare, Banking domains. Extensive
+experience in Object-Oriented design and development, agile, DevOps, cloud architecture,
+middleware, enterprise application integrations.
+a) Offshore Professional Summary
+Expertise in process, tools maturity assessment and provides the implementation /
+transformation roadmaps.
+Extensive experience in the design and implementation of Continuous Integration, Continuous
+Delivery, Continuous Testing, Continuous Deployment Pipelines and Devops processes, best
+practices for Agile projects.
+Involved in Agile implementation using JIRA, Rally, HPE ALM/Octane across various customer
+as per SAFe/Scrum methodologies.
+Implementation experience in Continuous Integration/Delivery (CI/CD) pipeline using CA clarity,
+CA Rally, JIRA, HPE ALM/Octane Jenkins, Maven, Git, Bitbukcet, Github, Xebialabs XL Release, CA
+Release Automation/Automic for Code Build, repository and deployment and Automation.
+Proven expertise on cloud based solutions using Paas platforms Openshift with kubernetes,
+MS Azure (ARM templates), AWS services (EC2, ELB, IAM, S3, EFS, and EBS, CI-CD services Code
+Commit, Build, Code Deploy, Opsworks)
+Good understating and experience in Docker, Ansible, Chef, Puppet configuration tools
+Good experience in Java, Microsoft, CRM, Java Script, shell, PowerShell, Groovy, Python script
+Involved in development, support activities in projects using tools such as Java/ J2EE, MS
+echnologies (VB, ASP, VStudio.Net VB.Ne .Net, ASP.Net, C#, Sqlserver, Team Foundation Server
+(TFS), Sharepoint), Oracle, SQL Server, automated configuration and build, integration SCM tools
+(Git, GitHub, SVN, Bitbucket, Crucible, Maven, SonarQube, NANT, FxCop, NUNIT, CCNet, )
+Good knowledge and integration experiences in testing tools on HPE ALM/QC/Octane, ETL
+Validator, CA SV, CA TDM and Selenium with CI-CD pipeline.
+Good understanding and experienced in ITSM tools BMC- Remedy, Servicenow integrations
+Good experience in CI-CD implementation with IBM stack, HP stack, Atlassian stack using IBM
+CLM, RTC, uRelease and uDeploy, and Atlassian Products (JIRA, JIRA Agile, Crowd, Bitbucket/Stash,
+Crucible, Confluence) in Devops solutions implementation.
+slineooerariserolsisieseisiOeidve
+Have proven leadership and strong interpersonal and communication skills in dealing with
+people with diverse backgrounds.
+b) Onsite Professional Summary
+Good experience in Devops E2E solution design in planning, source code management, build
+and deployment automations using JIRA, Jenkins, maven, git/Bitbucket, XLRelease and XLDeploy,
+Ansible for VHA, Scotiabank, Volkswagen, NetApp, Optus, Cenveo accounts.
+Developed POCs and successfully onboarded 100+ projects into CD platform as part of the
+Devops transformation.
+Involved in Transitions/Takeover of varies complex applications for BT, ATT, AIRBUS clients and
+made the applications as BAU.
+Good at client communication, customer management and giving presentations to clients
+Good at managing the deliveries at onshore and liaising with offshore team.
+Involved in Application Technical Support, Requirement gathering and giving solution designs
+to clients.
+Involved in ASG (Application Support Group) activities at onshore.
+Good experience in conducting tools, Devops process trainings as part of DevOps enablement
+programs.
+WORK EXPERIENCE
+DevOps Consultant
+Tech Mahindra Ltd -
+March 2018 to Present
+15 Years ]
+Band-Sut band/ Designation U4 / DevOps Consultant -
+Tech Mahindra Ltd -
+April 2005 to Present
+Experience
+Sr. Software Engineer Consultant (client of Infosys Technologies)
+Data Comp Services -
+August 2004 to April 2005
+Duration AUGUST/2004--A
+Programmer Analyst
+Infoland Technologies -
+February 2003 to August 2004
+EDUCATION
+Master of Science in Information Technology and Management
+Periyar University
+June 2001
+P.G.D.C.A in Computer Applications
+Nagarjuna University
+June 1998
+B.Sc. in M.P.C
+Andhra University
+June 1997
+SKILLS
+Net (Less than 1 year), .Net 4.5 (Less than 1 year) Amazon Elastic Block Storage (Less than 1
+year), Amazon Elastic Compute cloud (Less than 1 year), ASP (Less than 1 year)
+ADDITIONAL INFORMATION
+III. Skills
+Primary Skill category
+Java/J2EE, Net 4.5, .Net Tech. [ASP SP.Net, Net, C#, VB.Net, Web services, WCF, EF, SQLServer,
+VS2012], Oracle 11g, Devops process &amp;implementation, Agile planning, JIRA, Bitbucket,
+Crucible, Confluence, Crowd and Open Source Tools (Jenkins, Git, GitHub, SVN, Maven,
+SonarQube), MS TFS2013 with InRelease, XLRelease, XLDeploy, AWS services - ( EC2, ELB,
+IAM, S3, EFS, and EBS, CI-CD services - Code Commit, Build, Code Deploy, Opsworks), Ansible
+playbooks, Servicenow
+Secondary Skill category
+VB, ASP, Config Tools (Subversion, NANT, FxCop, NUNIT, CCNet), Design Tools
+(BorelandToGether2007, Visi02010), Project Management (Microsoft Office Project 2010)
+Domain Skill Telecom (CRM, BSS, OSS), Content Management and Healthcare, Finance and
+Banking
+IV. Trainings/certifications
+> Introduction to Agile Methodology: conducted by Tech Mahindra Ltd. : Nov 2006
+>
+PMP Training: conducted by Tech Mahindra Ltd.: Aug 2011.
+> ITIL Training: conducted by Tech Mahindra Ltd.: Jun 2013.
+> LEAN SIX SIGMA YELLOW BELT training: conducted by Tech Mahindra Ltd. : April 2014.
+> Scrum Maser Certified (SMC) Jul 2015 from Scrumstudy

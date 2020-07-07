@@ -1,0 +1,42 @@
+Akila Mohideen
+System Engineer, Infosys Limited, India INFOSYS LIMITED COMPANY
+Bangalore, Karnataka Email me on Indeed: indeed.com/r/Akila-Mohideen/cfe2854527fb6a12
+Willing to relocate
+WORK EXPERIENCE
+System Engineer, Infosys Limited, India
+INFOSYS LIMITED COMPANY Bangalore, Karnataka
+May 2015 to Present
+BANGALORE, India Multinational company that provides business consulting, Information
+technology and outsourcing services.
+System Engineer, Infosys Limited, India from 5/2015 to Present
+Selected Accomplishments:
+Developed a PI interface, using the File adapter for sender communication and SFTP adapter,
+using external massage type of type XSD, for the receiver communication, allowing WEB based
+internal Purchasing punch out catalog system to communicate with an EDI system for 850, 855
+and 856 message type.
+Monitored the SAP PI 7.4 dual stack system on a daily basis to resolve system or data issue
+occurring in the interfaces in a timely manner. Provided third level production support on issues
+arising with SAP PI interfaces to the third party help desk partner.
+Developed a PI interface between NXTrend and SAP for payroll runs for AP as well as vendor
+payments. The adapters used were File adapter for the sender communication picking up of a
+comma separated value file and transforming the information into XML-IDoc utilizing the IDoc
+adapter.
+Akila Sulfa Sulthan Mohideen Phone: +91-888-4350-386
+Provide PI/PO technical support for patch and release upgrades. Document and maintain a
+solution portfolio and identify opportunities for solution re-use. Identifies opportunities to re-
+engineer existing solutions to better utilize technology, optimize performance, and simplify
+support. Manage and coordinate work of consultants when necessary.
+Technology
+Software: SAP PI, NWDS, JAVA, ITSM tool, Excel Report tool, Regression Testing tool, MS Office
+(Word, Access, Excel, PowerPoint)
+EDUCATION
+Bachelor of Technology in Information Technology
+PSG COLLEGE OF TECHNOLOGY, ANNA UNIVERSITY Coimbatore, Tamil Nadu
+May 2011
+ADDITIONAL INFORMATION
+Skills
+Corporate Communications
+Creative Team Leadership
+Adept problem solver
+Development of Training Materials
+Strong Analytical and logical skills

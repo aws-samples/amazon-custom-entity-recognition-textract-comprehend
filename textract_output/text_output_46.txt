@@ -1,0 +1,49 @@
+Mohini Gupta
+Server Support Engineer
+Gurgaon, Haryana Email me on Indeed: indeed.com/r/Mohini-cupta/o8b5b8etacd8cfo7
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Server Support Engineer
+Microsoft
+July 2015 to November 2017
+Key Responsibilities
+Worked as Technical Support Engineer for Microsoft Enterprise Platforms Support.
+Worked in U.S., U.K., India & APAC time zones.
+Always available (24X7) for any explanation, support or information required by team, client
+and managers.
+Configuring, deploying and troubleshooting SCCM with remote/local SQL.
+Perform Software distribution and ensure successful deployment on end assets.
+Patch management of servers and end user estate along with troubleshooting.
+Performed on checks through server, to perform server operations, check services, analyzed
+the logs to check the communication from the new server to the primary server and vice versa,
+also checked server's communication with its client.
+Setting up new packages along with new collection.
+Collection of inventory i.e. hardware inventory and software inventory.
+Troubleshooting client connectivity and package installation issues by analysis of logs.
+Working on incidents logged by end users as a daily activity.
+Fixing operational issues and performing installation or un-installation of applications.
+Create new groups, add users and grant permissions.
+Good understanding of SCCM architecture, operations and management.
+Knowledge of Active Directory and networking required in SCCM environment.
+Deploying Operating System with SCCM.
+Server Support Engg.
+Convergys
+July 2015 to November 2017
+Server Support Engg.
+EDUCATION
+.tech
+KIIT college of Engg.
+SKILLS
+active directory, iis, sccm, dhcp, sql, wsus, dns
+ADDITIONAL INFORMATION
+Computer Skills
+MS Office Tools: MS Excel, MS Word, MS Power Point.
+Hands on experience on all versions of Windows.
+Sound knowledge of internet and networking.
+Coding Languages: C, C++, Java.
+Other Information
+Regular Swimmer.
+Interested in playing Table Tennis, Lawn Tennis.
+Professional Proficiency: English and Hindi
+I hereby declare that all the above particulars are true to the best of my knowledge.
+PLACE: Gurgaon (MOHINI GUPTA)

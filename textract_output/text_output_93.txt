@@ -1,0 +1,89 @@
+Sumit Kubade
+SAP FI Support Consultant SAP FI
+Pune, Maharashtra Email me on Indeed: indeed.com/r/Sunit-kubade/256d6054d852b2a7
+Seeking a challenging and rewarding position in SAP FI that will benefit from my experience,
+professional qualification and excellent communication skills and where I can enrich my skills
+and management capabilities further while working to achieve the organizational goals.
+1.0 Months experience in IT industry.
+I am seeking challenging assignments in a growth oriented organisation.
+Completed graduation B.com (FINANCE) Ability to work overtime, time management, and work
+responsibilities.
+ERP knowledge of SAP ECC 6.0IN FI MODULE in UV TECHNOCRATS & SOLUTION. With knowledge
+of (FI organisational structure, GL creation, Accounts Payable, Accounts receivables, customer
+master data, vendor master data & All End user scenario)
+Proficient Knowledge about FI End user scenario and design of configuration of FI sub-modules
+General Ledger (FI-GL), Accounts Payable (FI-AP), Accounts Receivables (FI-AR)
+SAP FINANCE MODULE TECHNICAL &FUNCTIONAL SKILL
+Enterprise structure: configuration of Define &Assign Company and company code define
+business area.
+Global setting: Define Field status group, Fiscal year Variants, open and close posting
+period, document number ranges, Setting up of document types and posting keys for business
+transactions.
+General ledger: Define chart of account, Account group, define tolerance group for GL &
+employees.
+GL end user scenario-creation of GL master data, knowledge about F 02/FB50 GL invoice
+posting, GL Documents recurring document, park & held document, reversal document.
+Accounts Payable: Creation of vendor a/c group & No ranges. Define tolerance group for vendor,
+creation of sundry creditors GL, Display of vendor balances, Define no range for invoice posting,
+AP end user scenario: creation of customer master, FB60 /MIRO invoice posting, Payment,
+posting Process of partial payment and down payment to vendor.
+Customization of APP program for vendors.
+Accounts Receivable: Define customer a/c group, No range for customer a/c, creation of no.
+ranges
+AR end user scenario: creation of customer master, FB70 invoice posting, payment posting
+process of partial payment down payment to customer.
+House bank- Creation of house bank, creation of cheque lot, display cheque register, cheque
+encashment, cheque cancellation.
+Foreign exchange transaction.
+Asset Accounting Chart of depreciation, creation of input & output tax code, Define asset
+class, Depreciation,
+Asset master creation, Asset purchase posting (F 90), Depreciation run (AFAB), Sale of asset (f 92)
+closing Entries Carry forward the balances of customer & vendor (f.07), Asset balances ( AJAB),
+GL balances (F.16), No range (OBH2) FSV.
+Willing to relocate to: Pune, Maharashtra
+WORK EXPERIENCE
+SAP FI Support Consultant
+SAP FI Pune, Maharashtra
+June 2016 to Present
+Roles and Responsibility:
+Providing production support for SAP FI Module
+Master data Creation and Changes as when required
+Interaction with end users for issue resolution
+Solving issues/tickets with moderate and at times critical impact
+Proactively discuss on issues with other functional consultants for timely resolution
+Participation in regular FI team meetings
+Provide training to end user's as and when required.
+Customizing changes as per new requirement raised by client like House Bank Creation
+Analyzing and providing solutions on the issues raised by the client
+Participation in performing year end closing activity
+Solving of maintenance Issues and Tickets in the area of FI.
+Email response to end users.
+clarify and rectify the pending and due issues.
+Resolved User issues on timely basis.
+Based on the priority of the issues and the time required to resolve the issue, issues will be
+resolved within time bound to meet the SLA.
+Attended KT sessions & updated knowledge with new issues.
+As a part of Support Team Involvement in
+User Support and also End User Training.
+Handled the End user queries through Help desk. As per the user communication by mail have
+to register, acknowledge, respond, resolved, accept and close the issues.
+The issues include the configuration, transaction error and program/form modifications.
+Configuring payment terms, Configuring automatic payment program, Includes House bank
+configuration.
+Configuration for special G/L transactions like down payment made, down payment received.
+Input Tax Indicator Configuration.
+EDUCATION
+Indian Institute of Company Secretory of India (Appeared)
+2014
+Maharashtra State Government, Pune University - Pune, Maharashtra
+2013
+3.com
+Pune University - Pune, Maharashtra
+2012
+SKILLS
+SAP (1 year)
+ADDITIONAL INFORMATION
+TECHNICAL SKILL
+ERP Packages: SAP ECC 6.0, Tally.
+Office productivity: Microsoft Word, Excel, Power point.
+Operating Systems: Windows [...]

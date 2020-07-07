@@ -1,0 +1,66 @@
+Ananya Chavan
+lecturer oracle tutorials
+Mumbai, Maharashtra Email me on Indeed: indeed.com/r/Ananya-
+Chavan/738779ab71971a96
+Seeking a responsible job with an opportunity for professional challenges and utilize my skills
+up to its extreme.
+WORK EXPERIENCE
+lecturer
+Oracle tutorials Mumbai, Maharashtra
+April 2016 to Present
+for computer science (STD 11th and 12th) (2 years)
+> Worked at r.Babasaheb Ambedkar College, Chembur (W) as a lecturer for B.Sc. (Computer
+Science & Information Technology)
+F.Y.J.C. (Computer Science & I.T.)
+S.Y.J.C. (Computer Science & I.T.)
+Worked at "LIVE" as a Head of the IT Department and Lecturer for Web designing.
+Worked at "Kohinoor College of Hotel Management" as visiting lecturer for SEM I.
+Working at "ORACLE TUTORIALS" as a lecturer for computer science (STD 11th and 12th)
+EDUCATION
+MCA
+Mumbai University Mumbai, Maharashtra
+B.Sc. in Com.Sc n.Sci
+Mumbai University Mumbai, Maharashtra
+SKILLS
+SEARCH ENGINE MARKETING (2 years), SEM (2 years), ACCESS (Less than 1 year), AJAX (Less
+than 1 year), APACHE (Less than 1 year)
+ADDITIONAL INFORMATION
+Technical skills:
+Languages: C, C++, Java (J2EE),
+Web Component APIS: Jdbc, Servlet, JSP.
+Frameworks: Spring 4 & Struts 2
+ORM Framework: Hibernate
+Web Development: Html5, CSS3, Java Script, Ajax &JQuery, Angular Js
+Application Servers: Apache Tomcat,
+IDE: Eclipse, Netbeans
+Database: Ms-Access, Mysql
+Operating Systems: Windows 7, 8, 10
+FTP Client: Filezilla
+Versioning Tools: Git
+Project Details:
+"Real Estate Application" (client: Global Realtor PVT. LTD Pune)
+Front-End: Java (J2EE), JDBC, Servlet, JSP, Jquery.
+Back end: Mysql.
+Duration: 6 Month (Internship)
+Company Name: AryanTech India Pvt. Ltd. Pune
+My Role: Developer as Trainee.
+Module: Module 4.
+Description: Developed as a MCA Final SEM Project for
+"Global Realtors PVT.LTD, Hinjewadi, Pune.'
+The Real Estate Web Application is an interactive, effective and revenue-generating website
+designed for the Real Estate Industry. The main objective of this application is to help the Real
+Estate Company to display unlimited number of property listings on the website.
+"Beauty Parlor Management System" (B.Sc. (Com.Sci.)
+Tool: VB 6.0
+Language: VB
+Database: MS-Access
+Operating System: Windows XP
+The Beauty Parlor Management System is an easy and effective system to use. The main features
+of this system are to avoid manual work and keep storing all appointments of customers.
+"Web Designing Project (Reptiles.com II (B.Sc. (Com.Sci.)
+Language: HTML and ASP
+Tool: Dreamweaver 8.0
+Database: MS-Access
+Operating System: Windows XP
+The Reptiles.co is a simple informative site. The main features of this system are to give all
+information of Snakes.

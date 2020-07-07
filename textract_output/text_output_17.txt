@@ -1,0 +1,121 @@
+Dhanushkodi Raj
+Technology Analyst Infosys Limited
+Chennai, Tamil Nadu Email me on Indeed: ndeed.con/r/Dhanushkodi-Raj/cf31bbac6c5a5d2s
+A highly competent and results oriented Senior Automation Test Analyst with 9+ years of
+experience in Software Testing, Selenium Automation, Development, JAVA web projects, Team
+leading & training, client facing. Proven ability in Selenium WebDriver Automated testing &
+Frameworks, Page Objects & Hybrid Frameworks, TDD, Gherkin language (BDD), Web testing,
+Functional testing, Performance & Load testing. Excellent experience in each phase of Test
+Life Cycle, Test strategies & Test plans, UAT. Solid experience of Software Development Life
+Cycles, Selenium WebDriver, Cucumber, JAVA, JUnit, Web Applications, JIRA, Maven, SQL, AGILE
+Methodologies, Scrum, LoadRunner, E-commerce/Financial domains, Automation & Testing tools.
+Excellent experience in automation of Web-based, Highly transactional and large Client/Server/
+Multi-tier applications
+Proven ability in writing Selenium Webdriver using JAVA, TestNG, JUnit, and Leading JAVA projects
+automation
+Expertise on Manual testing of the applications
+Solid experience on Selenium using Cucumber automation
+Solid experience of AGILE Methodologies, AGILE Manifesto and Scrum processes
+Solid experience of Defect/Test Management tools like JIRA, Qualitycenter.
+Proven skills in SQL, RDBMS and UNIX variant like LINUX
+Expertise in writing SQL Queries, SQL Scripts and performing Database testing
+Proven skills in Leading and training teams, Test Management and Meeting the deadlines
+Strong communication & interaction with Clients, Developers, Business Analysts, Management
+Strong experience of E-commerce, Financial, Banking, Insurance, Trading and Telecom domains
+Proven ability in Windows/UNIX Commands, Scripts and testing on Windows/UNIX platforms
+Proven ability in Working individually or as a part of team, Problem solving, Process
+improvement activities, Analytical skills, Reporting and Assisting to Manager
+WORK EXPERIENCE
+Technology Analyst
+Infosys Limited
+June 2015 to Present
+Project: Video Banking testing and Web Application testing for Barclays Bank
+Barclays Bank is one of the leading banks in the UK. Video Banking feature Barclays Video Banking
+lets you have a secure, confidential conversation with us. It's a convenient alternative to visiting
+a branch. Talk about account services; Ask mortgage-related questions; Have appointments with
+your Relationship Manager.
+Achievements:
+Won Barclays Best Agile award for the year 2016
+Saved 30% time and cost of testing by automation using Selenium WebDriver, JAVA, Cucumber
+Increased productivity by 20% by effectively training, leading and managing the AGILE
+automation team
+Achieved customer satisfaction and high quality by effective Automation testing, AGILE
+Processes
+Responsibilities:
+Implemented automation using Selenium WebDriver, JAVA, Cucumber, Maven.
+Extensively automated regression and functional test suites by developing over 237 test cases,
+6 test suites using Selenium WebDriver, JAVA, JUnit.
+Implemented Page Objects framework, Hybrid framework and 21 Page classes from scratch to
+represent web pages.
+Developed Data Driven frameworks to retrieve test actions, test data from Excel files and SQL
+Databases.
+Configured Maven for JAVA automation projects and developed Maven project object model
+(POM)
+Developed BDD tests using Cucumber by writing behaviours and step definitions. Developed
+required Selenium support code in JAVA for Cucumber.
+wrote SQL queries extensively, queried database and generated test reports. Performed
+Purchase Orders Database testing by developing 14 SQL scripts.
+Performed Defect Tracking & Management in JIRA. Generated automated daily reports using
+JIRA API.
+Worked in a highly dynamic AGILE environment and participated in scrum and sprint meetings
+Assisted Manager by providing automation strategies, Selenium/Cucumber Automation and
+JIRA reports.
+Identified weaknesses in QA Processes, Web testing, Selenium Automation. Suggested &
+implemented improvements.
+Tools/Environments: Selenium WebDriver, Maven, JAVA, TestNG, JIRA, HP Qualitycenter,
+Confluence page, SQL, Oracle
+Technology Analyst
+Infosys Limited Chennai, Tamil Nadu
+January 2013 to June 2015
+Project: Automation on Web Application for PGE project
+With the implementation of the new platform we did not see the uplift in call containment that
+was expected. Over the course of the year following deployment, several changes were made
+in an attempt to improve the containment rate. Based on the analysis done during this time we
+determined that moving away from the natural language speech platform and back to a directed
+dialog menu structure would get us back on
+Achievements:
+Saved 20% of testing budget by automating Regression/Functional tests using Selenium
+WebDriver & Java
+Responsibilities:
+Automated System testing for trading transactions, exchange operations and payment methods
+using Selenium WebDriver, Java.
+Developed, executed and maintained over 182 Selenium automation scripts for trading web
+application.
+Developed Hybrid automation framework Java by using Page Objects framework, Data Driven
+frameworks. Automated running smoke tests and build report generator for daily builds.
+Developed 7 Java class libraries, 16 JUnit test scripts to test XML build data files.
+Performed Load and Stress testing by developing LoadRunner scripts to find out effective Web/
+App server configurations for best performance levels.
+Extensively performed Database testing using Selenium. Generated Production DB reports
+using SQL queries.
+Provided different build reports, Selenium automation reports, Performance testing reports to
+Senior Management.
+Worked effectively with Developers, AGILE Team, Project Management to achieve Selenium
+automation, high quality, release deadlines and QA processes improvements.
+Tools/Environments: Selenium WebDriver, JAVA, Junit, Maven, JIRA, HP Qualitycenter, MySQL
+Software QA Engineer
+Infosys Limited Chennai, Tamil Nadu
+June 2012 to December 2012
+Project: Corporate e-banking system is a comprehensive corporate and small business banking
+solution providing a single unified view of the corporate banking relationships across asset and
+liability products, limits, trade finance and cash management. Corporate customers of the bank
+gain the flexibility to view details of each account, capability to make Inter-bank and Intra-bank
+payments, access to trade finance information and transactions, and the ability to perform cash
+management activities. This also supports comprehensive authorization workflow, Transaction
+Limits, Electronic Invoice Presentment and Payment (EIPP) and Corporate Administration.
+It is also highly secure and provides support for different authentication mechanisms
+Responsibilities:
+Involved in Automation Test plan Preparation.
+Test Design Based on the Use Case Specifications.
+Generating Test Scenarios, Test case documentation and test data collection.
+Involved in Tests Execution and Reporting Defects Using Sun-Tracker.
+Responsible for GUI, Functional and System Testing.
+Involved in Compatibility Testing.
+Performed Database Testing using SQL in order to check the Data Validation and Data Integrity.
+Involved Peer reviews (Test Design)
+clear look on updating concepts and finding defects, sending it with suggestions.
+Tools/Environments Java, Jboss, Oracle and Win2008, SunTracker
+Software QA Engineer
+Infosys Limited Chennai, Tamil Nadu
+October 2010 to May 2012
+Project: Alert messaging is the process of reliably and securely circulating messages associated

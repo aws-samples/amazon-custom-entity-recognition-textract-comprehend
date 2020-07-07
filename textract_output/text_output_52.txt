@@ -1,0 +1,79 @@
+Nitin Tr
+Peoplesoft Consultant
+Bangalore Urban, Karnataka Email me on Indeed: indeed.com/r/Nitin.Tr/e7e3a2f5b4c1e24e
+An e-commerce website I built as my college project. The website contains all the basic elements
+of an e-commerce website which are
+The landing page, categorization of items based on filters, basic session level security, product
+page, Cart, share button, empty cart button, paginations etc.
+It consists of a separate seller accounts where sellers can register and later upload their products
+to be sold, which can later be edited or deleted.
+It consists of an admin panel where all the products listed can be viewed and edited by the
+moderator.
+60 days auto delete feature, which deletes the product listing 60 days from the date of upload
+if seller has not modified the listing upon the next login.
+Usage of Modals for registration and Login which reduces the number of pages to navigate.
+Languages used: PHP, MySQL, Html, CSS, Bootstrap, JavaScript and jQuery.
+WORK EXPERIENCE
+PeopleSoft consultant
+Oracle
+September 2017 to Present
+Performing customisations, enhancements and bug fixes for front end and backend inpeople code
+using appdesigner.
+PeopleSoft Consultant
+Oracle India Ltd
+September 2017 to April 2018
+Develop customizations to meet business process requirements using application designer.
+Involved in modification enhancement and bug-fixing of the PeopleSoft application both front-
+end and back-end to suit business needs.
+Communicate with the business and get clear requirements if adequate information is not
+available and also follow-up with them until final resolution is obtained.
+Release Enhancements for UAT and communicate with business to migrate into production.
+all
+Also have to work on service requests, Incident Creation, Incident Assignment additionally and
+constantly involved in querying the database and running reports.
+Freelance Development
+I am a passionate Web Developer and love to build clean, smooth and responsive websites. I
+have built many websites for individuals on freelance or per-project basis which are Responsive in
+nature. I am capable of building clean and responsive websites. They include personal portfolios
+and Small business websites.
+ttp://www.pramodprakash.com/shop: Responsive and Dynamic e-commerce portal.
+http://ww.pranodprakash.con/tickitBusdenourt: A bus booking platform, source:
+Kathmandu, Destination: Pokhra.
+http://ww.pranodprakash.con/geiste/index.php: A small business website focused on
+animations (under construction) also check (geisle/index2.php
+ttp://pramodprakash.com/fulllogin: complete login module with email account activation and
+password reset.
+http://pramodprakash.com/sec A small business website, built to showcase color combinations
+and layout.
+http://pramodprakash.com/r&d A small business website built in parallax format. Completely
+responsive.
+http://pramodprakash.com/web1 A template built according to given specifications and also
+small map feature included which also supports location search.
+EDUCATION
+Btech information science in BCET
+Vtu - Bengaluru, Karnataka
+2017
+Vijaya composite p.u. college
+e-commerce
+Vijaya High School
+SKILLS
+Php, Html5, Javascript, Css, Bootstrap, Jquery, Sql
+LINKS
+ttps://ww.linkedin.com/in/nitin-tr-588105129
+ADDITIONAL INFORMATION
+Software Skills
+ttps://ww.linkedin.con/in/nitin.tr.588105129
+Programming Language: core java, peoplecode.
+Scripting languages: PHP, Javascript.
+Web Languages: HTML, CSS.
+Database Language Sql.
+Frameworks: Bootstrap, JQuery.
+IDE'S NetBeans, Eclipse.
+Tools: Application Designer, Toad.
+Personal Skills
+Excellent Communication Skills both Written and verbal.
+Honest, trustworthy and highly motivated team player and Strong Negotiator.
+Supportive and creative.
+Quick Learner and Flexible.
+Good Analytical Ability and Logical Reasoning.
+Good listening skills.

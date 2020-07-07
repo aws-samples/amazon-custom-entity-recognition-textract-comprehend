@@ -1,0 +1,51 @@
+Kiran Kumar
+I Having 2.1 years of Experience in IT, now currently working as a Linux
+Administration in Infosys in Bangalore.i have Good knowledge in Red
+hat Linux
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/kiran.kumar/7e76e7a9e62e7ee5
+Having 2.1 years of Experience in IT. Now working as a Linux Administration and Knowledge in
+installing and maintenance and troubleshooting Linux in Operating Systems.
+Installation, Configuration, Maintenance and Administration of Red Hat Enterprise 5/6,
+Checking Linux server 's CPU Utilization, Memory Utilization, and Disk Utilization for
+performance monitoring,
+Managing User Administration,
+Creating new file systems through LVM,
+Installation of software packages using RPM and YUM,
+Expertise in Raid configurations,
+Good knowledge in Cron jobs scheduling,
+Knowledge in ACL implementation on user and groups,
+Good knowledge on Disk quota management,
+Network configurations assigning IP address in Static and DHCP,
+Apply Sticky bits on files and directories,
+RHEL booting process,
+Creation Symbolic links.
+Willing to relocate to: hyderbad, Telangana Bangalore, Karnataka Chennai, Tamil Nadu
+WORK EXPERIENCE
+Infosys
+Linux Admiration in Infosys. Bengaluru,
+Karnataka
+May 2016 to Present
+Linux Administrator
+EDUCATION
+Bachelor of Technology in insurance
+SRIKALAHASTEESWARA INSTITUTE OF TECHNOLOGY
+SKILLS
+file systems (2 years), Linux (2 years), maintenance (2 years), scheduling (2 years)
+ADDITIONAL INFORMATION
+Operating systems: Linux
+Role: System admin
+Roles and Responsibilities:
+> Perform software installation, upgrades/patches, troubleshooting, and maintenance on Linux
+servers,
+Configuring Cron-job and scheduling the jobs,
+User administration,
+Creation New file systems,
+File permissions,
+Backup management by using TAR,
+Day to day checking Linux server performance,
+Installation of software packages using RPM and YUM,
+Providing day-to-day user administration like adding or deleting users, password aging,
+Installation, Configuration and Administration of various versions of Redhat Linux,
+Apply Sticky bits on files and directories,
+RHEL booting process,
+Creation Symbolic links.

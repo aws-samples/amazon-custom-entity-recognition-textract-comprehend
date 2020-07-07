@@ -1,0 +1,141 @@
+Manisha Bharti
+Software Automation Engineer
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Manisha-Bharti/3573e36o88ddco7s
+3.5 years of professional IT experience in Banking and Finance domain and currently working
+as Software
+Automation Engineer in Infosys Limited, Pune.
+Have experience in accounts and customers domain in banking.
+Woking on SOA technology.
+Hands on experience of 2+ years in Oracle 11g
+2.9 years of professional experience in Middleware Testing and
+Functional Testing
+4 months of experience with UiPath.
+Experience on GUI and API testing on HP UFT
+Working on agile methodology where involved as a senior tester.
+Involved in various STLC stages including Test Planning, Test analysis, Test Execution, Defect
+management and
+Test reporting.
+Possess sound knowledge of SQL, STLC, Testing Procedures, HP ALM, HP UFT, HP SV, SOAP
+UI, JIRA, JENKINS, CICD, UiPath.
+Involved in various client presentation.
+Training & Achievement
+Title: Infosys E&R Training
+Description: Has undergone E&R training in Infosys Limited (Mysore) in Microsoft. Net Stream.
+There I had been explored SQL,
+RDBMS, OOPS, Mainframes, Software Testing and Software Engineering. Has been trained in
+Automation Testing
+Tools used- Eclipse, UFT, RPT, SQL Server Studio
+Received two times FS INSTA award from Infosys for excellence in work in automation and team
+support Got Appreciation from Project Manager for root cause analysis of defects
+Got Client Appreciations for successful execution in releases. ( Almost 240 service operations go
+live in a year.)
+Willing to relocate to: Pune, Maharashtra
+WORK EXPERIENCE
+NOT WORKING
+Software Automation Engineer
+Infosys Limited
+August 2014 to July 2017
+->Worked as an software automation tester more than 3 years.
+->Working experience in Agile methodology.
+tsliwineoaieisatarisesioisiereriontaidld
+->Robotic Process automation certified. (UiPath)
+->Involved in CICD implementation in projects.
+->Having strong knowledge about HP UFT/QTP, HP ALM/QC, JIRA. JENKINS, SQL.
+System Engineer Trainee
+Infosys Limited
+February 2014 to July 2014
+CORE COMPETENCIES
+Technology:
+Service Oriented Architecture
+(SOA) Languages:
+SQL (Oracle DB)
+VB Scripting
+NET
+STLC:
+Test Planning
+Requirement Analysis
+Test Scenario
+Test Case Preparation
+Test Case Execution
+Defect Logging
+Testing:
+Functional Testing
+Middleware Testing
+Regression Testing
+GUI testing & API testing.
+Languages VB Scripting, JAVA
+Web Technologies ASP.Net, XML, HTML
+Databases SQL Server 2008/2005, ORACLE 11g
+Database Connectivity ODBC
+Distributed Computing Web Services, API, Windows Services
+Modelling Tools Microsoft Vision
+EDUCATION
+B Tech in CSE
+Meghnad saha institute of technology
+2013
+SKILLS
+jira, jenkins, automation testing, cicd, service vitualization, uipath
+ADDITIONAL INFORMATION
+Operating Systems Windows 10 / 8 / 7 / Vista / XP
+Domains Banking and Finance
+Frameworks Data driven framework, Keyword driven framework
+Tools HP-UFT, HP-SV, HP-ALM/QC, SOAP UI, JENKINS, UiPath
+Methodologies STLC, Agile and waterfall.
+Project Management Tools JIRA
+TECHNICAL SKILLS
+.5+years of professional experience in SQL.
+Has hands on experience on Oracle DB (Oracle 11g)
+Has extensive knowledge of Testing Procedures and various
+phases of Testing Has 2+ years of experience on QC/ALM
+Has 2+ years working experience in API & GUI testing
+using HP UFT. Has 4 months of experience with uiPath
+Has 2+ years working experience in SOAP UI.
+Has 1.5+ year working experience on service virtualization using HP SV tool.
+Has 6 months working experience in JIRA during work under agile methodology
+Has undergone Infosys Training in Net Testing
+Has knowledge about CICD (Continuous integration and continuous delivery)
+PROJECT UNDERTAKEN
+DI-Middleware testing (August 14
+July 17) Domain- Accounts and customer.
+client- ABN AMRO Bank (Netherl land's bank)
+Project Name- ESB (Enterprise service bus)
+Tools- ALM, SQL Developer, HP UFT, HP SV, SOAP UI, JENKINS, JIRA.
+In this project, we were validating end to end communication of consumer & provider via ESB.
+what consumer actually
+sent to the Provider and how provider responds to the consumer. Testing included System
+Integration Testing,
+Regression Testing, GUI Testing and Reports.
+Responsibilities-
+Automation work
+Preparing automation scripts using HP UFT tool where focus on Middleware logging as per the
+ESB behavior.
+Integrating all automation scripts with the ALM so that on one click we are able to execute test
+cases and collecting all
+test results and logged defects in ALM without any manual efforts.
+Manual Work -
+Requirement analysis and Test Planning.
+Test Scenarios preparation for various functionalities as per the Requirement.
+Test Cases Creation and their execution for various functionalities of ESB and different provider
+services
+Prioritization of test cases as per the business requirement
+Test Data Preparation as per the requirement using HP ALM.
+Defect logging in case of any unusual behavior of the solution.
+Preparing weekly Progress Reports.
+Leading the defect call
+Virtualizing services using HP SV tool and deploy on central server so that in downtime testing
+should not be impacted.
+CICD-JENKINS:
+Involve in Continuous integration and continuous deployment strategy, with the help of JENKINS
+& UFT (automation scri
+pt integrated with HP ALM) successfully implemented for currently working project.
+TDM implantation in CICD pipeline.
+Presentation Direct communication to clients:
+Present my team and our work to the client directly. (including CICD and TDM job
+implementation in the same)
+uiPath exposure within same project:
+Convert existing/new projects which are using UFT for automation into uiPath based
+automation.
+Do the feasibility analysis for the conversion and come up with a plan to convert maximum
+artifacts with minimum
+efforts
+Setup basic skeleton for the new project

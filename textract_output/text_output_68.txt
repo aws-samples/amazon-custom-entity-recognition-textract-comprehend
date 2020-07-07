@@ -1,0 +1,53 @@
+Rohit Bijlani
+JAVA Developer/Senior Systems Engineer INFOSYS LIMITED
+Itarsi, Madhya Pradesh Email me on Indeed: indeed.con/r/Rohit-Bijlani/06ecf59ddac448c7
+A Dynamic, Hardworking, Focused and Result oriented person with 2 years 10 months
+of experience in development using Java Technology and other cutting edge technologies.
+Experience in design and development of enterprise applications using agile methodology. Rich
+experience in build and deployment process.
+Willing to relocate to: Pune, Maharashtra
+WORK EXPERIENCE
+JAVA Developer/Senior Systems Engineer
+INFOSYS LIMITED Pune, Maharashtra
+February 2016 to Present
+Project Idea: The Aetna Quoting Center (AQC) comes under the Aetna Group in Health Industry
+and its Headoffice is in Hartford. AQC is a Java enterprise Web based application in Sales Rating
+and Quoting (SRQ) domain. AQC is developed as a single Rating/Quoting engine for Middle and
+National Market Customers for new business offering both Traditional and Health Maintenance
+Organization Products.
+AQC is used by the Aetna Sales Representatives and Underwriters for creation of New Business
+Quotes./ Quote typically comprised of Customer, Member Information along with the Product/
+Benefits being offered and the corresponding Premium to be paid for the HealthCare Plan.
+Responsibilities:
+Analysing business and system requirements and creating design patterns for applications.
+Presenting the ideas to client for application and implementing it in the application
+clear understanding of Requirement gathering and designing phase. Created Detailed Level
+design (DLD) document of all subsequent releases till date.
+Experience in working over deployment process, deploying code over different servers,
+maintaining deployment documents and handling different task in subsequent releases.
+Excellent hands-or in erforming request analysis, finding defects and giving code fixes in
+minimal amount of time.
+Resolving Client Issue
+Other Responsibilities:
+Sharing knowledge with the team by sharing KM tips/quizzes/sessions.
+Mentoring 2-3 team members and providing technical guidance in AQC project
+JAVA Intern
+INFOSYS LIMITED Mysore, Karnataka
+June 2015 to November 2015
+top&co=IN
+Undergone 6 months of internship with Infosys, which includes theoretical as well as hands on
+experience in Core Java, Hibernate and SQL.
+Successfully completed Infosys's Mysore Internship.
+EDUCATION
+Bachelor of Engineering in Mechanical Eng
+ITM University Gwalior Gwalior, Madhya Pradesh
+2015
+SKILLS
+J2Ee, Sql server, Core Java, Spring mVc, Hibernate, Spring
+ADDITIONAL INFORMATION
+SKILLS Languages: JAVA.
+echnologies/Frmwks: Hibernate, Spring, Spring MVC.
+IDE/Tools: Eclipse, Rational Application Development (RAD)
+Database: SQL Server 2008
+Miscellaneous: Xml.
+OS: Windows

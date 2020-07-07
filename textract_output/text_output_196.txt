@@ -1,0 +1,146 @@
+Sridevi H
+Bangalore, Karnataka Email me on Indeed: indeed.com/r/sridevi-H/63703b24aaaa54e4
+To further my career with a growth-oriented firm that will allow me to utilize my experience and
+knowledge as a Technical /Project Lead.
+WORK EXPERIENCE
+Principal System Engineer
+Aricent Technologies
+Infosys
+Technical Lead
+EDUCATION
+M.S in Software Systems
+BITS Pilani - Pilani, Rajasthan
+B.E. in Computer Science
+Board of Technical Education
+SKILLS
+Networking/Platform/Drivers/Vxworks
+ADDITIONAL INFORMATION
+Key Strengths
+Over 15 years of experience in Ethernet Data Communication Technology Ethernet Routing
+Switches, Metro Ethernet Routing Switches, Platform and Wireless
+Good knowledge of Real Time operating Systems (Vxworks) and Drivers
+Highly skilled in performing analytical and logic building functions to provide feasible solutions
+to problems
+Brilliant interpersonal coordination and communication skills
+Competent at leading, managing and training teams on different aspects of data
+communication systems
+Technical Skill Set
+SYSTEMS WORKED ON Data communication -Multi Service Transport Network Controller Cards,
+Ethernet Routing Switch,
+DOMAIN KNOWLEGDE
+Enterprise Router -L2, L3 protocols (MLT, LACP, BGP, STP, SMLT, SLPP, Provider Bridge, IPFIX,
+VRF, RSP Fastpath)
+Platform -Task Architecture, Logging, File System, Debugging tools, Crash analysis, Chassis
+Management
+Wireless- 802.11 Split AP Architecture, WMM 802.11 E
+OPERATING SYSTEMS and LANGUAGE PROFICIENCY/HARDWARE PLATFORM Programming/
+Library/Platform - C, Visual Basics, Unix, RTOS-VxWorks, Windows, Power PC based processor,
+TOOLS
+clarify, clearcase, Source Insight, Network Traffic Simulators like IXIA, Smart Bits, Network
+Protocol Analyzers like Ethereal and Wireshark.
+DATABSE Oracle, MS Access, MySQL
+REWARDS AND RECOGNITIONS
+Spot Awards, Program Level Awards Infosys, Aricent
+Individual Excellence Award 2010 Infosys
+Leadership Quotient Award 2014 Aricent
+Client Appreciation Award 2016 Aricent
+Engineering Excellence Award 2016 Cisco
+SOFT SKILLS
+Soft skill trained and certified in the areas like Interpersonal Effectiveness, Client Interfacing
+Skills, Cross Cultural Skills,
+&amp; Team Management
+Projects Handled in Aricent
+Project 01: TNC Controller card for MSPP and MSTP Optical network
+Duration: From Date: Nov 2014 to till date
+Designation: Principal System Engineer
+Client: Cisco
+Role:
+1. Design and Development of Network Driver/Pseudo Network Driver for new controller card with
+Broadcom SDK integration and Driver Implementation Tasks include Driver design for new Chip,
+Broadcom SDK compilation in Vxworks, Integration and Writing driver using Broadcom SDK.
+2. Design and Development of Broadcom Mini Driver Kit Integration in new controller card
+3. Design and Development of Features like GDT, ANSI-ETSI on Multishelf
+4. Front ending the Different Releases
+5. Technical Guidance and Backlog Reduction Activities
+6. Solving Critical Customer issues
+Few examples of critical issues solved in the TNC which fetched client appreciations
+Flash Mgr Stuck issue
+UsbMgr Stuck issue
+Silent Reboot caused in the standby controller
+Ipv6 connectivity failure every 2-3 hours
+Arp6show causing crash in telnet session
+7. Client interaction and customer network/Test Team Network debugging
+8. Mentoring the team
+Project 02: VSM IPSec for ASR9K
+Duration: From Date: Feb 2013 to Oct 2014
+Designation: Senior Technical Lead
+Client: Cisco
+Support for IPsec on ASR9K routers. VSM Service module is extended to support IPSec Service
+on ASR9K. In order to achieve the Time to market, in the first phase IPSec management, control
+and data plane are not integrated with IOS-XR. VSM card while plugged inside ASR9K chassis,
+will provide the IPSec functionality. From an ingress LC, traffic requiring IPSec functionality
+(encryption or decryption) will be sent to VSM card. Upon completing the crypto operation, traffic
+will be forwarded to the destination egress LC to be sent out of ASR9K system.
+Role:
+1. Initial Sessions for the team members on overall architecture
+2. Coordinating with team members and technical help to the team
+3. Initial investigation using Intel DPDK compilation, launch VMs etc.
+4. Initial investigation on High Availability Design
+5.
+Design/Development of Keep alive functionality between Control plane and Data plane agents
+6. Design/Development of integrating CDP in Control Plane
+7. Design/Development of having CDP in the Linux Data plane
+Prior Experience Outside Aricent
+Company worked for: INFOSYS LIMITED
+Duration: From Date: 03 Sep 2007 To Date: 2 Jan 2013
+Designation: Technology Lead
+Product: MERS and ERS Routers
+client: Avaya
+Project 01: Ethernet Routing Switch North American OEM
+The Ethernet Routing Switch is a proven, tested, resilient intelligent network solution that scales,
+delivering hundreds of Gigabits per second and hundreds of millions of packets per second of
+performance to the core. This flexible switch reduces the complexity of network design, making
+it ideal for midsize-to-large enterprise campuses and data centers. Its switching architecture is
+based on Network Processing Units (NPU)
+This project aims at design, development and sustenance of Enterprise Routers.
+Responsibilities/Activities
+Bug Fixing and crash analysis in area of Routing and system architecture
+Trouble Shooting the live customer network to understand the issue provide work around and
+collect data
+As Sustenance team member and lead resolved/supervised critical customer and design issues.
+Critical customer issues in Area of Vxworks Stack, SSH, STP
+device drivers, BGP protocol, MLT, LACP, CFM
+Some good issues solved in different areas of the product which are in memory are
+Solving tftp hang issue in Vxworks Stack
+Providing task delete hook for the graceful task deletion for SSH Hang issue
+Solving BGP indirect neighbor issue by trouble shooting live customer network
+Providing analysis and solution to a non-reproducible SSH hang issue
+Providing analysis on inter-op issue with proprietary IO card with CISCO
+Fix for CF card crash issue
+Quick solution provided in RSP Code for handling traffic on STP blocked port for IP Traffic.
+Provided design/technical inputs for feature development "Sys log Support through SSH
+ortforwarding
+Supervised feature "Federal IA Library" design and implementation
+Maintain and setting up of scaled up stability network to verify the Stability of the product
+Training and mentoring new personnel in the project
+Review of Designs, Enhancements &amp; Major Bug Fixes.
+-Provided Code /Design Review comments and testing guidance and testing scenarios.
+Design Support to Product Test teams for newly developed features.
+Design and Development of enhancements.
+As a lead involved in tracking deliverables, estimation, status reporting (to the customer),
+productivity and quality tracking.
+Additionally providing consultation to test team in their deliverables
+Ensuring high quality of deliverables through reviews and defect prevention.
+Project 02: Metro Ethernet Routing Switch North American OEM
+Responsibilities/Activities
+Worked in the various capacities -Technical Lead, Designer,
+Resolving Critical customer issues in quick turnaround time
+Driving the sustenance team size of 10 by providing the technical assistance and necessary
+sessions and trainings in turn increase the productivity of the team
+Conducting weekly bug-scrub meetings to ensure the work in track
+One of the key code reviewers in the program to ensure the proper quality of the product
+delivered.
+Defect analysis, Knowledge management are the other key responsibilities
+Training and mentoring new personnel in the project.
+Company worked for: HUAWEI TECHNOLOGIES
+Duration: From Date: 07 Jun 2004 To Date: 18 May 2007

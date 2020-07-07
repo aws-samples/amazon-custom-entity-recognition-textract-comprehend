@@ -1,0 +1,121 @@
+Venkateswara D
+specialist Technology Process
+IN Email me on Indeed: indeed.com/i/venkateswara-D/18b373e3bo3b371f
+A technocrat with over 10 years of rich experience across various fields like Customer Services,
+End user support, Technical Support, Risk Management, BMC Remedy Support (Basics) and
+Service Delivery Management.
+WORK EXPERIENCE
+specialist
+Technology Process
+2008 to Present
+Production Support Analyst (Microsoft
+Infosys Limited Hyderabad, Telangana
+April 2004 to September 2007
+Worked As chemist for Quality control Heterolabs Private Limited, Hyderabad from April2004 to
+September 2007.
+PROJECTS
+Project Details (#1): Microsoft Finance Solution Delivery Tier 1
+Client: Microsoft, India
+Role: Production Support Analyst (Microsoft India)
+Organization: Infosys Limited, India Description:
+MSFNSDT1 (Microsoft Finance Solution Delivery Tier 1) support is a group which gives the frontend
+support for Microsoft applications used by their FTES (Full-Time Employees) These employees
+are generally the higher officials of Microsoft who use various tools to generate their reports
+on Quarterly basis. This Support team is having 47 applications and divided in to 4 clusters i.e.
+Planning, Finance, MS Sales and Headcount.We the Tier 1 team are the first point of contact for
+MS employees who use these tools. Our work is to do the troubleshooting and revert back to
+them with emails and through calls.
+ROLES and Responsibilities
+Gatekeeper and Support Analyst
+Resolving user's issues and reverting back to them with emails and through calls related to 12
+applications comes under Planning and Finance clusters ( WW Services, Calypso, and Latam)
+Preparation of documents (FAQs, Articles)
+closed Service Request analysis, finding common issues and document them with suggestions.
+Training new resource, monitor and review their work on daily basis.
+Supporting other clusters as SA, during their pick times.
+Developed complex SQL and PL/SQL scripts as part of development.
+Project Details (#2) Project 3- VLIT (Microsoft's Volume Licensing)
+Client: Microsoft
+Team Size: 24
+Tool: Visual Studio 2010 Ultimate,
+Technologies: C#, Glider framework, SAP GUI (MSU), SQL Server
+Operating System: Windows 7,
+Role: Test Engineer
+Description: Microsoft's VL programs allow customers to purchase and upgrade software licenses
+at substantial discounts, provide more flexible payment options, ease license management and
+software deployment, and are the only way to purchase many Microsoft products. The Laminar
+Alpha (ECX 1.0/1.1&1.15) release to enable the E2E processes required to launch the
+VLA in market (i.e. book revenue) and to support (through a combination of automated, semi-
+automated, and manual processes) the essential elements of the Volume Licensing experience
+required to sustain a production business launch.
+The Licensing Operations Centre (LOC) will be a single portal for users in the Regional Operation
+Centers (User Management- Create and Manage users) to perform tasks that facilitate Volume
+Licensing (VL) transactions and support. Individuals in the ROCs perform a variety of activities
+within the end to end VL ecosystem, from Pre-Sales support to Quote-to-Cash transactional
+operations, and subsequently Post-Sales support of Partners, Customers and Internal Microsoft
+stakeholders.
+Responsibilities
+Understanding and analyzing Business Requirement Document (BRD), Functional Specification
+Document (FSD)
+Involved in creation of Test Scenarios and Test cases for the User.
+Involved in Creation of unit test cases.
+Executing the test cases both manual and automated.
+Involved in Data Base testing using SQL queries.
+Reporting bugs using VSTF.
+Involved in functional testing of the VLIT Laminar Web Application.
+Involved in creation of Accounts (Legal, Customer and Partner) and Contacts from SAP GUI for
+functional testing
+Project Details (#3)
+Microsoft order Management
+Client: Microsoft, India
+Role: Production Support Analyst (Microsoft India, Hyderabad)
+Organization: Infosys Limited, India
+Team Size: 10
+Details of project:-
+Working as Line 2 Support Analyst for BGOS group of Microsoft Corporation, and providing 24*7
+Production support in SQL Server 2008 for LPO division of Microsoft which provides support for
+operational deployment and support for a variety of internal corporate tools and external facing
+localization tools throughout Microsoft. LPO (Licensing and pricing operations) support teams
+in India, Redmond, Dublin and East Asia, The objective of this project is to support Incident,
+change the release management in the production system and mission critical Microsoft internal
+application.
+Order management: Order management is a platform which is built on Net technology and
+is used as main application for order processing of various products manufactured and sold by
+Microsoft which includes all operating systems, Microsoft Office, XBOX etc. In this application the
+orders are placed on the websites which flow through various channels of security and validation.
+These sub channels are also supported by us. We support this Order management application
+in 3 different environments, production, UAT (testing Environment) and POB (Production on
+boarding) We are the actual owners or all the 3 environments.
+Production Support Analyst: Microsoft Order Management Platform/Application
+Roles and Responsibilities
+Provide 24 7 production support for Microsoft order management Updating the patches
+released.
+DB administration which includes taking database backup, restoring, health checking.
+Taking appropriate actions according to the alert from SQL servers and web servers.
+Checking any connectivity issues. If so, escalating the case to respective teams.
+Taking care of the Reporting Services issues.
+Updating monthly Taxware Data to all production/UAT/POB servers Taking
+care
+of
+production
+databases and various jobs.
+Smoke test of the jobs
+Running the various database updates given by the SE team in all the 3 environments.
+Resolving web application issues.
+Coordinating with business team and implementing there requirements on database.
+Handling the stores and installing new DLL'S and web application files like HTML, XML etc at
+given locations in all 3 environments.
+Updating passwords when there is a password expiry.
+Giving real time support to customers, when they face any OM application related issues..
+DBA tasks for more than 30 databases
+Monitoring and administration of user access to web application.
+Administrative tasks like permissions; logins for various tools are websites too.
+Monitoring Database Growth.
+Creating Reports using SQL Scripts (Querying the database)
+Activities involves the below ITIL process
+Incident Management: Working on the level 2 incidents to make sure that the response times
+to the users is minimized. Analyse, troubleshoot and provide the work around/resolution to the
+incidents and resolve the issue within given SLA (Service Level Agreement)
+Change Management: Working on the RFC'S raised by the user. Following up with the user in
+all the 11 stages with all the approvals of RFC'S. Then, testing the change in Dev and acceptance.
+Finally implementing the change in production.

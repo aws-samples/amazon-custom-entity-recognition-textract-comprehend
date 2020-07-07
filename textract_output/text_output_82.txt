@@ -1,0 +1,97 @@
+Shrishti Chauhan
+Have total work experience of 2.5 years on Oracle Fusion Middleware
+SOA, WebLogic and MFT Module.
+Bilaspur, Chhattisgarh - Email me on Indeed: indeed.com/r/Shrishti-
+Chauhan/89d7feb4b3957524
+Seeking to hone and enhance my technical skills in Oracle Fusion Middleware while working as
+a professional in challenging and goal oriented environment.
+Willing to relocate to: Bengaluru, Karnataka
+WORK EXPERIENCE
+Technical Consultant
+Oracle Bengaluru, Karnataka
+October 2015 to Present
+Have total work experience of 2.5 years on Oracle Fusion Middleware SOA, WebLogic and
+MFT Module.
+Have extensively worked on Support, Testing, Cloning, Monitoring and Maintenance support
+and Enhancement for the E-Commerce Project with multi system module.
+Have good understanding on End-to-End Business Process.
+Experience in developing and deploying BPEL Processes using technology adapters (DB
+Adapter, File Adapter, FTP Adapter and JMS Adapter).
+Part of a team for developing a BPEL process to integrate Oracle Fusion Applications. This
+Orchestrated BPEL Process had process activities like data conversion, transformation and fault
+handling.
+Developed and deployed BPEL processes to import sales order and add lines to the sales order
+imported from external sources (Files and Databases) into Order Orchestration Module.
+Worked on BPEL process to create sales order within Order Orchestration Module using SOAPUI
+and Enterprise Manage.
+Have good understanding on Synchronous and Asynchronous processes, Transformations, XSD,
+XSLT and XPath
+Installation of Middle tier application server (SOA Suite 11g), configuring and deploying
+application adapters and integrating with other ERP or 3rd Party Services.
+Working with the client team and communicating with the business teams regarding integration
+with external Delivery System.
+As an Oracle Technical Consultant I was responsible for providing End-to-End support in the
+project for Oracle Fusion Middleware.
+Good understanding of Service Oriented Architecture (SOA) with the middleware technologies
+for application integration.
+Technical Consultant
+Oracle
+Have total work experience of 2.5 years on Oracle Fusion Middleware SOA, WebLogic and MFT
+Module.
+EDUCATION
+C.S.
+CHHATTISGARH SWAMI VIVEKANANDA TECHNICAL UNIVERSITY
+2011 to 2015
+SKILLS
+Xml, Oracle MFT, Core Java, Oracle SOA, WSDL, ODI
+ADDITIONAL INFORMATION
+TECHNICAL SKILL SET
+ERP Packages Oracle Fusion Middleware and Oracle Fusion Application (D00/GOP)
+Fusion Middleware Modules Oracle SOA, MFT and Web Logic (11G and 12C Version)
+Adapters Database, JMS, FTP and File
+Tools JDeveloper, Enterprise Manager, Administrative Console, SOAP UI and BI Publisher
+Programming Languages XML, C++ and Core Java
+Databases SQL
+Operating System Unix and Windows
+PROJECT DETAILS
+Project Client HOLTS RENFREW
+Role & Duration Technical Consultant Oct-15
+Scope of Project Oracle Fusion Middleware 11G and Oracle Fusion Application R12
+Project Description
+Holt Renfrew is 180 years old chain of high-end Canadian department stores specializing in an
+array of luxury brands and designer boutiques.
+Responsibilities
+Worked as Technical Consultant to the customer for the issues related to Oracle SOA (mainly
+BPEL and Mediator Components).
+Providing daily Server Health Check for SOA and D00/GOP (SCM) to the customer.
+Attending/Conducting weekly customer calls and providing an update about the progress of
+the issues.
+Interacting with the Clients to understand the requirement and details of the issues and
+providing suggestions/answers to their queries.
+Resolving technical issues and enhancement raised by the customer.
+Reviewing work products from the Team Members and delivering products to the client on time
+with high quality.
+RCA for the Complex Issues in client's version of Oracle SOA and SCM.
+Partially worked on functional issues related to D00/GOP Order Management and Inventory
+Management.
+Working effectively with Oracle Product Support for any issue related to Standard Functionality.
+Project client WHITBREAD PLC
+Role & Duration Technical Consultant SEPT-17
+Scope of Project Oracle Fusion Middleware 12C and Oracle SAAS
+Project Description
+Whitbread PLC is the UK's largest hospitality company, owning Premier Inn and Costa Coffee, as
+well as Beefeater, Brewers Fayre, and Bar Block.
+Responsibilities
+Worked as Technical Consultant to the customer for the issues related to Oracle SOA and MFT.
+Monitoring Critical Process and fixing the concurrent process running on SOA, MFT and ODI.
+worked on developing and executing Integration Regression Test Script.
+Developing Application Understanding Documents for the Standard functionalities.
+Interacting with the Clients to understand the requirement and details of the issues and
+providing suggestions/answers to their queries.
+Resolving technical issues and enhancement raised by the customer.
+Reviewing work products from the Team Members and delivering products to the client on time
+with high quality.
+RCA for the Complex Issues in client's version of Oracle SOA and SCM.
+Working effectively with Oracle Product Support for any issue related to Standard Functionality.
+Co-ordinate internally with various teams, executives in providing the decisions to various
+factors influencing the project implementation

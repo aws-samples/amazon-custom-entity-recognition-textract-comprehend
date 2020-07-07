@@ -1,0 +1,134 @@
+Raktim Podder
+6+ Exp in banking operations and credit assessment
+Pune, Maharashtra Email me on Indeed: indeed.com/r/Raktin-podder/32472fc557546084
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+SME
+TCS
+Tata Consultancy Services: Project TELSTRA (AUSTRALIA)
+Sr Process Executive SME:
+Telecom Business Case Management.
+Technical support to the onsite engineers.
+Dealers support function.
+Emails regarding connection escalations.
+Tech implementations in telecom.
+Looking after the day to day business production.
+Team management:
+Handling a team of 18 FTE's
+Daily rostering
+One on one's
+Performance management.
+Communicating process updates.
+WFM
+EOD reporting on team performance.
+Huddles and catch-up's
+System access request for new joiners.
+Providing training to new joiners.
+Conflict management.
+Business performance reporting.
+Network setup and network access management as per requirement.
+Testing line and networking working capacity for minimal disruption.
+Setting up wireless channels for customers.
+Providing one stop solution for escalations from customers.
+Looking over the B2B connection setup of customers.
+Exception Management: Telstra Digital
+Case management
+Order built
+Escalations handling.
+CCSS Rep
+HSBC Electronic Data Processing India Pvt Bengaluru, Karnataka
+August 2014 to November 2016
+ttps://wwindeed.con/i/raktir-podder/32472fc5575460
+HSBC: UK onboarding and KYC
+Customer Relationship Management and on boarding:
+Setting up and checking KYC documents.
+National ID
+Address proofs
+Income proofs
+Addition security for additional credits.
+Credit scoring report from external credit rating agencies in UK.
+Calling the customer and informing the current status of the process.
+Asking for additional documentation if required.
+Interviewing the customer for understanding his/her portfolio.
+Uploading documents and creating profile in BMM and sending for approval.
+Liaising with branch and credit control for additional requirements and if needed execution of
+those requirements.
+Volume of production or volume of documentation forecasting based on the current sales and
+branch production:
+Liaising with branch to understand the volume.
+Liaising with sales to under the targets and performance ratio to determine the incoming CRM
+volume.
+Determining if there is a dip in CRM production or rise based on:
+Volume comparison and trend analysis reporting to the higher managements.
+weekly/ Monthly / Quarterly dashboard creation.
+Daily volume trend analysis.
+Production and process reporting EOD.
+Technical Implementation support:
+Requirements specifications to the development team to improve the applications in the project.
+UAT user acceptance testing of new applications in the project and reporting the same to the
+IT team
+Sit with development to understand the reason behind the implementation and communicating
+the same to the FTE'S
+Training provision on new applications to the FTE's
+Changes implementation if required to the development team.
+Online banking platform support:
+Helping the online banking team to implement the CRM online.
+Understanding the requirements of the management in regards to what they want and why they
+want to integrate the CRM into online banking.
+Meeting setup to understand requirements.
+Once the requirements have been framed we sit with the development team to provide them
+understanding of the CRM process and what is required by CRM that needs integration in the
+online banking platform.
+Providing support in every stage of website coding development:
+Communicating the scope and purpose of the website to the development teams.
+Helping with baseline setup.
+Providing data to the development team:
+what will be the content of the CRM tool in the website.
+How customers can access the tool online to complete their KYC.
+Illustration of documents required will be on the page or not.
+what kind of documents will be uploaded in the website.
+what kind of files will the website support.
+Where will it be stored after it gets uploaded.
+Where the files will be sent after it gets uploaded for approvals.
+How will the customer know of the status of the application process by automated email or by
+text or by both.
+What other links will be there on the online CRM tool which can be useful for the customer.
+what will the customer do if they are in confusion while uploading the documents for which a
+web chat can be introduced to provide support and direct contact with the executive.
+Understanding the size of the project and what resources are required to execute the project.
+Understanding the risk involved in executing the new codes in the running website:
+When will the maintenance take place at what time and what date to avoid minimal customer
+impact.
+Information provision providing the customer with website maintenance information and non
+usable timescale.
+How many FTE's required from operations for UAT of a particular code so that manpower planning
+is maintained and BAU is not effected.
+After the above the estimation of the project starts:
+Estimating the cost involved in this implementation
+FTE requirements
+Methodology used for development.
+Resources and technical knowhow required.
+Once the above function is performed the details of which is framed in a document template and
+sent to the higher management for approval.
+Once the approval comes the development begins.
+Tracking and estimation support is given at steps where it is required.
+After the implementation the UAT is again performed and asked for further requirements or if the
+management is happy with the implementation then the GO LIVE is arranged and executed.
+Infosys
+Process Executive
+Infosys PVT LTD: National Australian Bank Project (Australian, Tasmania and New Zealand)
+Credit assessment executive for credit cards:
+Setting up credit memo for approval in SAP.
+Credit appraisal or credit assessment:
+Preparation of financial data.
+Probability of default calculations.
+Credit risk ratio analysis.
+Proposal preparation.
+Assessment of proposal.
+Sanction/approval of proposal by appropriate sanctioning authority.
+Documentations, agreements, mortgages.
+Disbursement of loan Post sanctions activities such as receiving stock statements.
+Review of accounts, renew of accounts, etc (On regular basis) if CDD is required by the client.
+Credit Reporting and Analysis:
+weekly monthly and quarterl report generation regarding performing and non performing
+portfolios.

@@ -1,0 +1,78 @@
+Mahesh Vijay
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Mahesh-Vijay/a2584aabc9572c30
+Over 6.5 years of functional enriched experience in ERP in the Procurement to Pay domain. Was
+associated with Oracle India Pvt Ltd, Bangalore as Team lead Supplier Data Management in
+their Global Financial Information Centre (Global Shared Service Center) for Oracle's Business
+from Sep 2007. Feb 2014.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Team lead supplier data management
+Oracle India - Bangalore, Karnataka
+March 2014 to December 2016
+Managing Partner of family business of Tours & Travels
+Team Lead
+Oracle India Pvt Ltd
+October 2013 to February 2014
+Supplier Data Management
+Lead Analyst -SME -Supplier Data Management
+Oracle India Pvt Ltd
+September 2012 to October 2013
+Senior Analyst -Supplier Data Management
+Oracle India Pvt Ltd Bengaluru, Karnataka
+January 2010 to September 2012
+Academia
+Bachelors in Commerce (B.Com) from Vivekananda Degree College, Bangalore
+University( (2007)
+Pre University from Vivekananda PU College, Bangalore (2004)
+Passed 10th STD from Angels High School, Bangalore( (2002)
+Functional & Technical Expertise
+Functional
+Ensuring data quality in Purchasing Supplier management (PSM) registry and Trading
+Community Architecture of the Oracle e-business suite bundle.
+Managing all projects and ensuring the completion of the same within timeframe. Projects
+like Oracle Fusion Supplier Self Service, Supplier cleanup, migration of merger and acquisition
+suppliers, UAT
+Managing activities like synchronizing creation and updates of supplier records.
+Oracle Fusion - Related to Procurement modules Fusion Supplier Portal
+Sound knowledge in the Oracle Financial applications domain that includes various cycles like
+the Expense Reporting, Accounts Payables, Accounts Receivables, and Tactical Purchasing.
+R12 User Acceptance Testing, writing test cases and author test reports which analyze the
+reported defects.
+Technical
+Oracle Applications Releases: 12, 11.5, Oracle Applications Modules Purchasing, iProcurement
+Business Intelligence Reporting Tools: Oracle Discoverer & Accounting Software Tally 7.2
+Projects & ccomplishments
+Oracle Master Data Management- Legacy Data cleanup Project
+Role:
+Global Country wise clean up initiative focusing on achieving a clean and accurate database
+Supplier Information retrieval based on information in Purchase orders
+Oracle Fusion UAT. Supplier Self Service
+Role:
+Internal UAT-Part of upgrade team, testing all functionality and interfaces.
+Monitoring the new add on features in Fusion and old features assigned
+11i to R12 Migration- Manual UAT
+Role:
+Testing for Supplier creations, Merges, Tax set ups, Withholding and TDS code, Bank details etc
+Monitoring the new add on features in R12 and old features assigned
+Oracle Supplier Life Cycle Management (SLM) or Supplier Hub Project
+Role:
+Internal UAT- testing all functionality and interfaces for creating a 360 degree view for each
+and every supplier.
+Responsible for setting up suppliers' online, assisting requesters and suppliers to register a
+supplier and iSupplier access. Testing fast and flexible supplier searches that can be made into
+templates resulting in quick report generation Create and test blended supplier records from
+multiple sources
+SKILLS
+BCP (6 years), Data Governance (6 years), Data Management (6 years), Oracle (6 years),
+Reporting Tools (6 years)
+ADDITIONAL INFORMATION
+Key Skills
+Process Management & Improvement
+Operations & Team Management
+Data Governance & Automation
+Oracle E- Business Systems experience in Supplier Data/Vendor Data management
+BCP Policies & Procedures
+Desk Manuals/Business Process & Navigation Documentation
+Business Ethics
+Professional Communication
+Reporting Tools & Microsoft Office Applications

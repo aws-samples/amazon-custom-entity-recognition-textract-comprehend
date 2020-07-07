@@ -1,0 +1,47 @@
+Sivaganesh Selvakumar
+DevOps Consultant with Infosys Limited
+Chennai, Tamil Nadu Email me on Indeed: indeed.com/r/Sivaganesh-
+Selvakumar/2d20204ef7c22049
+Consultant with 5.8 years of experience Devops design CICD implementation, Build and
+deployment automation and Release Management.
+WORK EXPERIENCE
+DevOps Consultant
+Infosys Limited
+December 2016 to Present
+Responsibilities:
+Ownership of Release Management process for various web applications (Java based)
+Involve setting the overall Delivery Automation strategy, via investments in automation at
+several layers of the Technology stack to implement a Continuous Deployment/Delivery pipeline.
+Designed and delivered cloudBees Jenkins pipeline jobs with groovy code and pipeline plugin
+for Continuous Integration and Deployments
+Implemented a continuous delivery pipeline with cloudBees Jenkins and Scripting.
+Manage and troubleshoot the running of automated jobs in Jenkins, TFS to support and
+streamline the release process.
+Integrated Code quality, Code coverage, Unit Tests, Functional Tests with CI pipeline and
+resolved issues in this process.
+Organize and coordinate release teams across organizational boundaries.
+Deal with release to Dev, SIT, QA and Prod including business sign offs.
+Create/Submit applications and required associated documentation to 3rd parties for third party
+acceptance/approval testing.
+Configure and integrate Nexus and Artifactory Repository for builds and integrating it with the
+CICD orchestration tool like Jenkins, TFS, and Bamboo.
+Develop Powershell scripts to upload artifacts to Artifactory through REST API's and automated
+this as part of Devops pipeline
+Document knowledge articles in Confluence (Internal Wiki)
+Environment: TFS ( GIT - SCM), TFS Builds, cloudBees Jenkins, ANT, MAVEN, Nexus, Shell Scripts,
+UNIX, JIRA, Microsoft Visual Studio 2015, Octopus,
+Technology Analyst
+Infosys Limited Chennai, Tamil Nadu
+July 2011 to Present
+EDUCATION
+Bachelor in "Instrumentation and Control Engineering"
+slwine
+Saranathan College of Engineering Tiruchchirappalli, Tamil Nadu
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS:
+Platforms Windows, Unix, Linux
+Scripting Language Powershell scripting, Shell scripting.
+Databases Oracle, SQL Server
+Build Tools Maven, Ant, MSBuild, Nant
+CICD Tools cloudBees Jenkins, TFS, GIT, SVN, Octopus, Jira, Sonarqube, MSTest, Nexus,
+Artifactory, Cobertura, Ansible

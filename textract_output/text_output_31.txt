@@ -1,0 +1,75 @@
+Kartik Sharma
+Systems Engineer Infosys Ltd
+Delhi, Delhi Email me on Indeed: indeed.com/r/kartik-sharma/cc7951fd7809f35e
+Qualified B. Tech in Information Technology with 2.5 years overall and 2 years' experience in
+SAP Security, Project Management and Software Support.
+Currently spearheading as Senior Systems Engineer with Infosys Ltd Pune, well versed in
+Analysis, Test and Support activities.
+Proficient in handling various projects and managing project risks. Possess up to date
+knowledge of latest technological advancements, regulations and statutory compliances in the
+industry.
+Instrumental in building relations with upper level decision makers, seizing control of critical
+problem areas and delivering on client commitments.
+PROJECT ANNEXURE:
+Project Name: RB (Reckitt Benckiser)
+Duration: Since April '16
+Role: SAP Security Consultant
+Responsibilities:
+Technical analyst for sap security in production and non-production environments.
+Worked with Security related tables such as AGR*, USR* etc.
+Performed User comparison using PFCG.
+Analysing user access issues using SU53 and system trace (ST01)
+Role changes done using PFCG as per the change request received.
+Mass user changes using SHDB, LSMW, SU10.
+Control Firefighter access in GRC10.1
+Handling/creating Solman CR as per Business requirement
+Working on tool Service-Nov for User/Business/Technical support.
+PROJECT KEY RESULT AREAS:
+Extensive working knowledge in SAP ECC 6.0, SAP R/3 Enterprise GRC 10.1
+Expertise in Role Administration, PFCG, User reports, Authorization objects.
+Expertise in Risk Analysis, Mitigation and Remediation.
+Utilize SU24 to enable/disable security checks
+Granting privileged and compensatory controls, providing access in controlled environment
+using Fire-fighter id.
+Troubleshoot security/authorizatior using SU53, STO1 and SUIM.
+Restrict table access through authorization groups.
+Ticket handling-related to various issues ranging from user expiration to missing
+authorizations.
+Addition, Removal of transaction codes, authorizations, authorization objects by modifying
+existing roles based upon change request.
+Supporting Site Go-Lives.
+Willing to relocate to: Delhi Noida, Uttar Pradesh Gurgaon, Haryana
+WORK EXPERIENCE
+Systems Engineer
+Infosys Ltd Delhi, Delhi
+March 2016 to Present
+as a management trainee.
+Worked with 'AVS InfoTech' as a part-time employee.
+Guided students in Science, Math and C++ for 4 years.
+TECHNICAL SKILL SET
+SAP Systems: SAP ECC 6.0.
+Product Tools: GRC 10.1
+Database: Oracle, SQL, RDBMS.
+Senior Systems engineer
+Infosys Limited
+September 2015 to Present
+Working as SAP SECURITY consultant in a client project with Infosys
+EDUCATION
+B. Tech in Engineering
+Northern India engineering college, IP UNIVERSITY DELHI
+2015
+CBSE
+Lovely Public Sr. Sec. School
+2011
+CBSE
+Lovely Public Sr. Sec. School
+2009
+University / Board
+SKILLS
+SAP Security
+ADDITIONAL INFORMATION
+Operating systems: Windows [...] 8, 10.
+Languages: C, C++, C#
+PROFESSIONAL SKILL SET:
+Good Communication Skills in English and Hindi.
+Ability to work under pressure.

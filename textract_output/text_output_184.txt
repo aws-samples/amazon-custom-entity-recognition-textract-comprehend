@@ -1,0 +1,72 @@
+Arpit Jain
+Quality Analyst - Thoughtworks Technologies
+Pune - Email me on Indeed: indeed.com/r/Arpit-jain/3714fe32f98bo3as
+Quality Analyst with a total experience of 4 years in delivering quality software
+Expertise in Agile evelopment Practices.
+Experience with Continuous Integration &amp; Delivery
+Worked with Product Owners &amp; Business Analysts to incorporate the quality from initial
+phases
+Awarded for going extra miles and making project deliveries possible on defined timelines
+Active participation in recruitment activities
+Organizer for the events for Quality Enthusiasts - VOdQA, Pune
+Skills
+Manual Testing
+Javascript
+Selenium WebDriver
+JASMINE
+GitHub
+Protractor
+Java
+MYSQL
+API Testing
+Willing to relocate to: Pune, Maharashtra - NCR, Delhi
+WORK EXPERIENCE
+Quality Analyst
+Thoughtworks Technologies
+April 2016 to Present
+Alternative Assets Management
+Responsibilities:
+Test Strategy Planning and Designing
+Active Involvement in the Product Release Planning
+Leading a team of 4 QA's
+UI testing on Mobile Browsers and Desktop Browsers
+ttswinen top&co=IN
+Functional Automation Testing using Protractor and Selenium WebDriver
+Iteration Management and working closely with Product Owners
+API Testing using Frisby and Postman
+Performance Testing using JMeter
+Security Testing using ZAP
+Test Engineer (Infosys Ltd
+Thoughtworks Technologies
+June 2014 to March 2016
+Pharmaceuticals
+Responsibilities
+white-Box Testing of Optimization Algorithms
+Test Data Management
+Test Data Generation using Pandas and JavaScript libraries
+Functional Automation Testing using Protractor
+Web performance metrics collector using Phantomas
+Jun 2014 Mar 2016 Test Engineer (Infosys Ltd.) Project Domain: Banking
+Responsibilities:
+Test Scenario and Test Case Preparation
+Planning QA Activities and performing Regression Testing and UI Testing
+Automating manual tasks by writing python scripts
+Quality Analyst
+Thoughtworks Technologies
+EDUCATION
+B Tech
+Jaypee Institute of Information Technology - Noida, Uttar Pradesh
+2010 to 2014
+CBSE
+Green Valley Public School - Bhilwara, Rajasthan
+2010
+CBSE
+New Look Central School - Bhilwara, Rajasthan
+2008
+SKILLS
+Manual Testing, Protractor, Selenium Webdriver, Automation Testing, API Testing
+LINKS
+https://github.com/jainarpit
+ttps://www.linkedin.com/in/arpitj2402
+ttps://github.com/jainarpit
+tps://www.linkedin.com/in/arpitj240z

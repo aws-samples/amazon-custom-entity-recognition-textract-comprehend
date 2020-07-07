@@ -1,0 +1,100 @@
+Jitendra Babu
+FI/CO Consultant in Tech Mahindra SAP FICO
+Chennai, Tamil Nadu Email me on Indeed: indeed.com/r/litendra-Babu/bc3ea69a183395er
+Having 3.2-years of SAP experience as sap FICO Consultant
+Involved in Implementation and support projects
+Basic knowledge in simple finance.
+Proficient in SAP'S ASAP Methodology and well versed with business process, its mapping &
+configuration in SAP
+Good inter-personal skills, strong analytical ability and problem-solving capabilities
+Ability to make timely and sound decisions based on logical assumptions, factual information.
+Ability to work as a team member supporting co-workers and the commitment to the overall
+success of a group.
+Work effectively with internal customers, co-workers and management.
+Knowledge on integration of FI with other modules like MM and SD
+Experience in GL, AP, and AR
+Good communication skills with an aptitude to interact with the clients for Production support
+Good Understanding of business process in Industry.
+Expertise on data uploading tolls-LSMW
+Good exposure on writing validation and substitution rules for business requirements and
+writing queries.
+Interacting with the end user and finalizing the user requirement
+Coordinating with the other teams for SAP integration aspects
+Well exposure on designing the organization structure and setting it up in SAP in association
+with other members from different streams of the implementation team.
+Detail oriented, quick learner, good listener with strong problem solving skills.
+SAP FICO SKILL SET:
+Finance
+Financial Accounting- General Ledger Accounting FI-G/L (NeW GL),
+Accounts Payable-FI-A/P,
+Accounts Receivable FI-A/R
+WORK EXPERIENCE
+FI/CO Consultant in Tech Mahindra
+SAP FICO
+2015 to Present
+SAP FICO Consultant
+SAP FICO
+April 2017 to May 2018
+Project & Role Description:
+Fossil Group, Inc., together with its subsidiaries, designs, develops, markets, and distributes
+consumer fashion accessories. The company's principal products include a line of men's and
+women's fashion watches and jewelry, handbags, small leather goods, belts, and sunglasses. It
+offers its products under its proprietary brands, such as FOSSIL, MICHELE, MISFIT, RELIC, SKAGEN,
+and ZODIAC, as well as under the licensed brands, including ARMANI EXCHANGE, CHAPS, DIESEL,
+DKNY, EMPORIO ARMANI, KARL LAGERFELD, KATE SPADE NEW YORK, MARC JACOBS, MICHAEL
+KORS, and TORY BURCH. The company sells its products through company-owne retail stores,
+department stores, specialty retail stores, specialty watch.
+Roles and Responsibilities:
+Resolving Day to Day issues as well as providing Solution for better Business Processes.
+Adhere to the SLA timelines
+Coordinating with technical consultants for modifications in outputs and program changes
+Handling various support issues be it process, configuration or functionality issue.
+Migrated Transaction and Master Data using migration tool LSMW
+Effective defect tracking, reporting and documenting the deliverables
+Handling knowledge transfer sessions to the new comers in the team
+Participation in regular team members meetings who are part of this support project and SAP
+FICO team in scope.
+Conducting the Core-Team Training.
+Configuring new payment terms
+Defined new payment terms as per the business requirements for Vendors.
+Actively involved in Table maintenance
+Preparing the Root cause analysis, Back log report and SLA adherence report inputs to team
+leader from time to time.
+Supporting the end users while running the Automatic Payment Program
+Creating new Validations and Substitutions for posting transactions requirements.
+Working closely with all members of the team to clear the backlog tickets.
+Good Exposure towards Ticketing tool
+Resolved Automatic payment program issues / bugs in implementing SAP OSS Notes.
+DOMAIN EXPERIENCE:
+worked under Auditor for 6 months as a assistant in Tally ERP 9.0 package
+SAP FICO -
+March 2015 to March 2017
+Project & Role Description:
+Ford India Private Limited manufactures, distributes, and exports cars, SUVs, sedans, and
+low displacement engines. It offers total maintenance, extended warranty, scheduled service,
+preferred insurance, and mobile service plans. The company sells its products through
+dealers to individuals, fleet organizations/rental companies, corporate, embassy/consulates and
+professionals, and government organizations; and sales and service outlets.
+Roles and Responsibilities:
+Exposure towards value ASAP methodology
+Co-ordination with core team and Preparation of Businesses Blue Print for the complete business
+process.
+Documented in AS IS & TO BE document
+Involved in WRICEF elements
+Involved in positive, negative & random testing
+Involved in data upload
+Involved in SAP customizing, configuring and processing the Business Transactions in Finance.
+Configured and Customized the G/L account master records, G/L Account groups
+Define field status variant. Define number range
+Expertise on data uploading tolls-LSMW
+Create and Maintain the Master Accounts for GL,
+Creating vendors and customer master data
+Configuration of automatic payment program
+Exposure on writing validation and substitution rules for business requirements
+Project:
+EDUCATION
+B.com
+Degree College - Machilipatnam, Andhra Pradesh
+2014
+AG&SGS Intermediate College
+2011

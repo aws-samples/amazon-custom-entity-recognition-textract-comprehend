@@ -1,0 +1,83 @@
+Pratibha P
+Principal Consultant at Oracle
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Pratibha-P/b4c1202741d63c6c
+Over 14 years of experience in estimation, design, development, implementation, testing and
+enhancement of various Oracle applications. Currently working as Principal Consultant (oracle
+Applications) with the consulting group Global Service Delivery (GSD) of Oracle India Pvt Ltd,
+Bangalore. Possesses excellent communication, extensive functional and technical experience in
+implementing Oracle E-business Suite applications.
+Worked on various modules like AR, AP, GL, FA, OLFM, HRMS and PO. Has gained proficiency in
+Oracle 9i/10g, SQL, PL/SQL, Discoverer 10g, Oracle reports 6i/10g, BI Publisher reports, OEM (For
+data masking) Methodologies (Oracle AIM, OUM) & Migration Tool (Kintana)
+Willing to relocate to: Bangalore City, Karnataka
+WORK EXPERIENCE
+Principal Consultant
+Oracle
+July 2012 to Present
+Over 14 years of experience in estimation, design, development, implementation, testing and
+enhancement of various Oracle applications. Currently working as Principal Consultant (oracle
+Applications) with the consulting group Global Service Delivery (GSD) of Oracle India Pvt Ltd,
+Bangalore. Possesses excellent communication, extensive functional and technical experience in
+implementing Oracle E-business Suite applications.
+Worked on various modules like AR, AP, GL, FA, OLFM, HRMS and PO. Has gained proficiency in
+Oracle 9i/10g, SQL, PL/SQL, Discoverer 10g, Oracle reports 6i/10g, BI Publisher reports, EM(For
+data masking) odologies (oracle AIM, OUM)& Migration l(Kintana)
+Senor Consultant
+Oracle
+2011 to July 2011
+Staff Consultant
+Caterpillar
+December 2005 to December 2007
+Duration/Size: 4 months/10
+Associate Consultant
+Caterpillar
+October 2004 to December 2005
+tswie
+Duration/Size: 4 months/10
+Associate Consultant
+Vault Consulting
+October 2003 to October 2004
+Project Name: AMAT
+Client: Applied Materials
+Duration/Size: 1 months/3
+Organization: Oracle
+Environment Oracle Applications (11i)
+Responsibilities: AMAT was an implementation project. I was involved in developing complex
+Discoverer reports which fully meets the objectives for forecasting the history and exception
+details of AMAT'S buyers/Suppliers with capability to review FGI (Finished Goods Inventory), LLI
+(Linked Level Inventory) details
+Project Name: Dollar General
+Client: Dollar General
+Duration/Size: 2 months/3
+Organization: Oracle
+Environment: Data Warehousing
+Responsibilities: Dollar General was an implementation project. I was involved in developing
+Discoverer reports.
+Project Name: Emerson
+Client: Emerson Process Management
+Duration/Size: 2 months/3
+Organization: Oracle
+Environment: Data warehousing
+Responsibilities: Dollar General was an implementation project. I was involved in developing
+Discoverer report for each division-country, division-worl area and total division (single reports)
+The divisions were also compared against each other (comparison reports)
+EDUCATION
+B.E
+Visvesvaraya Technological University
+2017
+Bachelor of Engineering in Engineering
+Dayanand Sagar College of Engineering Bangalore (Visvesvaraya Technological University) -
+Sagar, Karnataka
+SKILLS
+Extension, PLSQL, BI Publisher Reports, Oracle Reports, AP, HRMS, GL, Conversion, Oracle Apps
+technical, Interface, AR, TOAD, OLFM, SQL, FA
+ADDITIONAL INFORMATION
+Software Skills:
+ERP-Oracle Applications 11i, R12
+Accounts Receivable, Accounts Payable, Fixed Assets, General Ledger, Oracle Lease and Finance
+Management, Purchasing and HRMS (Employee, Assignment, Contacts, Pay methods, Job and
+Location)
+RDBMS Oracle [...]
+LANGUAGES C++
+TOOLS Toad, SQL Developer, Kintana, Report Builder 6i/10g, Discoverer Admin/Desktop/Plus/
+Viewer and BI Publisher

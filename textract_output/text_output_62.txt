@@ -1,0 +1,113 @@
+Ram Edupuganti
+Software Development Director Oracle Inc
+Email me on Indeed: indeed.con/r/Raml-Edupuganti/3ecdecbcba549e21
+Offering over 22 years of rich national & international experience in developing & deploying
+software appplicatoins evelopment, customized solutions across Oracle Fusion HCM Global
+Core HR, Global Payroll, Global Absences, Compensation and all Talent modules Performance
+Management, Goals Management, Career Development, Succession Management & Talent
+Review Meeting
+Directed planning, strategy development and implementation & business solution delivery with
+recent successful implantations at Schneider Electric, Macy's, Pike International, British Telcom.
+Accomplished in relational data modeling, data warehouse design and implementation, object
+oriented design and development, developing transactional & business analytics in CRM, SCM
+and HCM domains from client server to cloud Saas.
+Led large-scal business application architecture and design efforts; developed and maintained
+solutions for various business functional areas; assisted in resolving integration and interface
+issues between various systems with focus on optimizing performance and scalability
+Extensive experience in all aspects of project management including budgeting and cost
+optimization, risk assessments and control, technical feasibility studies, project scope definition,
+estimations & cost control & so on
+Recruit, Develop and led high-performing teams with high motivation and enhanced cross-
+functional collaboration
+WORK EXPERIENCE
+Software Development Director
+Oracle Inc
+April 2015 to Present
+Oracle Inc -
+January 1998 to Present
+98 with Oracle Inc.
+Growth Path & Deputations:
+Senior Development Manager
+Oracle Inc -
+December 2011 to March 2015
+Senior Development Manager
+Oracle Inc
+March 2010 to November 2011
+tpswincerooilaeupygatiseniecicesaeeteisitrrorionloadl
+Principal Applications Developer
+Oracle Inc
+September 2004 to February 2010
+Project Lead
+Oracle Inc -
+September 1999 to August 2004
+Senior Software Developer
+Oracle Inc
+January 1998 to August 1999
+R-Systems Sacramento, CA
+January 1997 to January 1998
+Key Result Areas:
+Providing overall leadership to the entire project team, mapping clients' requirements,
+transforming requirements into stipulations and providing them best solutions within the scope
+of project requirements
+Creating and managing the estimates, project plan, project schedule, resource allocation and
+expenses; monitoring and reporting on standards & performance targets
+Ensuring the delivery of quality releases on schedules using continuous improvement
+initiatives; adhering to quality norms throughout the project implementation
+Working on service strategy, transition, operations, process improvement, process
+management, team building, training, hiring and client relationship management
+Identifying and implementing strategies for building team effectiveness by promoting a spirit
+of cooperation among the team members
+Supporting continuous improvement by investigating alternatives and new technologies and
+presenting the same for architectural review
+Liaising with stakeholders during the course of problem diagnoses, requirements gathering,
+detailed level design, development, system test and production implementation to ensure that
+optimal resolutions are achieved
+KNOWLEDGE PURVIEW
+Machine Learning Algorithms supervised, unsupervised, NLP, chat bot and deep learning with
+Python
+Building transactional applications & analytical solutions in Saas model
+Oracle fusion role based data security set up and customization for complex security
+requirements
+Reporting Layer (Subject Areas) for fusion HCM cloud for all HCM modules
+Data Warehousing design methodologies, star and snowf lake schema designs, aggregations
+OBIEE, Data Visualization Desktop, BICS, DVCS, Oracle Analytics cloud (OAC), Tableau
+Design and build dashboards, KPIS using Oracle BI platform and OTBI, Standard Reports using
+BI Publisher
+Design and build mappings, knowledge modules, load plans using Oracle Data Integrator (ODI)
+Relational data modeling, Object Oriented Modeling & Design, UML, SOAP
+Oracle 10g, 11g, 12c
+SQL, PL/SQL, HTML, XML, JAVA, JDK, J2EE, Oracle ADF, Oracle JDeveloper
+Applications Development for Oracle CRM, Oracle ebusiness SCM,
+Applications/database/SQL/Batch program erformance tuning
+UNIX, Windows, Linux
+R-Systems
+April 1996 to January 1998
+Growth Path & Deputations:
+Department of Corrections - Sacramento, CA
+February 1996 to January 1997
+Secretary of State
+Salem, Tamil Nadu
+December 1995 to February 1996
+Oracle Corporation Redwood Shores, CA
+January 1995 to December 1995
+EDUCATION
+M.S. in Computer Engineering
+Texas A&M University Kingsville, TX
+1994
+B.S. in Electronics & Communications Engineering
+Nagarjuna University
+1992
+SKILLS
+SOFTWARE DEVELOPMENT (3 years), STRUCTURED SOFTWARE (3 years), BUSINESS
+INTELLIGENCE (1 year), ORACLE (1 year), ARCHITECTURE (Less than 1 year)
+ADDITIONAL INFORMATION
+CORE COMPETENCIES
+Software Development & Consulting
+Oracle Fusion Applications Architecture and Functionality
+Oracle Business Intelligence development and implementations
+Technology Planning
+Delivery Management
+Client Engagements (Stakeholders/Business)
+Continuous Process Enhancement
+Agile/Scrum Methodologies
+Project Management

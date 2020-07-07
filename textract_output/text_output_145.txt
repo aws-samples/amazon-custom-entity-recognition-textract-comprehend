@@ -1,0 +1,69 @@
+Akshay Dubey
+Actively looking for opportunity in NET Development
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Akshay-Dubey/87dcd40b335e6ffa
+To work in a challenging environment that will test me at all level and allow me to utilize my
+professional as well as personal skills by way of positive contribution to the organization.
+Willing to relocate to: Pune, Maharashtra
+WORK EXPERIENCE
+Microsoft Student Partner
+MICROSOFT -
+January 2015 to July 2016
+Undergraduate Program
+ROLES &amp; RESPONSIBILITIES:
+The Microsoft Student Partners (MSP) is a worldwide recognizable program for students
+majoring in disciplines related to technology.
+A strong understanding of the overall set of Microsoft Visual languages and the NET
+Framework along with specific demonstrable skills in one or more languages or technologies.
+Conducted Session of Microsoft Azure Conference in September 2015.
+Hosted tech events and gave demos on campus and actively involved in student
+technical clubs (Microsoft Campus club) societies, and organizations, preferably in leadership
+roles.
+Join exclusive Microsoft training events to learn the latest technologies.
+Attended the Student Technology Day, which included high-profile presentations, such as one by
+the CEO of Microsoft, Satya Nadella; and TechDays or DevCon (Developer
+Conference)
+Web Link: https://akshaydubey.wordpress.com/
+Microsoft Student Associate
+MICROSOFT
+July 2014 to December 2015
+Undergraduate Program
+ROLES &amp; RESPONSIBILITIES:
+The Microsoft Student Associate (MSA) program is an educational and promotional
+program especially for undergraduates Students.
+Microsoft Student Associates are technology enthusiasts, student nfluencers using
+technology for social impact.
+Learn &amp; implement emerging technologies like Microsoft Visual Studio IDE, ASP.NET,
+and useful desktop application using the free tools &amp; emulator.
+Promoting and building city-level Microsoft Student User Group collaborating with other
+MSPs.
+Web Link: https://admicrosoft.blogspot.in/
+BE PROJECT UNDERTAKEN:
+PROJECT TITLE:
+Web Based Authentication Providing High Security of Graphical Images Making Ninja
+Password Authentication Tool.
+PROJECT DESCRIPTION:
+It was developed on ASP.NET framework and the main objective is to providing high
+security wall on web application and make convenient to user or stakeholder to secure
+their web application by using MS SQL Server database.
+EDUCATION
+B.E
+Sinhgad Institute
+2016
+HSC
+Maharashtra State - Lonavale, Maharashtra
+2012
+SSC
+Maharashtra State
+2010
+Technology & Science
+Pune University - Lonavale, Maharashtra
+SKILLS
+NET (3 years), ASP (1 year), ASP.NET (1 year), C# (1 year), databases. (1 year), C++, Css,
+Javascript, Html, C
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Programming Languages C# NET, CPP, C
+Web Development ASP.NET, HTML, CSS, Javascript
+Tools used MS visual Studio V2013, MS SQL Server V2008
+Operating Systems Windows 10 / 8.1/7
+Databases MS-SQL

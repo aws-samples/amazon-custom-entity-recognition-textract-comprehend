@@ -1,0 +1,52 @@
+Sanand Pal
+SQL and MSBI Developer with experience in Azure SQL and Data Lake
+store.
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Sanand-Pal/5c99c42c3400737c
+I intend to establish myself as Software Engineer / architect with an integrated business solution
+provider through a long time commitment, contributing to the company's growth and in turn
+ensuring personal growth within the organization. I believe that my technical, functional and
+communication skills will enable me in facing the challenging career ahead.
+Willing to relocate to: Kolkata, West Bengal hyderbad, Telangana
+WORK EXPERIENCE
+Assistant Consultant
+TCS
+Expertise in SQL Server (2008 R2, 2012, 2014) evelopment, Microsoft BI (SSIS)
+Experience with Microsoft BI (SSAS, SSRS), ASP.NET, VSTO, C#.
+Experience in all the phases of Software Development Life Cycle (SDLC).
+Experience in Business Requirements Analysis, meeting customer expectations.
+Have had the opportunity to handle and work in multiple projects at a time.
+Experience in working both independently and in a team-oriented, collaborative environment.
+Excellent written and verbal communication skills, good analytical and problem solving skills.
+SQL and SSIS developer/Sustai resource
+MICROSOFT Hyderabad, Telangana
+August 2011 to June 2016
+Project
+US EPG Forecast Workbook (FWB) application is designed to support the US Enterprise Partner
+Group (US EPG) in producing and maintaining the monthly US sales forecast. It is a transactional
+database combined with Microsoft office Excel functionality that enables end users to interact
+with the USNAForecast database. Typically, an ATU manager will connect to the corporate network
+and download data from the forecast database, which creates an offline forecast workbook. This
+data can then be accessed offline, modelled, and changes to certain data fields are subsequently
+uploaded back to the forecast database through a Corpnet connection. These changes are then
+stored in the online database and subsequently loaded back into upstream systems.
+Responsibilities
+Involved in the Technical discussions/Sessions and efforts estimations and reviews.
+Involved in analysis of the Bugs/ Issues/defects/CRs.
+Involved in change requests on VSTO Excel application.
+Involved in design of database, tables and stored procedures.
+Developed SQL Server Integration Services packages for ETL process.
+Unit testing and bug fixing of the code.
+epssineneoisaantPiieeeseicisifrertotadl
+Actively solved the issues that raised during the integration cycle
+Performed build verification and Smoke tested all the defects raised before giving a delivery.
+Prepared and updated FS, TS and deployment guides.
+Provided knowledge sharing to Users
+Provided post implementation support
+Promptly check in the final Code in VSTF.
+Hyderabad, India
+EDUCATION
+Bachelor of Technology in Branch
+East Point College of Engg. & Tech. Bengaluru, Karnataka
+June 2006 to July 2010
+SKILLS
+Sgl Server, Ssis, T-SQL, ETL, SSRS

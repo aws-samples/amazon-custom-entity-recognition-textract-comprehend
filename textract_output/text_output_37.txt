@@ -1,0 +1,81 @@
+Koushik Katta
+Devops
+Hyderabad, Telangana Email me on Indeed: deed.com/r/koushik-katta/a6b19244854199e
+Devops Administrator with an experience of 3.4 years working in a challenging agile
+environment, looking forward for a position where I can use my knowledge pursuing my domain
+interests. I'm more aligned to work for companies where knowledge and intellectual ability takes
+the lead which can utilize a performance driven individual efficiently.
+WORK EXPERIENCE
+Devops Engineer
+Infosys limited Hyderabad, Telangana
+December 2014 to Present
+Hyderabad, since December 2014 to till date.
+Skill and Abilities:
+Atlassian Tools: Jira, Confluence
+Configuration Management: Ansible /Chef
+CI Tools: Jenkins
+Monitoring Tools: Nagios
+cloud: AWS
+Containerization: Docker
+Build Tools: Bamboo\Mave
+Log Tools: Splunk
+Databases: RDBMS, MYSQL, Oracle Database
+Programming Languages: Python and Java
+Scripting: Power Shell
+Operating Systems: Windows, Linux family, Redhat Linux
+Middleware: Websphere, Tomcat, Websphere MQ
+Responsibilities:
+DEVOPS ADMINISTRATOR
+INFOSYS LTD.
+Atlassian tools Release Management according
+Infosys limited
+December 2014 to Present
+to project needs.
+Review and upgrade of Plugins to meet project requirements and to achieve better
+performance.
+Configuring Automated Mail handlers, Webhooks as POC to test the new demands raised by
+client.
+top&co=IN
+JIRA Project Management/Administration.
+Confluence Space Management/Administration.
+Bitbucket Project/Repository Management/Administration (Enterprise/Datacenter)
+Integration of Webhooks in Bitbucket.
+Streamlining tools access management with Crowd.
+2. Administration and Maintenance of Jenkins
+Configure and maintain Jenkins slaves as per the requirement.
+Jenkins release management.
+Work closely with Development teams to configure CI/CD Pipelines to automate their build &
+deployment process.
+Review, Installation/Upgrade and configuration of Jenkins Plugins
+Configuring proxy on the environments to enable security
+Debug build issues
+3. Administration and Maintenance of Docker registry
+4. Working with Open-Source Nagios plugins on demand basis to setup ICINGA monitoring for our
+on-premise Servers/Applications.
+5. Alerting Setup Splunk.
+6. Monitoring Dashboards setup using kibana.
+7. Working with product support teams to resolve the product bugs.
+8. Involve in client meetings and tool performance reviews to ensure stakeholder satisfaction.
+9. Work closely with Infrastructure Teams to setup/maintain/improve the above mentioned
+application on large scale.
+EDUCATION
+Bachelor of Engineering in Mechanical Engineering
+Lovely Professional University
+2010 to 2014
+Secondary School Certificate in education
+Board of Intermediate education - Hyderabad, Telangana
+2008 to 2010
+Sister Nivedita School - Karimnagar, Telangana
+2008
+SKILLS
+Jira, Ansible, Jenkins, Splunk, Nagios, Docker, Python, AWS, Bamboo, Linux, Git, Chef, Windows,
+Powershell Scripting
+ADDITIONAL INFORMATION
+Ability to learn new technologies and processes rapidly and implement them in the project.
+Highly motivated with very good problem solving and analytical skills Well organized, with
+excellent in multitasking and prioritizing the work.
+Effective communicator with an ability to convey ideas in speaking and writing
+Excellent analytical and decision making skills.
+Ability to work in pressurized situation.
+Hard worker and goal oriented.
+Always ready to learn new skills

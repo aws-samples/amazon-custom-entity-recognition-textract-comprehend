@@ -1,0 +1,46 @@
+Akansha Jain
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Akansha-jain/b53674429e164cfc
+I am looking for a career which will help me in unlocking and
+emancipating my potential and strength in order to grow with the
+Organization.
+WORK EXPERIENCE
+Developer
+Microsoft Pune, Maharashtra
+August 2016 to Present
+Role: Developer
+Team Size: 6
+Description: Project involved developing dashboards for business owner to have insights for
+budget management and to analyze data post sales the source data was cleansed using SSIS
+and reports are created on Power BI desktop.
+Tools: ETL: SSIS Database: SQL SERVER 2014 Visualization: Power BI
+Role &amp; Responsibilities:
+Data cleansing and Data modification were done as per project requirements using SSIS.
+Created Power BI dashboards for Sales and Post sales data.
+Re-modelling of data sources based on underlyir model, refresh strategies.
+Optimization for ETL process and dashboards.
+Dashboards are created in Power BI for actionable insights for Microsoft business owners
+EDUCATION
+B.TECH in Engineering
+GRAPHIC ERA UNIVERSITY - Dehra Dun, Uttarakhand
+2012 to 2016
+STEPPING STONES SCHOOL
+2011 to 2012
+SECONDRY SCHOOL, STEPPING STONES SCHOOL
+2010 to 2011
+senior secondary in PCM
+SKILLS
+BI (1 year), BUSINESS INTELLIGENCE (1 year), DATABASE (1 year), ETL (1 year), EXTRACT,
+TRANSFORM, AND LOAD (1 year)
+ADDITIONAL INFORMATION
+SKILLS ETL: Microsoft SSIS
+Reporting: Power BI
+Database: MS SQL SERVER 2016
+Languages: SQL, PL/SQL
+STRENGTHS:
+Good Analytical and documentation skills
+Quickly integrates into a new environment
+Good team worker, patient, responsible
+DECLARATION
+I hereby declare that the information given above is true to the best of my knowledge and belief
+Date: (Akansha Jain)
+Place: Pune

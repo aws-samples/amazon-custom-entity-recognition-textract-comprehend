@@ -1,0 +1,26 @@
+Nitin Verma
+Assisting Microsoft Partners Exchange Online and Office
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Nitin-verma/b9e8520147f728d2
+WORK EXPERIENCE
+Assisting Microsoft Partners
+Exchange Online and Office
+September 2017 to Present
+from around the world with AD, Exchange Online and Office 365
+related issues.
+timely till the issue has been resolved utre up to the user's satisfaction.
+> Prompt assistance within the required SLA as per the case creation by users and follow up
+> Troubleshooting and resolving various production impacting critical issues.
+> Educating Admins about various Microsoft Office 365 features and assisting them with
+implementing the same using GUI as well as Powershell.
+> Reproducing the users' issues on test environment and researching to find a resolution.
+> Interact with other 2nd level support team for joined troubleshooting sessions where root cause
+is
+not well defined.
+> Assisting users/admins with various Office 365 applications, like Outlook, Word, SharePoint,
+OneDrive, Skype For Business, etc.
+> Brainstorming with the Technical Advisors from Microsoft regarding Service Incidents impacting
+multiple tenants.
+Tools Used: RAVE, CAP and AVAYA.
+EDUCATION
+Bachelor of Engineering in EnTC
+Pune University Pune, Maharashtra

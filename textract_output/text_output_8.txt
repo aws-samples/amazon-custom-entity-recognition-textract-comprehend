@@ -1,0 +1,42 @@
+Arun Elumalai
+QA Tester
+Chennai, Tamil Nadu - Email me on Indeed: indeed.com/r/Arun-Elunalai/26575d617d50ea04
+15 Months of Experience as a QA Tester in Software Testing (Mainframe)
+Experience in Automation, Functional, UI testing and Regression Testing.
+Involvement in preparation of Test scenarios, Test cases and executing the same.
+Defect reporting and tracking via Rational Quality Manager.
+Preparation of test closure reports.
+WORK EXPERIENCE
+QA Tester
+Accenture
+November 2016 to March 2018
+Associate Software Engineer Accenture Services Pvt Ltd Nov 2016 to Mar 2018
+Domain: Financial Services - Payments Domain
+Application: VisionPLUs
+PROJECT PROFILE
+Client - First Data Corporation
+Role - QA Tester
+Application - VisionPLUS
+Description and Responsibilities
+1. Have worked in functional releases and tested across clients in the EMEA region. Performed
+system integration testing for new clients that came into VisionPlus.
+2. Automated manual scripts in Regression Testing and Executing the same using Selenium Web
+driver through Sauce Labs.
+3. Performed UI Testing in First Apply and First Online
+4. Tested various functionalities of credit card life cycle like account boarding, embossing,
+account/card transfer, replacement and reissue of cards.
+5. Tested manual and auto enrollment of offers, cashback offers.
+PERFORMANCE ACHIEVEMENTS
+Won The Rising Star Award for the year 2017
+EDUCATION
+Bachelor of Engineering in Automobile Engineering
+Sri Venkateswara College of Engineering Chennai, Tamil Nadu
+2012 to 2016
+SKILLS
+ANSYS (Less than 1 year), CATIA (Less than 1 year), CREO (Less than 1 year), PARAMETRIC
+(Less than 1 year), PYTHON (Less than 1 year), Selenium, Selenium Webdriver, Testing,
+Functional Testing, Automation Testing, Regression Testing, Quality Assurance
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Languages - Python
+Software/Tools - Selenium, WAF, Sauce Labs, Jenkins, Creo parametric 2.0, Catia V6, Ansys

@@ -1,0 +1,52 @@
+Kavya U.
+Network Ops Associate Accenture
+Bengaluru, Karnataka Email me on Indeed: ndeed.com/r/Kavya-u/049577580b3814e6
+Seeking for opportunities to learn and grow in electronics domain.
+WORK EXPERIENCE
+Network Ops Associate
+Accenture Bengaluru, Karnataka
+December 2017 to Present
+Exposure:
+Provisioning of different types of network speeds for multiple clients.
+Use of Mux designing for Logical cross connect and Physical patching. We CO- ordinate with
+various ops and field engineers to do the connections at the physical
+level.
+2) Organisation: QuadGen Wireless Engineering Services Pvt. Ltd., Bangalore.
+Position: Network Engineer
+Experience: 1 year
+Exposure:
+RAN (Radio Access Network) Engineer.
+New Site Build (NSB)
+2) Organisation: Manipal Dot Net Pvt. Ltd., Manipal.
+Position: Intern
+Experience: 1 year
+Exposure:
+Module coding and verification using Verilog HDL
+Worked on Linux O.S.
+Understanding of SPI, I2C protocols
+Compilation using Altera Quartus
+Simulation using Modelsim
+Report preparation and documentation
+EDUCATION
+Little Rock Indian School
+2007
+Master of Science in Technology in Technology
+School of Information Sciences
+VLSI Design
+tisllwinenorkayAUessTTsoelerrisirertoleadtine(
+Manipal Academy of Higher Education
+Bachelor of Engineering in Engineering
+Srinivas Institute of Technology Mangalore, Karnataka
+Electronics and Communication
+Visvesvaraya Technological University
+Vidyodaya P.U. College Udipi, Karnataka
+SKILLS
+coding (Less than 1 year), HDL (Less than 1 year), Microsoft office (Less than 1 year), MS
+OFFICE (Less than 1 year), UART (Less than 1 year)
+ADDITIONAL INFORMATION
+Technical Skills
+Verilog HDL
+Knowledge of RTL coding, FSM based designs.
+Understanding of UART, AMBA protocol
+.
+Platforms: Microsoft office, Libreoffice

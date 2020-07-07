@@ -1,0 +1,53 @@
+Srushti Bhadale
+Mumbai, Maharashtra Email me on Indeed: indeed.com/r/Srushti-Bhadale/ffe3dof99a4b332z
+Willing to relocate to: Mumbai, Maharashtra Mumbai Central, Maharashtra - Pune, Maharashtra
+WORK EXPERIENCE
+Associate Consultant
+Oracle Financial Services - Bengaluru, Karnataka -
+September 2017 to Present
+Currently associated as Associate Consultant with Oracle Financial Services Software.
+Trained on Java, Plsql, Flexcube for 3 months from Oracle University.
+Project Name KeyBank Project
+Team OBP team
+Project Duration 2 months
+Project Description
+KeyBank, the primary subsidiary of KeyCorp is the major bank based in Cleveland. It uses
+Oracle Banking Platform to provide Online and Mobile Innovation to Meet Customers' Changing
+Expectations
+OBP team provides Web services, Business processes, domain services functionality to
+KeyBank.
+Project Role and Contribution
+Worked on migration of OBP product services from 2.3 to 2.6.1 using Java, Plsql, SOAP UI
+technologies.
+Handled and worked on batch uploads.
+Worked on Code incremental and DB incremental activities.
+Configured Junit setup for the upgrade activities.
+Unit Tested and modified the changes required for OBP consulting upgrade.
+Worked on fixing various defects that were part of OBP product code and database upgrade.
+Worked on Fund transfer module of OBP.
+EDUCATION
+HSC
+D.G Ruparel College
+2013
+SSC
+Convent Girls' High School
+2011
+SKILLS
+Associate (Less than 1 year) CSS. (Less than 1 year), HTML5 (Less than 1 year) Java (Less
+than 1 year), JavaScript (Less than 1 year)
+ADDITIONAL INFORMATION
+TECHNICAL SKILL SET:
+Programming Languages: C, Java, JavaScript, SQL.
+Web Technologies: HTML5, CSS.
+Working Platform: Windows, Linux.
+WORKSHOP/CERTIFICATION:
+Ethical Hacking and IT Security workshop held at Vidyalankar Institute of Technology on 6th
+and 13th February 2016.
+Certificate for attending Seminar cum Demo Workshop - Cloud and Virtualization held at
+Vidyalankar Institute of Technology on 5th March 2016.
+Microsoft Technological Associate course held at Vidyalankar Institute of Technology from 16th
+August to 7th October 2014.
+ACHIEVEMENT:
+Certificate of merit for securing first place in Semester 5.
+Awarded scholarship for the academic year [...] from Tata Education and Development Trust for
+securing distinction in both Semester 5 and Semester 6.

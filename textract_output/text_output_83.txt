@@ -1,0 +1,49 @@
+Shubham Mittal
+System Engineer Infosys Limited
+Mysore, Karnataka - Email me on Indeed: indeed.com/r/shubhai-Mittal/4b29ab0545bof67f
+Having 2.0 Years of Experience as a Software Developer (System Engineer) in the IT industry.
+Presentl working as Senior System Engineer
+Functionally Good with Complete order fulfillment's journey including Sales and service Cloud.
+Expertise in implementing SQL, SOQL, SOSL, HTML, JavaScript, CSS, Salesforce (APEX, VF pages,
+others Components)
+Handling Deployment to Production Via CI/ANT Migration Tools.
+Good Implementation Knowledge of Lighting, Data Loader.
+Hands-on in Marketing cloud.
+Good Implementation Knowledge in SOAP Web service.
+Good Knowledge in AGILE Methodology and JIRA Tool.
+Certified as Platform developer-1.
+Currently working on SALESFORCE/CLOUDSENSE technology and pursuing SUPERBADGE in
+APEX and LIGHTNING Concepts.
+WORK EXPERIENCE
+System Engineer
+Infosys Limited
+January 2017 to Present
+Environment Salesforce, cloud Sense, APEX, SOQL, GIT, Bit Bucket, AGILE
+Responsibilities:
+Interaction with the onshore team to understand the requirement as per clients and functional
+requirement document.
+Preparation of solution document, component list and high level estimation of the tasks created
+under sprints.
+Technical Refinement's for User stories.
+Contributions:
+Developed and integrated the different modules developed by other team members.
+Wrote the Tech specifications document, Created class diagrams and Flow Diagram using
+functional requirement document.
+Developed and deployed Lightening components.
+Created Apex class, VF pages, Workflows, process builder, approval Process and other
+components.
+Integration of Sales cloud with other third Party vendors.
+Designed Solution Documentations.
+Deployments to Production and other Intermediate environments.
+Support in SIT testing and production issues.
+System Engineer
+Infosys Limited Mysore, Karnataka
+June 2016 to Present
+EDUCATION
+B Tech in EEE
+National Institute Of Technology
+2016
+St. John's School
+2009
+SKILLS
+Html, Css, Javascript, Salesforce

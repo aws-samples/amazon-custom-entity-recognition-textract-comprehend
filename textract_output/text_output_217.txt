@@ -1,0 +1,110 @@
+Anil Kumar
+Microsoft Azure (Basic Management)
+Delhi, Delhi Email me on Indeed: indeed.com/r/Anil-kumar/96983a9dd7222ae!
+Seeking a challenging career as an IT-Manager utilizes my analytical skills experience in design
+and development area of IT development & management. Long term objective is to achieve
+an
+IT consultant position.
+STRENGTH:
+Ability of solving problems independently positive approach, quick learner and good performer
+both in team & independent environment, hardworking self-confident, sincere and
+deterministic.
+WORK EXPERIENCE
+Microsoft Azure (Basic Management)
+FTP and TELNET
+2008 to 2008
+Design & implementation of Servers, Exchange Servers and Network according to the
+customer specific needs.
+Designing and implementations of LAN /WAN, protocols used like TCP /IP, UDP, DHCP, HTTP,
+FTP and TELNET.
+Providing remote support for maintaining Pentium, Pentium II, Pentium III, Servers on
+Windows NT, Windows 2000 Server, MS Windows Server 2003 R2 and MS Windows Server
+2008 R2.
+Software office 97 Pro, office 2000 pro. Office XP Pro, office 2003, Microsoft Office 2007,
+Microsoft office 2010, Microsoft Office 2013, Microsoft office 2016 & Visual studio
+installation, MacAfee, Norton Antivirus, Escan Antivirus and other software & support.
+Configuration of E-mail clint software's that is (Outlook Express, Windows mail and
+Microsoft Outlook.
+Installation and maintenance of Intel dual processor servers like HP, IBM, Dell Tower and
+Rack based server.
+Managing Network Racks, LAN & WAN.
+Installation and maintained of Backup media and devices with data backup and data
+restoration.
+Maintenance and support of all type of desktops and Notebooks like HP, IBM, and HCL,
+Lenovo, Dell, Toshiba, Apple Mac book and All kind of Handheld Devices Etc.
+OPERATING SYSTEMS INSTALLED:
+Microsoft Azure (Basic Management)
+Microsoft Windows 2008 Server
+Microsoft Windows 2003 Server
+Microsoft Windows 2000 Server
+Windows 8.1 Professional
+ttpsllwinercokiaitknaleoeasidrelaesrisicrertonlo
+Windows 8 Professional
+Windows 7 Professional
+Microsoft Windows Vista
+Microsoft Windows 2000 Prof.
+Microsoft Windows XP Prof.
+Microsoft Windows ME
+Microsoft Windows 98
+Microsoft Windows 95
+EDUCATION
+MG University
+Certification
+OXFORD SOFTWARE INSTITUTE
+SKILLS
+DATA BACKUP (1 year), EXCHANGE (1 year), LAN (1 year), MAINTENANCE (1 year), SAP (1 year)
+ADDITIONAL INFORMATION
+SKILLS
+Server Management, Basic Web content management by Joomla or WordPress,
+Desktop/Notebook management, IT consultancy, Data management, Software management,
+Network management (Active/Passive devices), Vendor development.
+PROFESSIONAL SUUMARY:
+13.7 years IT experience in implementation of LAN, WAN, MPLS, Server installation and
+maintenance, EPABX with VOIP function, Assembling of computers, maintenance and System
+Administration of Pentium pro, Pentium III, Pentium 4 and Servers, Software, Hardware and
+Network management at different organization.
+1. Totipotentsc Scientific Product Pvt. Ltd. Gurgoan (Cesca Therapeutics Inc. US)
+Working as Assistant Manager-I from 10th September 2011 to present with all IT job
+responsibilities include IT management, vendor development, vendor management,
+solutions, IT asset purchasing, backup of all servers, SAP database server backup in
+NAS with Matrix and NEC Topaz EPABX management.
+Spiceworks: Spiceworks ticketing software management tool implementation for All systems
+tickets management.
+Cyberoam CR50ia: Implementation did with Secure VPN Tunnel from Udyog Vihar office to
+Fortis Stem Cell lab and implement user based security policy like TCP and IP traffic, remote
+user's secured login, Firewall and all other policies implementation.
+TotipotentRx Cell Therapy Pvt. Ltd.: Lab setup in Fortis Gurgaon with Airtel Lease Line 1 MB
+with CCTV and Honeywell Biometric Access Pro 3000.
+Cyberoam CR35ing: Implementation did with Secure VPN Tunnel from Fortis Stem cell Lab to
+Suncity Success Tower Office and implement user based security policy like TCP and IP traffic,
+remote user's secured login, Firewall and all other policies implementation.
+2. Pal Business Systems: Working as a Senior Engineer 24th March 2011 to 9th
+September 2011.
+Totipotentsc Scientific Product Pvt. Ltd. Gurgoan: Working as an IT-Consultant & SAP
+Coordinator for Totipotentsc to Upgrading the Complete IT setup on PAN India.
+Implementation of Domain Server with all the security policies, SAP Server and regular data
+backup, Thecus 16 TB NAS with automatic backup with secure manage IT Data.
+Implementation History: 2 IBM X3320 Server, 1 is Domain Controller with users Dedicated
+Shared Folder as per data security point of view and 2nd is for SAP Server working as a SAP
+Coordinator daily basis SAP data backup via SQL Server 2008.
+NAS: Thecus 16 TB Disk space and 8 TB uses as a Data backup and rest 8 TB for mirroring, and
+taken the all server backup with all users data.
+LCD Console: Aten LCD Console 18.5 with 4:1 Dlink KVM Switch.
+Anti Virus: EScan Anti Virus Implementation has done in all users with Data Security Policy.
+Mailing Software: IQuinox Postmaster Enterprise implementation has done with the entire
+Local and remote user's configuration.
+Leave for Studies. Leaves for Studies from 1st February 2010 to 23rd March 2011.
+3. Dayal Computers: working as a Technical Head 9th October 2009 to 31 January 2010.
+Managing all the engineers and Project deployment client management, manage call
+escalation and design Corporate Solution to the customers.
+4. INTERLINK Information Systems Pvt. Ltd: Working As a senior customer support
+Executive Network & System Maintenance 18th February 2008 to October 2009.
+THE MICRONUTRIENT INITIATIVE: Working as an IT-Consultant for the Micronutrient Initiative
+with all the job responsibilities of an IT-Manager through Interlink Information Systems Pvt. Ltd.
+From 1st July 2008 to 20th February 2009 With Canada based Exchange server 2003, HP Prolaint
+ML150, Tandberg Data Ultrium backup device, 4 ISDN Lines and Cisco PIX Firewall 501 and with
+hand held devices like Blackberry, Remote Technical Support for Asia pacific, And Coordinate
+with different Vender's for different IT-Assets.
+PROJECTS IN THE MICRONUTRIENT INITIATIVE:
+1. FIRE PROFF SAFE Purchased for MI- IT for keep the data cartridge
+2. Upgrade Alcatel-Lucent OmniPCX Office system M cabinet to L cabinet with 24 extra

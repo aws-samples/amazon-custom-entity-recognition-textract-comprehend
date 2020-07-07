@@ -1,0 +1,44 @@
+Imgeeyaul Ansari
+java developer
+Pune, Maharashtra - Email me on Indeed: deed.comn/r/ingeeyaul-Ansari/a7be1cc43a434ac
+Willing to relocate to: Pune, Maharashtra
+WORK EXPERIENCE
+Application Developer
+Oracle Financial Software Services Pune, Maharashtra
+August 2016 to Present
+Wrote Services in java using data annotation which in turn were used for creating other files
+using code generation tool.
+Jar of services with related utility files such as DTOs are deployed on the Host side.
+Host side is hosted on Tomcat Server where proxy files are present.
+Created jsff page for UI, and wrote action, helper, assembler, backing bean for UI side business
+Logic made entries in collectionAppModule, PageDef.
+Used ADF & MVC architecture for building application.
+Used Unit for Testing services, Algorithms.
+Also made test Suites For running multiple test case at one go.
+Used Eclipse Debugger for Fixing Service Related Jiras.
+Made Use of Hot Deployment for Fixing Ui related Bugs on UI side which was run on weblogic
+Server.
+Used JAWS Reader for solving accessibility Related jiras and IA plugin.
+Used Java to write Batches for fetching of Bulk Data at Regular Interval.
+It created Thread for Multitasking to reduce the time for processing.
+EDUCATION
+Bachelor of Enginerring in Information Technology
+Army institute of technology Pune, Maharashtra
+2012 to 2016
+CBSE in Physics, Chemistry, Mathematics
+Rashtriya Military School Bangalore Bengaluru, Karnataka
+sietaitgatsriisiit
+2010 to 2011
+CBSE in Mathematics and English
+Rashtriya Military School Bangalore Bengaluru, Karnataka
+2008 to 2009
+SKILLS
+JAVA (1 year), CSS (1 year), HTML (1 year), MYSQL (1 year), JAVASCRIPT (Less than 1 year),
+Angularjs (1 year), Oracle Pl/Sql
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Programming Languages :C/C++, angular, java, java servlet, HTML, java script, MySQL, CSS, jsff.
+Operating Systems Linux, Windows, Android
+ORM Eclipse Link, Hibernate
+Framework & tools :ADF, Eclipse, Android Studio, Git, Selenium, Code blocks, Net beans, R studio,
+Tortoise SVN.

@@ -1,0 +1,76 @@
+Ijas Nizamuddin
+Associate Consultant State Street
+Irinchayam B.0, Kerala Email me on Indeed: indeed.com/r/Ijas-
+Nizamuddin/6748d77f76f94eed
+With close to 3 years of experience in IT industry, I have had excellent exposure to design,
+development and implementation of client Server Applications in various domains such as
+Banking and Finance concepts. I have been involved in various software Development projects
+in Open System environment.
+WORK EXPERIENCE
+Associate Consultant
+Oracle Corporation
+June 2011 to Present
+State Street Global Advisors (SSgA) is the asset management business of State Street
+Corporation, one of the world's leading providers of financial services to institutional investors1,
+with a heritage dating back over two centuries. Backed by the strength and stability of the State
+Street organization, SSgA makes continual investments in asset management and client service
+platform, resulting in a client-focused, solutions-driven orientation BrokerViews is the application
+which list all the details about the counterparties who invest their securities in State Street.The
+details also include ratings given by Bloomberg.
+Responsibilities: Development, Testing and support.
+Software Used: Java, GWT
+Associate Consultant
+Oracle Corporation Bangalore, Karnataka
+May 2010 to June 2011
+This project is actually a redesign of an existing client website. The client website was designed
+on Java Server Pages (JSP) and our aim was to change it into a more dynamic web page using
+Adobe Flex. At first we changed the home page screen of the client website. After the successful
+completion of that we incorporated flex in to the account section also. This data which is obtained
+from DataBase is taken by the flex using a remote procedure call and the data is shown to the
+user. With the use of Advanced Data Grids, harts(including Bar and Pie Charts) the site increased
+the readability and understandability of the users who were previously using the pages on java
+server pages. This site developed by us won the IMC (Interactive Media Council)' outstanding
+achievement award in Financial information. The judge evaluate website based on 5 criteria:
+Design, Content, Feature Functionality, Usability and Standard Compliance. Our website scored
+475 out of a maximum of 500 points.
+Responsibilities: Development, Testing and support.
+Software Used: Java, Adobe Flex
+Framework: Springs, MVC
+Associate Consultant
+Oracle Corporation Bangalore, Karnataka
+February 2010 to April 2010
+Description: Development of Basel II Application, Basel II is the second of the Basel Accords,
+which are recommendations on banking laws and regulations issued by the Basel Committee on
+Banking Supervision. The purpose of Basel II, which was initially published in June 2004, is to
+create an international standard that banking regulators can use when creating regulations about
+how much capital banks need to put aside to guard against the types of financial and operational
+risks banks face. In practice, Basel II attempts to accomplish this by setting up rigorous risk
+and capital management requirements designed to ensure that a bank holds capital reserves
+appropriate to the risk the bank exposes itself to through its lending and investment practices.
+The New Accord includes several methodologies for determining a bank's risk-based capital
+requirements for credit, market and operational risk. For Risk Based Capital (RBC), Credit Usage
+(CU) and Stress Test (ST), the methodologies that will be used for repo style transactions are
+Simple VaR if the collateral is eligible. If the collateral is ineligible then the Wholesale loan
+approach will be utilized or the collateral will be reduced to zero in the Simple VaR.
+Roles and Responsibilities: Development, Testing and support.
+Software Used: Oracle 9i
+OTHER PROJECTS AND REAL TIME TRAINING:
+RTRM(Railway Ticketing System Through Mobile)
+A mobile based real time application with many exciting features like checking pnr status, train
+availability, trains between stations etc. This application was done in j2me and it uses weblogic
+as server and MSSQL as the database.
+Undergone a mandatory Training on Finance By Oracle Corporation
+EDUCATION
+Birla Institute of Technology - Pilani, Rajasthan
+2011
+Bachelor of Technology in Computer Science
+University College of Engineering, University of Kerala
+2005 to 2009
+ADDITIONAL INFORMATION
+SKILL SET:
+Languages Core Java
+Front end/GUI Tools programming: Adobe Flex, GWT
+Database: Oracle 10g
+IDE: Eclipse, FlexBuilder
+Frameworks: pring(Basics), MVC frame work
+Operating System: Windows, Linux, Unix

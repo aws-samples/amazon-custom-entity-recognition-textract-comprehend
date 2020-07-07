@@ -1,0 +1,58 @@
+Mayank Shukla
+Infosys group as a Test Analyst Infosys Ltd/Edgeverve Systems Ltd
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Mayank-Shukla/3c6042bd141ad353
+3+ years of experience in Automation Testing using TOSCA and selenium.
+Worked in BFSI domain with different software engineering models like Agile methodology,
+waterfall methodology etc.
+Knowledge of project management tools like IBM CLM.
+Received "Award of Excellence" from Tricentis for Automation testing using TOSCA.
+Willing to relocate to: Noida, Uttar Pradesh Gurgaon, Haryana Bengaluru, Karnataka
+WORK EXPERIENCE
+Infosys group as a Test Analyst
+Infosys Ltd/Edgeverve Systems Ltd
+January 2015 to Present
+ary 2015 and got promoted to Test Analyst. Originally started with Infosys Ltd and currently
+working in Infosys's products subsidiary Edgeverve Systems Ltd for Infosys Finacle.
+Performing automation testing using agile methodology for projects like Finacle Core Banking
+Solution and Finacle CRM Solution.
+worked on automation testing using Selenium and TOSCA.
+Worked for Agile Release Train (ART) in Scaled Agile Framework using IBM RCLM tool.
+Working closely with Developers in Scrum Based software development model to prepare test
+plans based upon testing scope.
+Conducting functional, regression and end to end testing using IBM Rational Quality Manager
+cross platforms using various APIS.
+Experience in Web services testing and RESTful API testing.
+Worked on distributed execution technique for Automation Testing using Jenkins.
+Experience in Oracle Database, SQL queries, SQL Loader, SQL Plus
+Involved in performance testing using batch processing on UNIX server.
+Involved in defect logging, tracking and reporting using IBM Change and Configuration
+Management (CCM) application on Jazz platform.
+Worked on live project for Finacle Core Banking solution to provide Beta Quality Certifications
+for the enhancements on the running solution.
+EDUCATION
+MBA in Banking and Finance
+Manipal University Bengaluru, Karnataka
+2014
+B Tech. in Information Technology
+Saroj Institute of Technology & Management Lucknow, Uttar Pradesh
+2011
+Lucknow Public Inter College Lucknow, Uttar Pradesh
+2005
+DIVISION
+SKILLS
+CRM (3 years), DATABASE (3 years), ORACLE (3 years), Tosca (3 years), Automation Testing (3
+years), Selenium (1 year), Core Java (1 year)
+ADDITIONAL INFORMATION
+Key Skills:
+Software tools: IBM Rational Collaborative Lifecycle Management
+Testing Tool: IBM Rational Quality Management on Jazz Server
+Test Automation Tools: TOSCA, Selenium
+Programming Language: Core Java
+IDE: Eclipse
+Database: Oracle, EDB, Sqlserver
+Database Tools: SQL Developer, Toad, Tora
+Software tools: Filezilla, Mobaxterm, Putty, Office tools
+Platforms: Windows, UNIX
+Domain Software Knowledge: Finacle Core Banking Solution, Finacle CRM Solution.
+Skills: Fast learner, leadership quality, team player, presentation skills, work devotee, punctual,
+good communication and listening skills.

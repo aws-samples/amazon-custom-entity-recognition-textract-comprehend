@@ -1,0 +1,175 @@
+Puneet Bhandari
+SAP SD lead Microsoft IT
+Pune, Maharashtra Email me on Indeed: indeed.com/r/Puneet-Bhandari/cooo2fa44d676obe
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+SAP SD lead
+Microsoft IT
+August 2010 to Present
+Team Size: 8 Duration: Seven months
+Scope:
+Enhancement of Mexico invoicing process as per the current regulations
+Requirement gathering from third party and client on new process
+Responsible for implementing the changes in system
+Area of Exposure:
+Understand the AS-IS process and develop to- Be design document to meet the business and
+Government requirement
+Requirement gathering for all SD process for client
+Developed solution blueprint and Process Design Documents for OTC 3-way and 1-way invoice
+processes
+Interacting with third party to gather requirements from their end
+Creating functional specification and Gap analysis document for different country
+implementation with client
+Design test scripts for functional unit testing (FUT), Integration system testing (IST) and User
+Acceptance Test (UAT)
+Phase: Support Phase: Implementation Enhancement
+Project: JCI
+Role: SAP SD lead
+Team Size: 15 Duration: Twelve months
+Scope:
+Communication with client leadership on various issues and efficiency improvement
+Ticket handling for OTC track as L2 support lead
+Responsible for change request across OTC and all business areas
+Area of Exposure:
+End to end order to cash cycles issues
+Interface related issues with exposure to IDOCs
+Change request handling and process improvement
+SPOC for client from offshore for communication, reporting and continuous improvement
+activities
+Design test scripts for functional unit testing (FUT), Integration system testing (IST) and User
+Acceptance Test (UAT) for all changes for process and system improvements
+Achievements:
+Spot Awards for exceptional contribution to project work
+Award and appreciation from client at Global level for successful transition of new geographies
+to support global template
+Phase: Implementation
+Project: Adient
+Role: SAP SD lead
+Team Size: 5 Duration: Five months
+Scope:
+Lead Optical archiving of all future, live and archived invoices for audit purpose
+Harmonize invoice archiving process across all plants and SAP instances
+Requirement and data gathering from all plants on legal aspects of invoice form structures and
+data of last 10 years
+Area of Exposure:
+Developed solution blueprint and Process Design Documents for OTC 3-way and 1-way invoice
+processes
+Requirement gathering from all the plants legal department on the aspect of form structure
+Data gathering of all changes across globe for data (customer, vendor, organizational) relative
+to the billing process in system
+Creating functional specification and Gap analysis document for different country
+implementation with client
+Design test scripts for unit testing (UT), Integration system testing (IST) and User Acceptance
+Test (UAT)
+Phase: Implementation
+Project: JCI
+Role: Cutover Manager
+Team Size: 15 Duration: Nine months
+Scope:
+Legal entity Separation of asset share and shared sale plants from the core JCI group
+Co-coordinating with multiple vendors on behalf of client for master data migration and IT
+activities
+Area of Exposure:
+Defining scope of activities for the shared sale plants migration to new legal entity
+Co-ordination with OTC, PTP, PTD and RTR streams for successful implementation of the
+objectives
+Analyzing issues related to intercompany transactions occurred for asset share plants
+Gathering client requirement on basis of legacy system and current need
+Creating functional specification and Gap analysis documents
+Reporting to IT head of the organization on the progress of the planned activities
+Report analysis and finding functional solutions for the issues
+Hyper care support for multi SAP instance layout
+Achievements:
+Appreciations from the client on smooth and successful execution of the cutover involving
+multiple stakeholders
+Phase: Implementation and Roll-out
+Project: Atlas Copco
+Role: Master Data Lead and SD team member
+Team Size: 11 Duration: Thirty-three months
+Scope:
+Sales order management
+Equipment creation in Order to cash cycle
+Lead for master data migration
+Conducting workshops along with client IT team for business user
+Area of Exposure:
+Conducting blue print workshops with client for requirement gathering in 6 countries
+Developed solution blueprint and Process Design Documents for OTC
+Roll out of the template solution to UK-NORDICS
+Defining data flow for the sales order-billing document in system
+order to cash cycle activity management for data creation in ECC
+Creating functional specification and Gap analysis document for different country
+implementation with client
+Implementation and Configuration of different processes as per the client requirement in the
+area of SAP SD and CRM sales-ECC integration
+Reporting Reconciliation, pre validation, post validation
+Involved as lead in cutover, go-live, hyper care phases of project for five countries in Europe
+Achievements:
+Awarded for Creating landscape for support phase along with top management team of the
+project
+At onsite as equipment lead and awarded as valuable member by the client
+Phase: Implementation
+Project: Agri Business client
+Role: SD Team member
+Team Size: 25 Duration: Ten months
+Scope:
+Implementing end to end SAP SD scenario for MNC client
+Creation of functional specification documents for various processes
+Area of Exposure:
+Defining enterprise structure, shipping conditions, pricing procedure, etc.
+Assignment of structure as per business need
+Creation of BPP and functional specification documents
+Master data Creation
+Worked on DUET (SharePoint and SAP initiative)
+Handling team and driving it to achieve deliverables
+Achievements:
+Published various BOK (reusable artifacts) in Infosys Repository
+Successfully completed on job internship on Sustainability study of Infosys Clients Telstra,
+Cummins and Vodafone.
+Phase: Implementation
+Project: COE
+Role: SD Team member
+Team Size: 6 Duration: Three months
+Scope:
+Configuring sales order management for SAP SD module for client
+Testing preconfigured solution for internal team
+Area of Exposure:
+Implementation of sales order process with respect to specific SD (sales and Distribution)
+processes
+Testing for SD module processes involving various pricing methodologies
+Handling team and driving it to achieve deliverables
+Achievements:
+Cleared domain certification in Retail category
+Successfully completed Harvard Manage Mentor Certification in Customer Focus and Innovation
+Implementation by Harvard Business Publishing
+Phase: Support Client: Microsoft IT
+Team Size: 15 Duration: Sixteen months
+Scope:
+Supporting complete Order to cash cycle for Microsoft Business
+Analyzing, resolving and implementing issues or tickets
+Area of Exposure:
+Pricing unification management and analysis (stand-alone system for pricing)
+Handling of Master Data (Customer data, customer information data, condition records, partner
+profile maintenance)
+Resolving errors related to configuration issues, extension of sales organization and material,
+order, delivery and invoice errors.
+Working on LSMW for mass data update in the system
+Working on monthly rotational activities like IDOCs failure, EDI error notification, short dumps.
+Achievements:
+Resolved maximum numbers of issues among the peer group members
+Created maximum number of knowledge base articles for the project
+Title: Training Duration: Two months
+Scope: Understanding of ES Methodologies, Project management and SAP SD
+Area of Exposure:
+Understanding fundamentals of Management with respect to IT sector
+Learning SAP SD (Sales and distribution domain)
+RFP creation
+Achievements:
+Successfully cleared P100 and P200 certifications
+Successfully completed RFP and POST
+Successfully cleared all exams with score more than 4 out of 5
+EDUCATION
+MBA in Marketing
+IIT Roorkee Roorkee, Uttarakhand
+2008 to 2010
+Bachelor of Engineering in Electronics and Communication
+Shri Vaishnav Institute of Technology and Science, RGPV University Indore, Madhya Pradesh

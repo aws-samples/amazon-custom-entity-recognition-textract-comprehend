@@ -1,0 +1,165 @@
+Syam Devendla
+Bengaluru, Karnataka Email me on Indeed: ndeed.com/r/Syam-Devendla/
+c9ba7bc582b14a7b
+Senior software engineer with more than 9 years of experience in C, C++, Data
+Structures programming and BI analytics. Experience includes implementation and
+testing of enterprise and mobile application and middleware component software.
+WORK EXPERIENCE
+SMTS
+Oracle India Bengaluru, Karnataka
+January 2014 to Present
+with OBIEE team.
+Worked in Samsung R&D Operations, Bangalore since Oct- 2008 to Jan 2014, with
+Multimedia team.
+EDUCATION
+Post Graduate Diploma in Embedded Systems
+CDAC Kochi, Kerala
+2006
+Bachelor of Technology in Electronics and Communications
+Nagarjuna University
+2005
+SKILLS
+NET (Less than 1 year), ALGORITHMS (Less than 1 year) ALSA (Less than 1 year) ANDROID
+(Less than 1 year), APACHE HADOOP HDFS (Less than 1 year)
+ADDITIONAL INFORMATION
+Core Competencies
+Extensively worked in C, C++
+Good understanding of Data Structures and Algorithms
+Good understanding and knowledge of BI Analytics of OBIEE.
+Codes at HackerRank.com and am a 4 Star Rank coder in algorithms, coded
+using C++ STL
+Hands on experience of GDB Debugger for Core dump analysis and Server
+side debugging.
+Hands on experience of Visual Studio debugger for debugging on Windows
+platform.
+Working experience of Multithreaded applications for more than eight years
+Good understanding of OOPS Design principles and STL.
+Experienced in using various debuggers that include GDB debugger, Eclipse, VC++ IDE, Trace
+32, WinDbg, Visual Studio.
+Good knowledge of Big data technologie (Hadoop, Yarn Architecture, map-
+reduce, Hive, Sqoop, Hbase, Zookeeper)
+Good experience in Hadoop development and Admin activities.
+Able to understand and review Java and Scala code
+Good Exposure to Software practices, SDLC.
+Good understanding and porting knowledge of framework components.
+Good understanding of multimedia concepts, Audio video synchronization,
+Audioout, AudioIn and video zoom.
+Knowledge of WEBRTC features.
+Good knowledge of video Engine.
+Basic knowledge of MFC, socket programming.
+Good knowledge in programming and operating system concepts.
+Experience in working in a project from product development phase to
+commercialization phase.
+Successfully commercialized more than 25 million mobiles spanning across
+twenty models.
+Good global work exposure having worked in different work environments.
+Basic understanding of Linux Operating system.
+Experienced in design and implementation of Multimedia Applications for
+Mobile handsets.
+Good experience working on Smart Phone platforms (Framework, Middleware
+and Application development) having worked on various mobile platforms
+SHP, Samsung Bada, Linux, WindowsMobile5.0 SLP, Android and Tizen.
+Syam Prasad Devendla
+Good knowledge and understanding of different frameworks for multimedia.
+Good knowledge of multi-threaded programming and IPC mechanisms.
+Excellent interpersonal and communication skills and ability to work in a team.
+Skilled at learning new concepts quickly, working well under pressure, and
+communicating ideas clearl and effectively.
+Tools Used: Beyond Compare, Samsung memory leak tool, and Samsung code
+coverageTool, VS 2005 Remote Tools, KlocWork, WinShark and Ethereal.
+Experienced in working with configuration tools like VSS, Perforce, and clear
+Case.
+Operating Systems: Windows, Ubuntu Linux
+Mobile Platforms: SHP, Bada, Linux, WindowsMobile5.0 SLP and Tizen
+Technology: Multimedia, Content, Mobile Applications
+Languages: C, +(Data Structures, Design Patterns, STL)
+Tools: Eclipse, VS2005, VS2010
+KlocWork, clear case, Perforce
+Projects
+OBIEE
+Environment: Oracle BI Languages: C++
+Implementing enhancements, improving the diagnosabilty and address the customer
+issues by fixing the code bugs.
+Developed a security feature in downloads module to protect the system from DOS
+attack.
+Implemented a performance enhancer logic in Ibots to execute the agents faster.
+Responsible for fix/enhance Ibot(Delivers/Agent/Schedulers) issues in the product.
+Responsible for fixing the core dump issues reported by customers in the nqscheduler
+component in linux 32/64 and windows 32/64 platforms.
+Oracle-Thirdeye
+Environment: HDFS, Yarn, Hadoop, map-reduce, thirdeye-agent
+GUI is able to provide all information in a usable environment.
+Most of the use will be as an embeddable UI in applications like TLP, DTE, and Bug DB
+etc.
+Syam Prasad Devendla
+Provide term, line number and time indexes for word and phrase search, ability to drill
+down to a given line number and data around it, and also have ability to see data
+around a given time.
+Thirdeye-nodes-refresh
+Environment: HDFS, Yarn, Hadoop, map-reduce
+All processes for thirdeye including Hadoop components running on the same node. This
+overburdens the master node and leads to frequent failures due to disk space and
+memory issues, so worked on POC to replicate entire thirdeye setup with required
+configuration on new machines.
+BI-Manifest-Comparison Tool
+Environment: Oracle BI Languages: Java
+Implemented tool to create an excel with manifests data across platforms and painted the
+mismatched versions
+WebRTC
+Environment: Browser Languages: C++
+Media Recorder implementation.
+Multi Party communication development.
+Stage Fright (recorder and playback)
+Video engine
+Peer connection
+PlatformsY2012-Framewor| (content)
+Environment: Tizen Languages: C++
+Developing Tizen framework (content) on SLP.
+File Search
+Directory Search
+Playlist and Playlist Manager
+Supporting Tizen content framework.
+PlatformsY2011 -Framework (Multimedia- player)
+Environment: Bada, Eclipse, SLP (Samsung Linux Platform) Languages: C++
+Implemented player framework for Bada OS
+Audio Player and video Player modules.
+POC of AV synchronization for video zoom.
+Supporting Bada2.0 player framework and commercialization.
+Movie Studio (Video Editor)
+Environment: Bada, Eclipse Languages: C++
+Developed application based on UI guidelines given, modules like preview, split and trim
+forms using VePlayer library.
+Implemented VPL file creation.
+Media Browser
+Environment: Bada, Eclipse Languages: C, C++
+This application is developed to check the stability of Bada's player and Audio out
+modules.
+Audio Player and video Player modules.
+Implemented progress bar of player in both Player Form and PLS Player Form.
+Bada-NS(R&D) (R&D)
+Environment: Linux, SLP (Samsung Linux Platform) Languages: C, C++
+Worked on launching emulator
+knowledge of SLP Multimedia Framework
+Ported Player (Audio and Video) module
+Ported Audio Out and Audio In modules using ALSA library
+ETMs Firmware Client: Wabtec Railway Electronics, German Town
+Syam Prasad Devendla
+Environment: Windows XP, IAR Workbench Hardware: IOC board (Provided by WRE)
+Languages: C
+Serial Ethernet Bridge
+Serial communication commands handling.
+Supt Link
+Client: Schindler Elevator & Escalator Corporation
+Environment: Windows Mobile 5.0, embedded VC, Visual Studio 2005
+Languages: VC++, MFC
+A Business application. It makes easy for the superintendents to check the status of the
+elevators and escalators which are newly installed or being maintained and rate them
+according to their performance and report the same to the Sap server using mobility
+solutions.
+FldLink
+Client: Schindler Elevator & Escalator Corporation
+Environment Windows Mobile 5.0, embedded VC, Visual Studio 2005
+Languages: VC++, MFC
+FldLink is a Mobile Application which provides the technicians with a single,
+comprehensive view of contact information, meeting schedules, Technical information
+and repairing support while working in the field.

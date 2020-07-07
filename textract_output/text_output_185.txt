@@ -1,0 +1,79 @@
+Palani S
+Senior Technology Support Executive at Infosys Development
+Porur, TAMIL NADU, IN Email me on Indeed: indeed.com/r/Palani-s/d3b2e79f56262868
+To seek a position in your organization where I can apply my knowledge &amp; creativity, acquire
+new skills &amp; contribute effectively to the benefit of the organization and also my professional
+growth.
+WORK EXPERIENCE
+Senior Technology Support Executive at Infosys
+Development Chennai, Tamil Nadu
+May 2015 to Present
+WORK EXPERINCE
+Currently Working as Senior Technology Support Executive at Infosys, Chennai from May 2015
+to till date.
+Software Engineer
+Ampark Solutions Ltd
+October 2012 to July 2014
+Job Responsibilities
+Developing Controllers classes in java using Spring 3.2 Framework.
+Created and manipulated JDBC connection using DAO Implementation class.
+Implemented Business logics using service Implementation class.
+Creating Tables and generating Sql Queries.
+Testing, installing and monitoring new systems.
+Preparing documentation and presenting progress reports to customers.
+Knowledge in User Interface development using XML and HTML, Experience in installing,
+deploying and testing with Application Servers like Tomcat 7.0, Apache 1.3/2.0.
+Experience in preparing reports and creating defects in HP QC.
+Knowledge in creating Lists, Libraries and and import data from excel to the custom lists in
+sharepoint site.
+PROFESSIONAL EXPERIENCE
+#Project 1: Finacle Knowledge Centre (FKC)
+Environment: C#, SharePoint 2013, SQL 2012
+Roles: Development, Client/Server Side Validation &amp; Maintenance.
+Project Details: Finacle Knowledge Centre is the re-engineered version of
+Finacle Help and Support Portal which is dedicated to offer customized support
+experience to Finacle clients. The solution offers real-time, secure access to
+Finacle product knowledge and relevant support information's.
+#Project 2: Container Tracking.
+Environment: Java, JDBC, Spring Framework, SQL, Eclipse,
+Tomcat.
+Roles: Developer.
+Project Details: This System is an Exhibit of real time solution to keep track of containers and
+make moves print document which considered being the best logistics solution for the client.
+#Project 3: Care Radius-Interface Module.
+Environment Oracle SQL Developer (Oracle 9i), MS SQL Server 2008 R2, SSIS Packages, MS
+Office, Service Remedy.
+Roles: Technical Support.
+Project Details: It is a complete medical management system, solution developed by EXL landcorp
+and used by HORIZON for providing end to end member's care management and the entire data
+are stored in and maintain in our database and each data is secured by our system. Key workflows
+in CR is Authorization, Appeals, case management, disease management, member compliance,
+provider compliance.
+#Project 4: Grigora (Custom Tool)
+Environment: Java, JDBC, Spring Framework, MySQL, Eclipse,
+Tomcat, MySQL Workbench.
+Roles: Developer.
+Project Details: This System is an Exhibit of real time solution to create new user for an application.
+The System provides interfaces for assigning application specific roles to the user. Additionally,
+the
+System allows the user to create workflow template to handle application functionalities.
+* TECHINICAL KNOWLEDGE
+Programming Languages: Java 7.
+Web Centric Tech: JDBC
+Framework: Spring Version 3.2
+Database: SQL, MONGO DB
+IDE: Eclipse
+Tools: Hp-QC
+EDUCATION
+MCA in Engineering
+Anna University - Chennai, Tamil Nadu
+December 2009
+B.SC
+MS University - Tirunelveli, Tamil Nadu
+September 2006
+HSC
+Sri Kanna Matriculation Higher Secondary School
+2006
+SSLC
+Sri Kanna Matriculation Higher Secondary School
+2004

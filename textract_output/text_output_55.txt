@@ -1,0 +1,174 @@
+PRASHANTH BADALA
+Devops Engineer cloud Engineer -Oracle
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/PRASHANTH-BADALA
+bf4c4b7253a8ece7
+Hands on experience in end-end process of Build Management, Release Management and
+Configuration Management.
+Hands on experience on supporting configuration management tools on both physical and cloud
+environment
+Involved in setting up Jenkins in Distributed Environments with Master and slave
+Working experience on Subversion (SVN) administration and basic usage
+Creating Branches, tags and providing SVN user access to all developers in the organization
+Managing application server instances running on AWS
+Involved in configuring EC2 instances along with Auto scale up options.
+Involved in configuration Management using CHEF and automated the complete platform
+setup.
+Good knowledge on Cookbooks, Chef Kitchen, Burks file and Metadata.
+Involved in automating the release using UDeploy and deploying the application to different
+environments.
+Involved in container setup with Docker. Having good understanding of creating and running
+Docker images.
+Involved in writing Applications, Componenets, Resources and component process flow.
+Configured Jenkins as contionus integration tool for regular source code builds.
+Experience in setting up branching strategies, merging and taking regular backups of the source
+code on SVN server
+Helping the Developers in SVN related issues
+Written the integrated build automation scripts using Ant
+Perform the QA & Stress and UAT builds and deployed the binaries on respective environment
+servers
+Monitoring the deployment in all the servers
+Supported setting up of various environments in multi-tier architecture involving load balancers,
+Apache webservers, Oracle database,
+Developed custom scripts to automate the build and release process
+Implemented a custom authentication with WebLogic for user authentication, authorization and
+password policy
+Monitoring environment using monitoring tools like Wily monitoring tool and custom shell script.
+Involved in integrating WebLogic with Wily introscope.
+Involved in resolving tickets with different SLAs like SEV1, SEV2, SEV3 and SEV4.
+Involved in change management process like opening change records using change
+management tools like INFRA, Managenow.
+Providing on call, weekend and deployment support.
+Involved in applying security patches using WebLogic Utility.
+Deploying applications using different deployment strategies like Stage, No Stage and External
+stage.
+Work Experience:
+Working as Configuration Engineer in Oracle, Hyderabad from July 2015 to till date.
+Technical Skills:
+Version Control Tools
+Subversion (SVN) GIT
+Web/Appservers
+Continuous Integration Tools
+WebLogic 11g, Apache HTTP Server 2.4
+Jenkins 1.6, Hudson
+Build Tools
+Maven 3
+Scripting Languages
+Shell Scripting and Python
+Operating Systems
+Windows servers [...] Windows XP/7, Red Hat LINUX 5
+Database
+Oracle 11g
+Release Tools
+UDeploy, Jenkins
+cloud
+AWS
+Configuration Tools
+CHEF
+Education Qualification:
+Tech From Annamacharya Institute of Technology, JNTU Hyderabad 2015
+Project Details
+Title: E-Banking solutions
+client Union Bank of Canada, Canada
+Role : Configuration Engineer
+Environment Maven, Jenkins, CHEF, UDeploy, SVN, Linux, weblogic, Aws
+Duration Nov 2016 to till date
+Project Description:
+This is a banking project and basic objective of this project is to deal with the loans. This
+application is based on Java technology. For this we have to schedule the tasks and have to collect
+code from development team and have to build and deploy the code later have to support the
+release management team of which executing Java applications build and deployments in Dev,
+QA, performance and production environments.
+Responsibilities:
+Involved in automation of Configuration Management using CHEF and automated multiple
+environments like Prod and Non Prod.
+Involved in configuring AWS Environment to deploy applications.
+Involved in Release Management and automated the overall release process using Urban Code
+Deployments (UDeploy)
+For on boarding existing application, performing knowledge transition from development team
+to SCM team on build and deployment process.
+For new applications, work with development to get the requirements of application build and
+deployment process.
+Creating War/Ear files using Ant Script
+creating Jenkins/Hudson jobs.
+Monitor and track requests in Subversion.
+Monitor and fix the continuous integration builds running in Jenkins.
+Troubleshooting the compilation errors and provide the technical support to the developers
+team on that issue.
+Installation, configuring, administration of Web Logic 9.x, 10.x on Linux environment.
+Supporting Builds for Multiple environments like Dev, QA, Staging, Perf and Production.
+Performing Manual and Automation Builds using Maven and Jenkins.
+Troubleshooting the middle ware issues and resolving the P2, P2,P3 P3 tickets with in SLA
+Provided on call support on 24/7 basis
+Involved in creation and configuration of Domains, JVM instances in production, QA and UAT
+environments.
+Configured clusters to provide fail over, load balancing and deployed applications on clusters.
+Installed, configured and administration to Web logic 10.x, JDBC Data source and Connection
+pool configuration with Oracle. Web Logic Administration, Monitoring and Troubleshooting using
+Admin Console.
+Have excellent experience in Client Interaction
+Provided on call support for production tickets on 24/7 basis.
+Deployment of web and enterprise applications and their updates in dev, production, pre-
+production using Admin console.
+Creating branches & merging using Subversion.
+Performing deployments to multiple environments like Dev, QA, Field, Perf, UAT & Production
+envs
+Troubleshooting application related issues by log verification.
+Writing a UNIX Shell Script and schedule in the respective run levels for automate day-to-day
+activities such as auto start application server.
+Automate code deployments by using ANT and Jenkins.
+Sprint Value Added Services
+client Sprint, U.S
+Role Build and Release Engineer
+Environment Maven, Jenkins, SVN, Linux, weblogic, Apache, AWS, Docker
+Duration : Dec 2015 to Oct 2016
+Project Description:
+This is a Value Added Services provided by Sprint. This application is based on Java technology.
+For this we have to schedule the tasks and have to collect code from development team and
+have to build and deploy the code later have to support the release management team of which
+executing Java applications build and deployments in Dev, QA, performance and production
+environments.
+Responsibilities:
+For on boarding existing application, performing knowledge transition from development team
+to SCM team on build and deployment process.
+For new applications, work with development to get the requirements of application build and
+deployment process.
+Installing and configuring Subversion (SVN) and Jenkins.
+Providing support to Subversion (SVN) related issues.
+Developing and maintaining build files by using Ant script.
+Integrate Unit Testing in Ant builds
+Installation, configuring, administration of Web Logic 9.x, 10.x on Linux environment.
+Supporting Builds for Multiple environments like Dev, QA, Staging, Perf and Production.
+Performing Manual and Automation Builds using Maven and Jenkins.
+Troubleshooting the middle ware issues and resolving the P2, P3 tickets with in SLA
+Provided on call support on 24/7 basis
+Involved in creation and configuration of Domains, JVM instances in production, QA and UAT
+environments.
+Configured clusters to provide fail over, load balancing and deployed applications on clusters.
+Installed, configured and administration to Web logic 10.x, JDBC Data source and Connection
+pool configuration with Oracle. Web Logic Administration, Monitoring and Troubleshooting using
+Admin Console.
+Have excellent experience in Client Interaction
+Provided on call support for production tickets on 24/7 basis.
+Deployment of web and enterprise applications and their updates in dev, production, pre-
+production using Admin console.
+Building the source code using Jenkins.
+Helped developers in resolving SVN issues and concerns.
+Responsible for weekly and daily work checks and backups.
+Environment: WebLogic Application Server 10.3, JDK1.6, Oracle, Apache Webserver, Linux,
+JIRA, Infra, SSH, TOAD
+KOhls Retail Services
+Client Kohls, US
+Role Build and Release Engineer.
+Environment Maven, Jenkins, SVN, Linux, WebLogic, Apache
+Duration July 2015 to Nov 2015
+Project Description:
+This application is based on Java technology. For this we have to schedule the tasks and have to
+collect code from development team and have to build and deploy the code later have to support
+the release management team of which executing Java applications build and deployments in
+Dev, QA, performance and production environments.
+Responsibilities:
+Developing and maintaining build files by using Ant script.
+Integrate Unit Testing in Ant builds
+Installation, configuring, administration of Web Logic 9.x, 10.x on Linux environment.
+Supporting Builds for Multiple environments like Dev, QA, Staging, Perf and Production.
+Supporting Builds for Multiple environments like Dev, QA, Staging, Perf and Production.

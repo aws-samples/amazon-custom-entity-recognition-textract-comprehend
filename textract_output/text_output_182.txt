@@ -1,0 +1,39 @@
+Shreya Agnihotri
+Senior System Engineer at Infosys Limited - Infosys
+Bengaluru, Karnataka - Email me on Indeed: indeed.com/r/Shreya-Agnihotri/
+C1755567027a0205
+Having 2.7 years of experience in Web Application design using python Django
+framework.
+Highly experienced and skilled Agile Developer with a strong record of excellent
+teamwork and successful coding project management.
+Good knowledge in python, Elasticsearch, Django using HTML5, MYSQL, Javascript,
+jQuery.
+Performed the role of team member effectively. Involved in requirement gathering and
+analysis of the requirements in technical perspective.
+Extensively worked on software in all the phases including Design, Development,
+Implementation, Integration and Testing
+Possesses good analytical, logical ability and systematic approach to problem analysis,
+strong debugging and troubleshooting skills.
+Working on classic software development models along Agile Methodologies.
+WORK EXPERIENCE
+Senior System Engineer at Infosys Limited
+Infosys
+January 2016 to Present
+training program.
+Working as Senior System Engineer at Infosys Limited from January 2016 to till date.
+EDUCATION
+B. .Tech in ECE
+Galgotias University
+SKILLS
+Ajax (Less than 1 year), APACHE KAFKA (Less than 1 year), HTML5 (2 years), Java (2 years),
+SQL (2 years)
+ADDITIONAL INFORMATION
+Technical Profile:
+Web Technologies Python, JAVA, HTML5.
+Frameworks Django framework.
+inderooiistrea-agihotricesssoreeraseosrisit-rer
+Programming Languages Python, Java.
+Scripting Language jQuery, Javascript, Ajax.
+Operating Systems: Linux
+Databases: SQL, kafka.
+Tools and Utilities: Elasticsearch, Prometheus, Grafana, kibana, Docker

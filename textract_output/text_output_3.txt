@@ -1,0 +1,77 @@
+Akhil Yadav Polemaina
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Akhil-yadav.polemaina/
+f6931801c51c63b1
+Senior System Engineer at Infosys with 3.2 years of experience in software development and
+Maintenance.
+Maintained data processing using mainframe technology for multiple front end applications of
+Walmart Retail Link platform and ensured on-time deliverables.
+Worked on automating the uses cases to reduce manual effort in solving repeating incidents
+using Service Now orchestration.
+Possess good analytical, logical ability and systematic approach to problem analysis, strong
+debugging and troubleshooting skills.
+Good exposure to Retail domain.
+Willing to relocate to: hyderbad, Telangana
+WORK EXPERIENCE
+Senior Systems Engineer
+Infosys Limited Hyderabad, Telangana
+January 2015 to Present
+Working on all the Major and Minor Enhancement requests as part of Maintenance and Support
+activities
+Identifying and fixing all the major defects in the applications, perform root cause analysis for
+production issues
+Being a subject matter expert, involved in multiple Knowledge transfer and knowledge sharing
+sessions with the client
+Leading a peer group and taking end to end responsibilities for all the critical issues/
+enhancements.
+Identifying the use cases which can be automated using Service Now Orchestration
+Creating workflows to automate various tasks which involved manual intervention
+Direct interaction with the client on various business impacting issues on a daily basis
+Setting up weekly Status Review meetings and Code Review meetings with the client
+Senior Systems Engineer
+Infosys Limited Hyderabad, Telangana
+January 2015 to Present
+Team Size # 5
+Project Objective:
+Providing end to end Maintenance and Support activity for data processing of the most critical and
+important Web portal 'Retail Link' along with over 40 applications used daily by all the Suppliers
+and Business users of Walmart, the largest retailer in the world. Retail link is a portal which hosts
+100's of applications developed across technologies for the suppliers which help them to carry
+on day-to-day activities right from on boarding to tracking their sales. This involves supporting
+s
+sw
+various Decision Support System reports which helps the higher management to take business
+critical decisions.
+Responsibilities:
+Working on all the Major and Minor Enhancement requests as part of Maintenance and Support
+activities
+Identifying and fixing all the major defects in the applications, perform root cause analysis for
+production issues
+Being a subject matter expert, involved in multiple Knowledge transfer and knowledge sharing
+sessions with the client
+Leading a peer group and taking end to end responsibilities for all the critical issues/
+enhancements.
+Identifying the use cases which can be automated using Service Now Orchestration
+Creating workflows to automate various tasks which involved manual intervention
+Direct interaction with the client on various business impacting issues on a daily basis
+Setting up Weekly Status Review meetings and Code Review meetings with the client
+EDUCATION
+Electrical and Electronics Engineering
+Anurag College of Engineering (Jntuh)
+SKILLS
+servicenow (1 year) Mainframe (3 years), cobol (3 years), Jcl (3 years), Teradata (3 years)
+ADDITIONAL INFORMATION
+Technical Skills
+Domain - Retail
+Technology - Mainframe (COBOL, JCL, DB2, Teradata), Service now.
+Operating System - Mainframe (Z/0S)
+Database - DB2, SQL, Teradata.
+Utilities - FILE-AID, IDCAMS, DFSORT basics, LIBRARIAN, FTP/SFTP, CA-7 basics.
+Tools - Query Management Tool (QMF), SQL Assistant, Service now, Remedy.
+Key Strengths:
+Effective Communication Skills and Zeal to learn.
+Flexibility and Adaptability.
+Good Leadership Qualities.
+Analytical and Problem Solving Skills.
+Achievements:
+Received STAR award for working on various system improvement and automation activities
+Received multiple INSTA awards for my performance in the projects worked

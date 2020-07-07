@@ -1,0 +1,143 @@
+Manjari Singh
+Senior Software Analyst Accenture
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Manjari-singh/fd072d33991401f(
+Test Lead with more than 6.5 years of professional experience in TELECOM domain specifically
+in osS applications including Order
+management, Inventory Management, Service provisioning, Service Activation and Service
+Assurance
+An accomplished QA Lead with extensive experience in Functional Testing, Regression Testing,
+Unit Testing, Integration Testing, Test strategy
+definition, Test Plan, Test Estimation, Test Cases/Scenarios, Test Procedures, Results and
+documentation
+Proficient in Project management, requirements definition, software testing, SDLC, STLC, Agile,
+V-Model and Waterfall test methodologies
+Worked as primary liaison with Business, QA, Development teams and Vendors for major, minor
+and emergency releases
+Proficient in testing Web Based applications, Web Services, SOAP UI, High Speed Broadband
+and IPTV Testing (Modem, STBS, DSLAMs)
+Expertise in handling and coordinating defect triage meetings, project meeting with various
+stakeholders in onshore-offshore model
+A certified business analyst from BCS, The Chartered Institute for IT with proficiency in
+requirement management and project definition
+WORK EXPERIENCE
+Senior Software Analyst
+Accenture Bengaluru, Karnataka
+December 2017 to Present
+client Leading elecommunication and digital entertainment service provider in US operating in
+four segments: Business solutions,
+Entertainment Group, Consumer Mobility and International.
+As an Agile Test Lead responsible for analyzing, estimating and sizing the user stories which
+will help product owners to prioritize the story cards
+Participating in project planning and scrum meetings to understand business and technical
+requirements
+Roles & Responsible for testing and validation of user stories, developing testing plans, and
+estimating project resources
+Responsibilities
+Facilitate the resolution of testing roadblocks, ensure execution of QA deliverables and guiding
+team members on agile
+standards and best practices
+Responsible for conducting smoke, functional, regression testing as well as ad-hoc testing
+of
+client's B2B web application
+Creating project specific documents including system understanding documents and
+requirement traceability metrics
+Project 1: ASPEN Unified Communication
+Role: Senior QA Lead
+Key Responsibilities:
+Project
+O Extensively collaborated with external Vendor to understand the new B2B Portal and
+documented the same
+O Mentored/Trained new team members with Unified Communication concepts and functionality
+of the portal
+O Responsible for leading a team to deliver test results for unified communication platform
+O Lead Iteration Retrospective meetings to define problems, prioritize actions items and decide
+next steps
+Senior Software Analyst
+Accenture Bengaluru, Karnataka
+June 2011 to November 2017
+One of the leading elecommunication services and products provider in Canada providing wide
+range of products and services
+Client
+including mobile telephony, internet access, voice entertainment, video and satellite television
+As a Test Lead responsible for testing the End-to-End flow of Business Requirement
+Develop test suite, test approach, test plan and high level scenarios for the project
+To provide Project estimates, resource commitment for functional testing
+Working with the Project Leads to establish time tables and agree on a QA plan for the
+implementation
+Roles & Lead defect triage calls, business reviews and training session to help subordinates
+produce quality deliverables
+Responsibilities Mentoring a testing team of 14 personnel through all phases of application
+development, ensuring that systems, products, and services meet or exceed organization/
+industry quality standards and end user requirements
+Sending daily status reports to the stakeholders regarding test progress and defect updates
+Participating in risk and mitigation planning discussing the project planning and related risks
+Assisting/leading GO-LIVE activities for smooth code delivery in short duration
+Project 1: Service Assurance Enablement
+Role: QA Lead
+Key Responsibilities:
+Worked as a QA prime on multi-million CAD$ project for assuring service quality and enabling
+glitch free service delivery
+O Lead the QA team of 6 members both at onshore and offshore at different time periods
+O As a Subject Matter expert, managed and delivered complex end to end data setup for AT,
+PT, UAT testing
+Project 2: HDM Upgrade and firmware testing of Customer Premises Equipment (CPE)
+Role: QA Lead
+Key Responsibilities:
+Owned and managed the only live lab environment as Onshore lead
+O Performed network testing in established lab on DSLAMS, modems, STBS with various firmware
+versions
+O Extensively collaborated with the external vendors and provided support to offshore team in
+testing phase
+Projects
+Project 3: TV3- THOR Program
+Role: QA Lead
+Key Responsibilities:
+O worked as an Onshore QA lead for multiple agile releases during the launch of new next gen
+IPTV app
+O Collaborated closely with project team to resolve the outstanding issues within strict timelines
+O Performed Web based, Android & IOS testing for the new TV content app while collaborating
+with the vendor team
+Project 4: Multiple HSIA projects like HSIA 250/250, Optik 150, Optik 50
+Role: QA Lead
+Key Responsibilities:
+O
+worked on requirements analysis, estimation, test planning, test approach, and defect
+management for the release
+O Collaborated with developers and BSAs to daily triage the defects logged during the testing
+O Performed database testing for one of the activation tool and automated the process using
+Worksoft Certify
+QA
+Accenture
+August 2015 to October 2016
+Lead, worked on quality assurance and service enablement for multiple newly launched digital
+applications in live environment.
+Accenture Vancouver, BC
+2015 to 2016
+EDUCATION
+.TECH. in Information Technology
+Amity University Lucknow, Uttar Pradesh
+2011
+class XII
+Canossa Convent Girls Inter College
+2007
+class X
+Canossa Convent School
+2005
+SKILLS
+QA (7 years), TESTING (6 years), ESTIMATION (6 years), AMDOCS (Less than 1 year), BILLING
+(Less than 1 year)
+ADDITIONAL INFORMATION
+SKILLS AND COMPETENCIES
+Domain and Functional Expertise Tools and Languages:
+Telecommunications and IPTV Systems
+NetCracker, NetProvision, Insight (IISY), HDM (Nokia),
+Trouble Ticketing
+Test/QA Lead Click Schedule, FieldLink, AMDOCS-Ordering, Billing - Product Catalog
+Project Management IBM - TOCP, Mediaroom, MediaFirst TV3 platform (Ericsson)
+Software Testing and Defect Management HP QC 10, JIRA, TDP, Accenture Test Estimation Tool
+Lead to Order and Order to Cash Management
+Caliber RM (Requirement Gathering),
+Confluence, clear Quest
+Service Provisioning and Activation Worksoft Certify, QTP, Java, Selenium, SQL, HTML, XML
+Business Analysis (Requirement Management) Splunk, WinSCP, SOAP UI, Kibana, Wireshark
+Automation Proficiency in MS Office (Word, Excel, PowerPoint and Visio)

@@ -1,0 +1,90 @@
+Dinesh Reddy
+Deployed chef for configuration management infrastructure Cisco
+Bangalore
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Dinesh-Reddy/139711455c45e1a
+To give my best in my professional pursuit for overall benefit and growth of the company that I
+serve by facing the challenges. I will show my caliber and gain some experience.
+Professional Credentials and Abilities
+Having 3.5+ years of experience as a Build and Release Engineer in automating, building,
+releasing of code from one environment to other environment and deploying to servers.
+Extensively worked on Jenkins for continuous integration and for End to End automation for all
+build and deployments.
+Having In-depth understanding of the principles and best practices of Software Configuration
+Extensive experience using MAVEN and ANT as build tools for the building of deployable artifacts
+(jar, war & tar) from source code.
+Build, Configure, Manage and Coordinate all Build and Release Management activities.
+Worked on Automated build & Release process.
+Automated highly build, test, and reporting mechanisms.
+Worked on server machines with platforms like windows64, windows32 and linux64 to test and
+resolve the new release for group build issues, test failures, build breaks, Integration issues, and
+analyzed test logs in Agile Environment.
+Troubleshooting and problem solving of LinUx/UNIX servers, debugging OS failure.
+Experience in working on source control tools like SVN and GIT.
+Expert in deploying the code through web application servers like Apache, Tomcat.
+Extensive experience of working with the release and deployment of large scale Java/J2EEWeb
+applications.
+Experience in Deploying to and administering in the use of Tomcat, Nexus, Apache web server,
+SVN.
+Excellent communicative, interpersonal, intuitive, analysis and leadership skills with ability to
+work efficiently in both independent and team work environments.
+Willing to relocate to: Bengaluru, Karnataka anywhere
+WORK EXPERIENCE
+Deployed chef for configuration management infrastructure
+Cisco Bangalore Bengaluru, Karnataka
+September 2016 to Present
+Role: Build & release.
+Environment: Java 1.7, Subversion 1.8, Ant 1.9.4, GIT 2.1, Puppet, Jira 6.3, Nexus, Shell scripting,
+web logic 11g and Tomcat Servers 8.
+Responsibilities:
+Coordinate with the Development, Database Administration, QA, and IT Operations teams to
+ensure there are no resource conflicts.
+Installed and configured Jenkins for Automating build, deployments and test execution and
+providing a complete automation solution using jenkins.
+Deployed chef for configuration management infrastructure, Implemented auto environment
+creation using chef.
+Designing and implementing fully automated server build, management, monitoring and
+deployment solutions spanning multiple platforms, tools and technologies including Jenkins
+Nodes/Agents, SSH, deployment and testing.
+Created repositories according the structure required with branches, tags and trunks.
+Responsible for maintaining Multiple Devops tools & configuring across all projects Subversion
+(SVN), GIT, Maven, Jenkins, ANT, Artifactory, Chef.
+Configured application servers (WebLogic) to deploy the code.
+Experience in deploying applications on Tomcat and Web logic servers.
+Managed and document all post deployment issues utilizing the Post Deployments Issue Log.
+Declaration
+I hereby declare that the statements made herein are true, complete and correct to the best of
+my knowledge and belief. I have not suppressed any material fact or factual information herein.
+Place: Bangalore
+Date:
+software engineer
+cisco
+June 2014 to Present
+build & release engineer
+Devops Engineer
+Cisco Bangalore - Bengaluru, Karnataka -
+2014 to Present
+Technical Skills
+Devops pipelines: cloud bees Enterprise Jenkins, GIT, Docker, AWS
+SCM Tools: SVN, GIT.
+Continuous Build: ANT, Maven
+Artifact Repository: Sontype Nexus
+Containers: Docker, AWS Basics, Chef
+Static code Analysis: Sonarqube Check style
+CI Tools: cloud bees Enterprise Jenkins.
+Editors and IDEs: Eclipse (IMS Distribution), Notepad++
+Operating Systems: MS Windows XP/2000/NT/98, UNIX, Linux
+Database: MY SQL.
+Servers: Apache, Tomcat
+Tools: MS Office
+software engineer
+cisco
+Build & Release through complete automation using jenkins and config by chef in complete cloud
+enviornment like AWS GCP
+EDUCATION
+BSC
+Sri Venkateswara university tirupati - Tirupati, Andhra Pradesh
+2012
+SKILLS
+AWS Devops
+ADDITIONAL INFORMATION
+Git maven jenkins vagrant docker nagios sonarcube chef ansible

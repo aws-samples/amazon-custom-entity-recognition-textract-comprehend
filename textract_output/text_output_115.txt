@@ -1,0 +1,112 @@
+Girish Acharya
+Technical Architect & Sr. Software Engineer
+Pune, Maharashtra Email me on Indeed: indeed.con/r/Girish-Acharya/6757f94ee9f4ec2
+I would like to describe myself as a hard-core software engineer and technical architect
+passionate for technology and someone who loves to take challenges head-on I have been using
+combined engineering principles wherein I was responsible for designing, developing, testing,
+deploying and monitoring highly scalable distributed applications and services.
+While I have always been working using Microsoft technologies, I got chance to work for Microsoft
+in as a full-time employee last year. My focus as part of this role was as a Dev Ops/Site Reliability
+Engineer. The main requirement of this role was to keep-lights-on in all data centers for Windows
+Developer Center. While Service Engineering aspect was the main requirement, I used my
+technical architect and software tools for inside-out and outside-in monitoring and telemetry.
+As a technical architect, I have worked in Accenture for about 7+ years. My role @ Microsoft
+account was to demonstrate technical leadership, design technical architecture, propose
+and introduce standard design and architectural patterns and practices, incorporate new
+requirements and feedbacks from client and execute multiple quick prototypes. As part of this
+role I architected Microsoft IT's (MSIT) biggest Platform As A Service (Paas) solution back in
+the days.
+I have executed multiple client facing projects wherein I was responsible for designing,
+architecting the compute, storage, application and deployment architecture. I have experience
+in designing and architecting systems for Business Continuity and Disaster Recovery (BCP/
+DR strategies). I have designed and architected solutions for "Testing in production". I have
+experience in designing and architecting for extremely high scale 3 billion requests/day). I
+have designed and implemented auto healing, smooth traffic routing and eventual consistency
+in multiple client facing projects.
+I am in the Information Technology industry since 2001 working for various software organizations
+in India for 4 years till I joined Accenture in 2006. I came to USA in 2010 and was working as
+consultant for Microsoft. I joined Microsoft in May 2015 as a full-time employee. I earned my
+Electronics Engineering degree in year 2000, Diploma in Advance Computing degree in year 2001
+and completed Microsoft Certified Professional Developer and Enterprise Architect certification
+(MCPDEA) in year 2007. I am also Microsoft Azure Certified Developer and Architect.
+I am frequent community contributor. I blog at http://girishthegeek.wordpress.com/
+I have worked and published an asset called Framework for Ops Team considering Windows Azure
+and it was very well received by the clients and appreciated by the managers.
+I wrote a white paper related to AppFabric Service Bus which got published in MSDN.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Technical Architect
+Accenture Services Pune, Maharashtra
+Software Engineer 2
+Microsoft Redmond
+June 2016 to February 2017
+Engagement and monetization (Microsoft Universal Store/Windows Developer Center)
+June 2016- Recently
+Technologies used:
+Microsoft Azure, C#, SQL, PowerShell, App Insights, Azure Data Factory, Redis Cache, API
+Management Gateway, Azure App Services, Akamai, Azure CDNS, Azure Traffic Manager,
+Automated Unit Testing, Web Testing, Coded Unit Tests, Performance Testing etc. Tools
+SpecFlow,
+JMeter, Junit, NUNit, MoQ, Fluent Assertions, VSTS, GIT, Microsoft Test Manager, Continuous
+Integration and deployment, maintaining build definitions
+Roles Played:
+O Technical architect
+O
+Designing and architecting for compute, storage, application, security and deployment
+architecture
+O Designing and architecting for Business Continuity and Disaster Recovery (BCP DR)
+O Designing and architecting for the Testing In Production (TIP)
+O Designing and architecting for auto healing and auto scaling pattern
+O Designing and developing for monitoring
+Design and develop inside out and outside in monitoring and logging
+Design and develop synthetic web tests
+Design and develop watchdogs
+Design and develop the global traffic management using Akamai
+O Keeping lights on for the services in all data centers
+O Firefighting drills and actual firefighting
+O Live site issue tracking, management, coordination and resolving
+O Capacity monitoring and management
+O Code reviews
+O Implemented the security architecture
+EDUCATION
+Bachelor of Engineering in Microsoft
+C-DAC
+SKILLS
+Azure (8 years), Asp.Ne (8 years), C# (9 years), Web API (6 years), Sql (6 years), Technical
+Architect (5 years), Automation Testing (5 years)
+LINKS
+http://girishthegeek.wordpress.com/
+tps://www.linkedin.com/in/girishazure
+CERTIFICATIONS/LICENSES
+Microsoft Certified Professional Developer
+Microsoft Certified Professional Developer
+Microsoft Certified Enterprise Architect
+ADDITIONAL INFORMATION
+Technical Expertise
+*Technical Architecture, Microsoft Azure Platform, Microsoft NET Platform, C#, ASP.NET*
+Designing/architecting/building/testing/deploying apps/APIs using Windows Azure, SQL Azure,
+Azure Storage, REST/WCF, AppFabric Cache, Service Bus, Topic and Subscription, Access Control
+Services from last 7 years.
+Azure Application Architecture: Web Role, Worker Role, VM Role, admin mode, start-up tasks
+integrating with on premise services using App Fabric Service Bus
+Azure Security Architecture: Web Role security using SSL, WCF Security using certificates,
+Data Encryption using certificates, Authentication using ADFS/STS, Single sign on using ACS.
+Participated in ACE reviews, and provisioned related documentation/code
+Azure Operations Architecture: Logging and monitoring using Windows Azure Diagnostics,
+integration with AVICode, SCOM, disaster recovering and business continuity planning and
+implementation, automated builds and deployments.
+Azure Data Architecture: Understands SQL Azure, Windows Azure Storage (Tables, Blobs,
+Queues), Document DB, SQL Azure Data Sync, SQL Azure Federation etc.
+Deployment Architecture: Continuous integration and deployment. Auto Build, Deployment
+using Service Management APIs and Powershell cmdlets
+Akamai design and implement traffic management, caching using Akamai
+Azure traffic manager, CDNS, Azure Data Factory, Auto Scaling
+Deployment automation and synthetic monitoring using application insights
+Developing end to end APIs and applications using ASP.NET Web Forms, ASP.NET MVC, Web API
+Performance Testing: Performance, scalability testing using Visual Studio
+Automated Testing: Automated Unit Testing, Web Testing, Coded Unit Tests, Performance Testing
+etc. Tools SpecFlow, Jmeter, Junit, NUNit, MoQ, Fluent Assertions, VSTS, GIT
+Big Data: Architected and developed a big solution using Windows Azure HD Insight, Hive
+queries
+http://girishthegeek.wordpress.com/
+ttps://www.linkedin.com/in/girishazure

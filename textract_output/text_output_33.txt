@@ -1,0 +1,47 @@
+Kavitha K
+Senior System Engineer - Infosys Limited
+Salem, Tamil Nadu - Email me on Indeed: indeed.com/r/kavitha.k/8977ce8ce48bc80c
+Seeking to work with a software firm, to constantly upgrade my knowledge and utilize my
+existing skills to benefit the concerned organization
+WORK EXPERIENCE
+Senior System Engineer
+Infosys Limited
+December 2014 to Present
+Unix, CA7 scheduler
+Infosys Limited -
+December 2015 to February 2018
+Qlikview Level 1 Basic knowledge of creating simple dashboards with different
+Production support style using Qlikview components like List Box, Slider, Buttons,
+charts and Bookmarks.
+Created different types of sheet objects like List boxes, Buttons,
+Multi box.
+Good knowledge of monitoring Qlikview Dashboards
+Monitoring Critical dashboards and communicating delay to clients
+Involved in Qlikview initial error analysis and the concerned
+team to trouble shoot the issue
+Monitoring Qlikview dashboards from end to end and manually
+refreshing the tasks if needed
+Handling service request for manual refresh of dashboards
+Monitoring Qlikview dependent ETL jobs in CA7 job scheduler
+Level 1 (BI process) Involved in monitoring batch jobs in CA7 job scheduler
+Managing the daily workload based on priorities and maintain
+SLA'S to provide quality services to end users
+Responsible for sending daily and weekly reports to the clients
+Initial analysis of log files and fixing of environment related
+issue in ETL Process
+Coordinating with concerned team in troubleshooting of major
+business related issues and sending notification to the clients on timely manner
+Responsible for all Process related activities like incident
+management and change management
+Involved in documenting the process, procedures and flow of ETL Process for critical
+applications
+Respond to user service requests and resolving them with in stipulated time
+Participated in Incident Management and Problem
+Management processes for root cause analysis, resolution and reporting
+EDUCATION
+Networking, Infosys Limited
+Foundation Training Program in Networking
+2016
+Bachelor of Engineering in Information Technology
+REiume Institute of road - Erode, Tamil Nadu
+2014

@@ -1,0 +1,82 @@
+Ramya. P
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Ranya-P/00f125c7b9b95a35
+( 2 year Experience)
+Working currently with Accenture services Pune as a Software Test Engineer with client
+Accenture on British Telecom Open reach Project, using Agile Methodologies.
+Experience in automating provision journey in QTP (UFT)
+Good understanding of the project with deep domain knowledge of Telecom with respect to
+Provisioning and Assurance.
+Expertise in functional, CST, Integration and E2E testing on CRM application for the BT
+Assurance journey with respect to different products.
+Expertise in understanding of the new requirements and developing test cases for new features
+being implemented in the code base and executing them.
+Good in understanding of the change with involvement in regular solution design discussions,
+technical changes discussions with Solution Designers and Stake holders accordingly.
+Proficient with the SDLC, STLC and Defect life cycle.
+Excellent communication skills with proficiency at grasping new technical concepts quickly and
+utilize the same in a productive manner.
+Mentored new joiners on the overall view of the project, Features and Functionality of Testing.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Software Engineer
+Accenture Hyderabad, Telangana
+December 2015 to Present
+BT Openreach (British Telecom)
+BT Openreach is responsible for looking after the local network (connection from your property
+to local exchange) that makes the running of telecommunication services possible. BT helps to
+provide lines for telephone connection. It has products like PSTN, Ethernet, NGA, and LLU. BT acts
+as an intermediate between customer and connection provider.
+BT
+Openreach is a software module which manages BT business right from the placement of the
+order, managing appointments, monitoring status to order completion.
+Role and Responsibilities:
+Performing a Sanity test on the application and working on stabilizing the test environment for
+smooth testing activities everyday SOP.
+Assigning the task and updating the reports to management by collating the data of each
+individual in the team.
+Testing the application with respect to CST, Integration, Functional, E2E and Regression testing.
+Writing of Test Cases and execution based on the inputs such as customer requirements/test
+plan/test approach/ test techniques/ test strategies given based on the functionalities using Agile
+Methodologies.
+Execution of test cases and bug reporting in Quality center
+Coordinated with developers to get the bugs reproduced and resolved
+Reviewing the release and build notes documents.
+Carry out regression testing every time when changes are made to the code to fix defects.
+Regular involvement in RCA calls for the defects raised on daily basis and attending Scrum calls
+for updating the status of the stack present in a given timelines.
+Liberty global international (LGI)
+Presently working as a application support Engineer for LGI.
+Roles and Responsibilities:
+Daily monitoring servers heath check
+Solving the incident using tools like nagious splunk, graphana.
+Acheviments
+Received appreciation excuting high number of test cases with in the given time
+Received appreciation from Client for finding show stopper defects.
+Received appreciate for identifying P1 issue within the SLA
+EDUCATION
+BSc in Computer Science
+vasundhara womens
+2015
+narayana jr.college
+2012
+SSC
+pragathi high school
+2010
+SKILLS
+Black Box (2 years), Black Box Testing (2 years), Database (Less than 1 year), java (Less than
+1 year), logging (Less than 1 year), SQL (Less than 1 year), Nagious (Less than 1 year), Splunk
+(Less than 1 year), Manual Testing (2 years), SDLC&STLC (2 years)
+ADDITIONAL INFORMATION
+Operating Systems: Windows,
+Languages: Core java
+Test Management Tool: HP Quality Center, HP ALM
+Database mySQL
+Defect Management Tools: AIT ( Accenture Intelligent Testing), QC
+Professional Skills:
+Proficient in overall Manual testing concepts.
+Proficient in Functional E2E Testing, Black Box Testing, Regression Testing.
+Good at analyzing the requirements and preparing assessments for the new requirements
+Expertise in Development of test cases for the new features being implemented using different
+test design techniques. This included Analysis of the Feature Documents and developing a
+strategy for testing the feature.
+Good in defect logging and tracking activities till the closure of a defect using tools QC and AIT.

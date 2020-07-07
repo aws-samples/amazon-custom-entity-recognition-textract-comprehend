@@ -1,0 +1,155 @@
+Karthik GV
+Architect Microsoft India
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/karthik-Gv/196ic4eff8o6e6f4
+Willing to relocate to: hyderbad, Telangana
+WORK EXPERIENCE
+Architect
+Microsoft India Hyderabad, Telangana
+February 2005 to Present
+DevOps One of the key members of the DevOps team in the Enterprise Services Global DevOps
+program.
+Readiness Provide Devops readiness to the end customer.
+Sr. Program Manager
+Microsoft India
+March 2016 to January 2018
+Key Projects Aurora BI (SAP), ES Analytics, BI as a Service, Service Center BI, Premier services
+(PSR)
+I am accountable for implementing a unified analytical platform for the entire Enterprise Services
+business (~$6 billion) in Microsoft. This allows the services business to strategize and take key
+operational decisions during the monthly and quarterly business reviews with the Leadership
+Team.
+Key Responsibilities
+Product Owner Manage & prioritize product backlog. Evangelize product feature with other
+teams and enable more product adoption.
+Product Roadmap Prepare roadmap for the product for the upcoming fiscal year.
+Sprint Planning & monitoring Scoping, resource levelling / smoothing
+Stakeholder management Manage key business stakeholders, get / set expectations and
+manage communication.
+Risk management & mitigation
+Co-ordinate cross functional teams for product releases
+Product Retirement Plan and manage existing product retirement, interact, communicate with
+all downstream systems to ensure product retirement and replacement is smooth.
+Product migration Retire Informatica and migrate to Azure Data Factory for ETL process.
+Compliance Management
+Global Data Protection Regulation (GDPR) Analyze, estimation and planning for the BI group.
+Key Skills Microsoft Azure SQL DW, Azure Data Factory, SQL Server 2016, Power BI dashboard,
+Rest API
+Methodology Agile model
+Architect
+Microsoft India Hyderabad, Telangana
+September 2013 to March 2016
+Mckesson, Singapore Provident Fund, SSE Home Services
+Key Responsibilities
+Delivery Management Provide technical leadership and strategic direction to the testing
+organization and project delivery team.
+Presales closely interact with customer & pre-sales team, response to RFP, Test estimates and
+prepare Statement of Work. won multiple test only engagements from CEE, LATAM, India region
+Test Strategy & Test Plan development & review for test only engagements.
+Test Consulting Services Worked with the UK based customer "SSE Home Services" to provide
+test consultancy and technical guidance to the offshore TCS Kolkata team.
+Test Processes Defined process steps and quality gates for test only engagements at
+organization level.
+Quality Analysis Analysis of trends in testing, identify best practices, improvement areas. I
+have prepared checklist for presales & delivery team that reduced the effort and cost of review
+and lead to faster turnover to the customer.
+Project Recovery Team I am one the key members in the project recovery team. I work closely
+with the project team and leadership to ensure that the project is recovered successfully. I have
+successfully recovered 3 critical project with high quality. In the current recovery project, I have
+managed a team size of 103 team members.
+Project Delivery review- As a part of Technical Quality Assurance (TQA), I am the quality
+gatekeeper for all dashboard projects (-30 projects) within Microsoft Global Delivery. All test
+artifacts, test approach, test processes are reviewed and signed off during TQA review.
+Key Skills
+Sr consultant
+Microsoft India Hyderabad, Telangana
+June 2008 to March 2016
+Sr Test Engineer
+Microsoft India - Hyderabad, Telangana
+February 2005 to June 2008
+2013, SQL Server 2014, Test automation using Coded UI, Selenium.
+EDUCATION
+PGDBM
+Narsee Monjee Institute of Management Studies
+2017 to 2018
+SKILLS
+Program Management (2 years), Product Management (2 years), Quality Assurance (10+
+years), Business intelligence, Devops
+LINKS
+ttps://ww.linkedin.con/in/karthik-g-v.7a2546
+AWARDS
+Microsoft Technology Guru
+February 2012
+Microsoft Role Model
+June 2007
+CERTIFICATIONS/LICENSES
+Scrum Product Owner
+Scrum Master
+CITA
+ADDITIONAL INFORMATION
+Methodologies - Agile model, Iterative Model
+Test Management - Resource forecasting, team sizing and budgeting, release planning, team
+management, technical
+guidance to the team.
+Role: Sr. Consultant (June 2008 Sep 2013)
+Experience on managing test team for Data Warehouse / SQL Server BI, Net App Development
+Projects, API / Framework, Windows phone apps and Performance Testing engagements. Played
+role of Test Lead / Manager in all engagements.
+Key Projects - NHS UK, Baxter, ATI, Intel Corporation, Merck, EXL, Oman BI, PwC, ANZ Bank, SQL
+Server PDW (Parallel Data-warehousing), Azure Cave tool
+Key Responsibilities
+Test Manager in all engagements.
+Test Planning & Execution Define test strategy and test plan. Onboard resources allocate and
+track tasks. Identify risks and mitigation plans.
+Define & implement Test Automation
+Performance test planning and execution
+ttps://ww.linkedin.con/in/karthik.g.v.7a25462
+Define defect triage process with project & customer.
+Team Management Managed maximum team size up to 8 resources.
+Key Skills
+Technologies Visual Studio 2012, Microsoft Test Manager 2012, Azure, Test Automation using
+Coded UI, Unit Test Framework, Performance testing using Visual Studio 2012, SQL Server 2012.
+Methodologies Iterative, Agile model, Test Driven Development (TDD)
+Microsoft IT India, BI CoE (Feb 2005 June 2008)
+The Business Intelligence CoE in India manages multiple applications that require Data
+warehousing, Reporting, Analytical and other BI related Capabilities.
+Role: Test Lead
+I was the test lead for multiple Data Warehousing / SQL Server BI projects. My primary role has
+been the test lead for all these projects.
+Key Projects - MSSales, Rhythm of Business (RoB), Services Information Repository (SIR)
+Key Responsibilities
+Planning and Estimation of quarterly releases
+Define test strategy and Master Test plan
+Review & Inspection of BRD, FSD, TSD, Test Cases & Test Plan
+Execution of Test Cases and defect logging.
+Conduct / participate in Defect Review meetings with the developers / client
+Analysis of Defects Analysis of the root cause and the Injection phase of each defect.
+Test automation on MS BI, RoB, PTS Web, SIR & CFR.
+Team Management (includes FTEs) managed team size of max 10 resources
+Key Skills
+Technologies -SQL Server 2000 / 2005 / 2008, SSRS, SSAS, SQL Server PI, SharePoint, Azure,
+Enterprise Library
+Tools: Visual Studio 2012, QTP 8.2, TFS 2012.
+SDLC & Test Methodologies Agile methodology, Iterative model.
+Royal Bank of Scotland, New Delhi Aug 2004 to Jan 2005 (6 months)
+My role as a Quality Engineer involved in
+Review of functional requirements
+Design test plan
+Design & review of test cases
+Test automation using Winrunner 7.6, QTP.
+Test case execution and defect reporting.
+Set up Performance testing environment-using Loadrunner. Completed a POC for performance
+testing of a D2K application.
+Key Skills Acquired
+Technologies: Oracle, D2K
+Tools: Winrunner 7.6, QTP 6.5, Test Director 7.6, Loadrunner 8.0, clearcase, SQL Navigator
+Sapient Corporation, New Delhi June 2003 to Aug 2004 (14 months)
+Role of Quality Engineer and primarily involved in
+Review of functional requirements.
+Create & execute system & Integration test cases in Test Director
+Test automation script development & execution using Winrunner 7.6.
+Maintenance of Test Automation environment.
+Production deployment support Testing in Production.
+Key Skills Acquired
+Technologies: Java, JSP, Ariba 1.5
+Tools: Test Director 7.6, Toad, Winrunner 7.5, Trackgear 3.5, PVCS Tracker, WinCVs, Togetherj,
+Visio, Winmerge

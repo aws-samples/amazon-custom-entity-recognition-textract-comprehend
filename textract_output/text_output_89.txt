@@ -1,0 +1,104 @@
+Srabani Das
+software engineer - Oracle, Business Objects
+Bishnupur, MANIPUR, 722122, IN - Email me on Indeed: .ndeed.com/r/Srabani-
+Das/152269fb5b986c26
+To secure a challenging position where I can effectively contribute my skills as Software
+Professional which will boost my career and can be effectively achieve company objective.
+WORK EXPERIENCE
+software engineer
+Oracle, Business Objects
+June 2015 to Present
+A highly accomplished professional with 2.8 years of IT experience as a software developer
+working with technologies like Teradata, Oracle, Business Objects.
+Working as software engineer with Apple client in Exilant Technologies Pvt. Ltd. from June 2015
+to till date.
+Working in multiple domains like Retail and Concierge.
+EDUCATION
+B-tech in Electronics and Telecommunication
+College of engineering - Bhubaneshwar, Orissa
+2015
+CBSE
+ODM Pubic school - Bhubaneshwar, Orissa
+2011
+CBSE
+Green-Field school
+2009
+SKILLS
+RETAIL (2 years), RETAIL MARKETING (2 years), TERADATA (2 years), ACCEPTANCE TESTING
+(Less than 1 year), APS (Less than 1 year)
+ADDITIONAL INFORMATION
+SKILLS
+Databases (Primary): Teradata, Oracle (SQL, PL/SQL)
+os: Unix, Windows, Mac OS
+Teradata Tools & Utilities: BTEQ, Muti Load, Fast Load, Tpump, TPT.
+Reporting Tools: BO Reporting, Crystal Report, Universe design tool, BOBJ Migration tool
+Other Tools: Radar, Espresso, SQL Workbench, SQL Developer, ETL Metadata UI, iCcheck, Global
+deployment tool, Ms office, Power Point, Ms Excel, Workload Automation.
+Applications: Central Station, GitLab, SVN.
+KEY PROJECTS:
+Leaderboard
+Project Leaderboard
+Client Apple
+Description
+Leader Board is an iPad based application for single Point of entry to GBI Retail mobile
+applications. It is to provide automated and centralized access to different apps. Its a location to
+get key actionable metrics around Sales & Services related transactions of Apple retail store. It
+is widely used by all managers and employees in Apple stores.
+This is a diverse application which has 4 sub applications:
+Store Pulse, Benchmark, Session and RedZone Mobile.
+Real-time as well as historical data are displayed in this application.
+Peak Team Size 6
+Roles and Responsibility
+Working as a database developer in this project.
+Worked in complete revamp of Leader board application and done multiple enhancements to
+develop logic for multiple sales and service related metrics.
+Created design documents and Logical Data flow Model from source study according to Business
+requirements.
+Created multiple Replication setup process (Export and Load) using Apple ETL framework tool.
+Worked on Business Objects, SAP Crysral report and universe for report creation and
+modifcation.
+Coding and Support for all phases of Testing
+Implementation in production for project go live.
+Production support till warranty phase.
+Transition KT to APS team.
+Technology Used Teradata, Oracle, BO Universe and Reporting, Crystal Report, Unix and Autosys,
+ETL Framework.
+Reporting Tools Used Business Objects, BOBJ Migration tool, Universe design tool, SAP Crystal
+Report
+Apple Retail Expansion
+Project Apple Retail Expansion
+Client Apple
+Description
+As part of New Apple Store/country Expansion, Store/Market/Country level metadata setups are
+done with real-time and history performance reports are sent to business users periodically.
+Peak Team Size 3
+Roles and Responsibility
+Involved in Designing technical specification docs and gathering functional requirements.
+Carried out DB changes alone with Unit, Integration, Functional, Regression testing and test
+case preparation of all the modules impacted for it.
+Implemented Reporting side changes for new Store expansion.
+Technology Used Teradata, Oracle, BO Reporting, Crystal Report, Unix and Autosys, ETL
+Framework.
+Reporting Tools Used Business Objects, SAP Crystal Report
+Genius & Forum Dashboard
+Project Genius & Forum Dashboard
+Client Apple
+Description
+This Dashboards acts as a reporting solution for Concierge the service oriented wing of Apple.
+Genius and Forum Dashboard has been developed as the reporting layer to report the Genius
+Bar, Workshops/events, Repair related metrics.
+Helps the store leaders to take decisions on the floor to improve customer experience analyzing
+the trend of the store.
+Store leaders can plan for scheduling of employees based on the demand of symptoms/
+categories.
+Peak Team Size 6
+Roles and Responsibility
+Understanding the functional requirement
+Design Document preparation.
+Coding and Units testing.
+Preparing test cases and conduct Integration Testing
+Support for User Acceptance Testing
+Implementation
+Support
+Technology Used Teradata, Oracle, Unix and Autosys, ETL Framework.
+Reporting Tools Used Business Objects, BOBJ Migration tool, Universe design tool

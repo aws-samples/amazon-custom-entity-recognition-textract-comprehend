@@ -1,0 +1,76 @@
+Yogi Pesaru
+Developer Infosys Limited
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Yogi-pesaru/2ed7aded59ecf42E
+Total IT experience of 4.6 years in IT Industry.
+Currently working as SAP PI/XI and Dell Boomi developer.
+Good communication, interpersonal and Client interaction skills with clear understanding of
+the requirements.
+Trained on SAP ABAP, SAP BASIS, SAP HANA (HCI), DELL Boomi.
+Worked on PI 7.1, 7.31, Dell Boomi Atomsphere.
+Good knowledge of Core Java and good command in writing UDFs for Graphical Mapping.
+Created Technical systems, Business systems and Software products and components in SLD.
+Worked on SLD configurations, IR and ID.
+Good capabilities of trouble shooting and resolving different kinds of issues like connectivity
+problems, mapping exceptions etc.
+Experience in working with FILE, SOAP, SOAP (AXIS), RFC, IDOC and XI, JMS, JDBC, ARIBA, REST
+in PI and File, SOAP, Successfactor, Salesforce connectors in Boomi.
+Implemented standard features like UDMS, message prioritization, ichannel admin.
+Worked on Transports of IR, ID and SLD objects using file and CTS+ transports.
+Good knowledge of Graphical Mapping with node functions and UDFs.
+Knowledge of XSLT and Java mapping and Dynamic Configuration.
+Production support experience in Runtime workbench, communication channel scheduling,
+Message Monitoring.
+Good knowledge on SLD configuration, IDoc configuration in ECC and PI and alert configuration.
+Experience in handling quarterly and emergency releases and providing post release support.
+WORK EXPERIENCE
+Developer
+Infosys Limited
+October 2015 to Present
+Infosys Limited Senior Systems Engineer 01st Oct 2015 till date
+PROJECT SUMMARY BOOMI
+Project Name Success factor integration with Sterling
+Client SYSCO
+Employer Infosys Limited
+Role Developer
+Team Size 3 members
+Technologies Java script, groovy script, SuccessFactor, Sterling, Webservice
+Duration 2 years
+Project Abstract:
+The integration for Sterling is a two-way integration to support the investigation and confirm
+accuracy of background information provided by selected candidates who have received have
+passed phone screening & or accepted verbal offers of employment.
+Boomi is the middle ware between success factor and sterling systems
+Boomi sender interface picks up the profiles from SF and send to sterling for background
+verification. After receiving request from boomi sterling will send synchronous response with an
+Oder number, which will be updated to SF synchronously. After some time boomi receiver process
+(listener process) receives the asynchronous results from sterling which are updated back to SF.
+Role and responsibilities:
+Requirement analysis.
+Design as per the requirement.
+Process development as per design.
+Unit testing the applications.
+PROJECT SUMMARY PI
+Project Sysco MS Development
+Systems Engineer
+Infosys Limited
+September 2013 to September 2015
+EDUCATION
+B. Tech in ECE
+Vidya Bharati Institute Of Technology - Hindupur, Andhra Pradesh
+2008 to 2012
+Hosanna National High School
+2006
+SKILLS
+C+ (Less than 1 year) Citrix (Less than 1 year), integration (2 years), INTEGRATOR (2 years),
+Java (2 years)
+ADDITIONAL INFORMATION
+TECHNICAL PROFICIENCY
+Integration Tools SAP PI (7.1, 7.31), Eclipse, Citrix, SQL Server Data, SOAP UI, NWDS, Solution
+Manager, HPQC, POSTMAN
+Backend Technologies Oracle and MS SQL.
+Languages Core Java, C++, C.
+KEY STRENGTHS
+Initiative, Leadership Qualities and Team spirit.
+Proficiency in Communication skills, Positive attitude.
+Good knowledge about Technology and interest towards new learning.
+Responsibility and patience to do work assigned by superiors.

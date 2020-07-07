@@ -1,0 +1,84 @@
+R Arunravi
+Functional Consultant / WM Lead SAP EWM
+Bangalore, Karnataka Email me on Indeed: indeed.com/r/R-Arunravi/oda1137537d8b159
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Functional Consultant / WM Lead
+SAP EWM
+December 2015 to Present
+CATERPILLAR]
+SAP EWM WM Analyst
+CATERPILLAR
+October 2013 to December 2015
+Magna Info Tech]
+Project 1: Implementation & Support of EWM
+Project 2: Johannesburg Distribution Center WM/SD/MM Support
+Involved in Business requirement Gathering for setting up a new warehouse. Understanding
+the AS-IS Business Process of the current distribution facility by Interacting with the Key business
+users.
+Prepared Blue print of the new warehouse facility by understanding and Mapping the Business
+Process to the SAP EWM module.
+Involved in configuration and maintenance of goods issue processes, Storage type search
+strategies for Put away and picking based on the Business design for receiving and delivery
+process.
+Configured the Stock Removal Control Indicators, Storage type sequences, Storage Section
+Indicators, Bin Type Indicators and storage process steps.
+Training the users for carrying out their warehouse activities and using the warehouse monitor
+to view outbound and inbound transaction results.
+Involved in WM RF screen evelopments and configurations.
+Identify and debug defects in BO report 'TU Zero Weight' and Emergency Charge Waiving
+issue and Worked on Partial Invoicing change.
+Worked on a CR to create unique pack with number for URG Orders, based on Dealer PO.
+Set up new storage types that were extended as a part of Rearrangement process in JDC
+warehouse.
+Provide Post-Go Live Incident support and involved in both technical & functional changes.
+Delivered 13 CRs for the year 2015 and 6 CRs till June 2016.
+WM Functional Consultant / Visual PLM Consultant / Lead Technical
+SAP EWM
+top&co=IN
+February 2011 to October 2013
+Clientis S3G India
+Project 1: Implementation of Kair IT EWM / PLM
+Project 2: Bauer Hockey Corp WM Support
+Collaborated with Warehouse internal team members to understand the Business process in
+inbound and outbound logistics in India and Dubai, Gap analysis and design & finalization of
+blueprints.
+Involved in configuration of ERP-EWM integration ALE setting, ERP settings and EWM settings.
+Involved in configuration and maintenance of goods issue processes and participated in End
+user training.
+Developed and configured Merchandise Plan, Timeline Management as per client needs.
+Integrated VPLM system with SAP R/3 system, mapped fields for use in Tech Pack report, BOM,
+and Production Cost details.
+Prepared Functional / Technical specs and involved extensively in Unit Testing and Integration
+Testing.
+Involved in Supporting WM module on both functional and technical issues.
+Consultant / ABAP Consultant
+SAP WM
+October 2007 to February 2011
+Voletix IT Solutions - India
+Project 1: Momentive Project Implementation - ABAP Support
+Project 2: ECCI - WM Implementation
+Developed Smart Forms for Transfer Order and Pay slips.
+Updated VAT, Service Tax data via customization of Sales Order and Invoice SAP scripts.
+Created reports for validation of Bill of Material, and others outlining billing details in ALV format.
+Designed Smart Forms layout representing Invoices and Delivery Notes.
+Uploaded vendor and customer data through call transaction method.
+Configured the Storage Type Indicators, Bin Type Indicators, Bin structure and stock
+determination sequence.
+Prepared Functional / Technical specifications and involved extensively in Unit Testing and
+Integration Testing
+Involved in Supporting WM module on both functional and technical issues.
+EDUCATION
+Master of Engineering in Computer and Communication
+Anna University
+2005 to 2007
+Bachelor of Technology in Information Technology
+Anna University
+2001 to 2005
+ADDITIONAL INFORMATION
+Professional competencies
+Business /IT Consulting Configuration/ Support Requirements/ Blue print /Gap Analysis
+Coding/Debugging Change Management Functional Technical Spec Design
+Computer skills
+SAP Knowledge: SAP EWM, SAP WM, SAP SD, SAP MM, SAP AFS, SAP PP, SAP XI
+Computing languages: SQL, MS-Office, Open office, HTML, PHP

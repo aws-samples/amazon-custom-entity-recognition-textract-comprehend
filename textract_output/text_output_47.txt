@@ -1,0 +1,67 @@
+Navas Koya
+Test Engineer
+Mangalore, Karnataka Email me on Indeed: ndeed.com/r/Navas-koya/23c1e4e94779b46
+Willing to relocate to: Mangalore, Karnataka Bangalore, Karnataka Chennai, Tamil Nadu
+WORK EXPERIENCE
+System Engineer
+Infosys
+August 2014 to Present
+NET application Maintenance and do the code changes if required
+Test Engineer
+Infosys
+June 2015 to February 2016
+PrProject 2:
+Title: RBS W&G Proving testing.
+Technology: Manual testing
+Role: Software Test Engineer
+Domain: Banking
+Description:
+Write test cases & descriptions. Review the entries. Upload and map the documents into
+HP QC. Execute the testing operations in TPROD mainframe. Upload the result in QC along with
+the proof.
+Roles and Responsibilities:
+Prepared the Test Scenarios
+Prepared and Executed Test Cases
+Performed functional, Regression testing, Sanity testing.
+Reviewed the Test Reports and Preparing Test Summary Report.
+Upload Test cases to the QC.
+Execute in TPROD Mainframe.
+Defect Track and Report.
+Test Executive
+Infosys Limited
+August 2014 to May 2015
+tpsineroaiavasoaeceenoueisireoaadlin
+Project 1:
+Title: CAWP (Compliance Automated Work Paper)
+Technology: Manual testing
+Role: Software Test Executive
+Domain: Banking
+Description:
+The Admin can create and maintain annual test plan, and users can only view and add
+details. Testers will get Business Requirement which explains the flows and Functional
+requirements which gives the full detail of the project.
+Roles and Responsibilities:
+Prepared the Test Scenarios
+Prepared and Executed Test Cases
+Performed functional, Regression testing, Sanity testing
+Reviewed the Test Reports and Preparing Test Summary Report.
+Defect Track and Report.
+EDUCATION
+Bachelor of Computer Applications
+Mangalore University, Mangalore
+June 2011 to April 2014
+SKILLS
+C# (Less than 1 year) NET, SQL Server, Css, Html5
+ADDITIONAL INFORMATION
+Bachelor of computer application: with 74% from Milagres College, Kallianpur under
+Mangalore University, Karnataka.
+Navas Najeer Koya 2
+SKILL SET ASP.NET, C# QA tools
+Coding and modularization
+Excellent communication skills
+VB, VB.net, ASP Technical specifications creation
+HTML
+System backups
+Sql server 2005, Oracle System upgrades
+Java/c/C++ Excellent problem-solving abilities
+Navas Najeer Koya 3

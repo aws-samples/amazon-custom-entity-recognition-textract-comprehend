@@ -1,0 +1,111 @@
+Shaheen Unissa
+SAP ABAP Consultant
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Shaheen-unissa/
+c54e7a04da30c354
+Having 8 years of experience in IT industry as SAP ABAP Developer. She
+was involved in multiple projects viz. 3 Live Cycle Implementations of SAP and
+worked on Rollout Project (Federal Mogul) Worked in end to end implementation
+project MPT (Mormugao Port Trust), GOA at client location and also offshore at pune
+for MPT.
+She has worked on end to end implementation project with client Etisalat on SRM
+server.
+She has worked for GE (General Electric Company) Support Project and Acelor Mittal
+end to end implementation project at offshore Hyderabad.
+She has worked for NNIT (Novo Nordisk) and M.R.S oil and gas company at offshore
+Hyderabad. She has worked on Windows 98, 2000, windows vista platforms.
+Worked for MPT (Mormugao Port Trust) at client location GOA for 7 months which is
+An end to end implementation so got an good exposure in port operating system.
+Organization Designation Duration
+Tech Mahindra Limited, Hyderabad, India. Sr. Software Engineer May/2008 May/2016
+WORK EXPERIENCE
+SAP ABAP Consultant
+AcelorMittal
+March 2015 to April 2016
+Project Description:
+ArcelorMittal is the world's leading steel and mining company. Guided by a philosophy to produce
+safe, sustainable steel, it is the leading supplier of quality steel products in all major markets
+including automotive, construction, household appliances and packaging. ArcelorMittal is present
+in 60 countries and has an industrial footprint in 19 countries.
+Contribution:
+Developed reports both interactive and classical.
+Developed interactive reports.
+Developed LSMW to upload material master data.
+Developed LSMW to upload vendor master data.
+Developed LSMW to upload Purchase info records.
+Developed Smartform to print sales order confirmation.
+Developed Smartform to print purchase order details.
+Developed Smartform to print Invoice details.
+Handled error in workflow.
+SAP Modules/ Tools:
+PP, MM and SD.
+Consultant
+SAP ABAP BADI, MADHYA PRADESH, IN
+October 2012 to February 2015
+Project Description:
+Etisalat is the Middle East's leading telecommunications operator and one of the largest
+corporations in the six Arab countries of the Gulf Cooperation Council, with a market value of
+approximately Dh81 billion (US$22 billion) and annual revenues of over Dh32.9 billion (US$9
+billion)
+A multinational, blue-chip organization, Etisalat has operations in 15 countries in the Middle East,
+Africa and Asia. Nearl 42, 000 people are directly employed by the company.
+Etisalat's international acquisition program began in earnest in 2004 when it won the second
+mobile license the first third-generation (3G) mobile license in Saudi Arabia. Since then, the
+company has witnessed rapid expansion that has positioned it as one of the world's fastest
+growing operators, with subscribers rocketing around 3, 475 per cent from four million in 2004
+to 141 million in2013.
+Contribution:
+Developed class using methods to increase the RFx number ranges based on opco code and
+adding prefix for portal system in SRM server.
+Developed class with methods to get the details of supplier profile and updating the same in
+custom table and generating a email notification to the vendor manager using web dynpro for
+portal system in SRM server.
+Developed a smartform for purchase order in SRM server.
+Modified standard smartform for Bid bond invitation form "BBP_ BID_INVITATION" adding cover
+letter as first page.
+Implemented a BADI "BBP_OUTPUT_CHANGE_SF" to trigger the Bid bond smartforms based on
+opco code.
+Implemented a BADI "BBP_DOC_CHANGE_BADI" to change the purchase organization and
+purchase group based on opco code.
+Developed a class to download multi excel sheet to transfer the data from SRM to CLM on
+presentation server as well as in CLM server.
+Developed a class for generating mail for RFX responses rejected.
+Consultant
+SAP ABAP
+December 2011 to March 2012
+Project Description:
+M.R.S. 0il and Gas Company Limited distribute and supplies petroleum products. It offers
+kerosene and gas oils. The company was founded in January 1998 and is based in Lagos, Nigeria.
+M.R.S. Oil and Gas Company Limited operate as a subsidiary of MRS Group. The company has
+acquired a total of 426 fuel stations spread across the country and plans were on course toward
+branding more filling stations.
+Contribution:
+Developed smartforms for Bank Wire Transfers for MRS Oil Nigeria. (a) Payment made in
+Nigerian Naira Local Payment. (b) Payment made in USD to Local Vendors. (c) Payment made
+in Foreign Currency to Foreign Vendor.
+Developed a smartform to print the Request for Quotation as per client Requirement.
+Developed a smartform for Physical Inventory is used to conduct physical stock counts in
+storage locations in order to check book inventory to physical inventory (MI01)
+Developed a smartform for Operational Work clearance Document in work clearance
+management.
+Developed smartform for work permit.
+SAP Modules/ Tools:
+PP, MM, PM, SD and IS-0il.
+Consultant
+SAP ABAP
+July 2011 to November 2011
+Project Description:
+ArcelorMittal is the worlds leading steel company, with operations in more than 60 countries.
+ArcelorMittal is the leader in all major global steel markets, including automotive, construction,
+household appliances and packaging, with leading technology, as well as sizeable captive
+supplies of raw materials and outstanding distribution networks. In 2010, ArcelorMittal
+had
+revenues of $78.0 billion and crude steel production of 90.6 million tonnes, representing
+approximately 8 per cent of world steel output.
+Contribution:
+Developed Quality Claims Report for purchase orders for which whole cycle is done and also
+at sales distribution side.
+Developed a Zbapi for portal to display the data in portal from different tables.
+SAP Modules/ Tools:
+PP, MM, PM and SD.
+Consultant
+SAP ABAP Bangalore, Karnataka

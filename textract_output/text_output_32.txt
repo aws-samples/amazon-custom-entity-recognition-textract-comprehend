@@ -1,0 +1,88 @@
+Kasturika Borah
+Team Member Cisco
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Kasturika-
+Borah/9e71468914b38ee8
+Software Engineer with overall 3+ years of experience in Network Monitoring system tool (EM7,
+Quicksilver) Database tool (SQL, Maria DB) and reporting tool (Splunk) in all the releases.
+Relevant experience as a Test engineer for the releases includes Functional testing as well as
+regression testing. Testing includes writing test cases, execute them and raise bugs.
+Relevant 1+ years of experience in handling releases for EM7 with proper documentation, Power
+pack creation and Tar creation for Sprint releases.
+Creating Splunk reports from last 6 months.
+Competent technical person involved in requirement gathering, analysis, design and coding.
+Experience in coding Python, SQL, and XML as per the requirement.
+Have knowledge in Event generating using traps and Syslog's generator.
+Exposure to Agile methodologies using Scrum Works framework, even handled scrum in the
+team
+Strong problem-solver who can design solutions and assist developers with issues.
+Excellent debugging and resolution skills.
+Good communication and interpersonal skills.
+Working as Software Engineer for Cisco System India Private Ltd under Capgemini India Pvt.
+Ltd. From May 25th 2017 till nowl
+Working as Software Engineer for Cisco System India Private Ltd under Randstad India Ltd.
+From Dec 15 2014 till 30th April.
+Worked as Data Analyst for Fidelity India Financial Inc. from June 2013 till Oct 2014.
+Worked as Billing Analyst for IBM Daksh from March 2013 to June 2013.
+Willing to relocate to: Bengaluru, Karnataka
+WORK EXPERIENCE
+Team Member
+Cisco
+October 2017 to Present
+Environment: Splunk
+Technologies: SPL command
+Responsibilities
+Involvement writing Splunk programming language and designing the report dashboard
+Following Agile methodology
+Develop the code on the design in splunk.
+Unit Testing and code review
+Senior developer and tester
+Cisco
+December 2014 to Present
+Environment: EM7 platform, Quicksilver, SQL, oracle Toad
+Technologies: Python coding, xml coding, SQL query writing
+Description
+Cisco Systems, Inc. (known as Cisco) is an American multinational technology conglomerate
+headquartered in San Jose, California, that develops, manufactures, and sells networking
+hardware, telecommunications equipment, and other high-technology services and products
+(www.cisco.com)
+Responsibilities
+1. Developer of individual task on each release by weekly
+Need to do coding for new requirement.
+Also need to do end to end testing of all the events including Traps and Syslogs.
+2. Database and Infrastructure Monitoring and Alerting related to device.
+3. Involvement in documentation of release notes and preparation of a Regression testing at the
+end of each release.
+Team Member
+Cisco -
+December 2014 to December 2017
+Environment: INFOVISTA (Vportal)
+Technologies MS-Excel (sort, VLOOKUP), PPT
+Responsibilities
+Involvement in generating performance reports for certain customers at the starting of every
+month
+Gathering the data from the INFOVISTA portal and sort it out as per month in the excel and
+design the graphs for last consecutive
+Responsible for each data uploaded to the excel sheet and reviewing it before delivering
+Fidelity national financial -
+June 2013 to October 2014
+Role: QA and Report handling for the team
+Technologies: MS-Excel (sort, VLOOKUP), PPT, MS-Outlook
+Responsibilities
+Involvement in generating performance reports for the team at the end of each day and monthly
+based
+Responsible for each data uploaded to the excel sheet and sending it to the team manager
+EDUCATION
+Compucom Insitute of Information Technology
+rajasthan University
+2012
+SKILLS
+Database (3 years), Python (3 years), Splunk (Less than 1 year), SQL (3 years), xml (3 years)
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Programming Languages: Python, XML
+Database: Maria-DB, sql
+Cisco Monitoring Tools: EM7
+Operating Systems: Windows/XP
+Reporting Tools: Vportal, Splunk
+Application & Web Servers: Sciencelogic (EM7), Syslog sender, Relay server.
+Data Structure Knowledge: Intermediate

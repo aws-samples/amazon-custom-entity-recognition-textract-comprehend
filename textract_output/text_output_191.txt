@@ -1,0 +1,64 @@
+Jatin Arora
+SDET Automation Engineer, Infosys CRD (Capital Group of Companies)
+Pehowa, Haryana Email me on Indeed: indeed.com/r/Jatin-Arora/a124b9609f62fbcb
+3.6 years of experience in Automation Testing tools like Selenium (C#), Java, dot Net Technology
+and other Testing tools like JIRA, QC. Proficient in testing on Client/Server and Web-based with
+good experience in creating the Test plan and testing framework
+Experience in SQA including Selenium with data driven framework.
+Experience in working on C# and dot net technologies.
+Automated the Test data creation using Selenium as value added service for a client which is
+being used by the client and bought 30% cost reduction in data setup.
+Developed Test Case Generator as value added services for client which reduced time and cost
+by
+45% being spent on data creation and provide more productivity.
+Developed an Infosys Go Safe Android App during participation in Global Hackathon
+Excellent communications skills and able to liaise with key customer contacts and vendors to
+resolve software issues.
+Having excellent problem solving and analytical skills
+Competencies Developed:
+Selenium WebDriver C# ADO.Net SQL HTML, CSS
+Java Unix Quality Center Atlassian JIRA MTM
+Microsoft SQL Server Visual Studio Rapid SQL Toad Confluence
+Eclipse Visual Studio BitBucket NUnit MindMaps
+Testing Skills:
+SDLC, STLC, Test Planning, Requirement Analysis, Agile Methodology, Devops Methodology,
+Scrum, Waterfall, Software Quality, Defect Tracking, Regression Testing, System Testing
+WORK EXPERIENCE
+SDET Automation Engineer, Infosys
+CRD (Capital Group of Companies) Chandigarh, Chandigarh
+February 2017 to Present
+CRD (Charles River Development IMS automates the compliance workflow and provides
+centralized compliance monitoring and management. The highly scalable compliance engine
+supports very high volumes of trades, compliance rules, accounts and group of accounts.
+Design and implemented test scenarios, test cases, QA processes and procedures.
+Automated and delivered high quality automation scripts using C#.
+writing SQL queries to validate data from database.
+Used BitBucket for code repository.
+Communication with stakeholder for business and functional requirements
+Perform requirements analysis and impact analysis for enhancements and changes
+Creating weekly Test Unit creation and execution report
+Infosys Training, Test Engineer Trainee
+Next Generation Volume Licensing (Microsoft) Mysore, Karnataka
+August 2014 to November 2014
+A detailed hands on training of C# and SQL concepts and testing training.
+Test Engineer, Infosys
+Next Generation Volume Licensing (Microsoft) Hyderabad, Telangana
+April 2014 to November 2014
+Jan 2017
+Project Next Generation Volume Licensing (NGVL) is a strategic change initiative led by
+World Wide Licensing &amp; Pricing (WWLP), Operations, MSIT, and orldwide Operations in
+partnership with EPG, SMS&amp;P and WPG to transform the Volume Licensing business so that
+it can scale for the next 20 years, compete more quickly in new markets, and deliver a superior
+licensing experience for our customers, partners, sellers, and operations personnel.
+Designed and implemented test scenarios, test cases, QA processes and procedures.
+Automated and delivered high quality automation scripts with Selenium using C#.
+Preparing SQLS for validating data in database.
+Communicated with stakeholder for business and functional requirements
+Performed requirement analysis and impact analysis for enhancements and changes
+Logging and tracking defects and preparing backlog report
+Created weekly Test Unit creation and execution report
+Performed peer reviews and estimates which helped to automate 95% web site automation
+EDUCATION
+.Sc in Computer Science
+Kurukshetra University - Kurukshetra, Haryana
+Tagore Public School - Pehowa, Haryana

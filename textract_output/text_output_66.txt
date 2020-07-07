@@ -1,0 +1,82 @@
+Ravi Shankar
+Working as Escalation Engineer with Microsoft.
+Pune, Maharashtra - Email me on Indeed: indeed.com/r/Ravi-shankar/befa180dc0449299
+Working in Microsoft EPS (SCS-MON) at Convergys India Private Ltd., Pune from 5th October,
+2015 till date.
+Currently working as an Escalation Engineer with SCS-MON team.
+Done B.E. from Padmshree Dr. .Y.Patil Institute of Engineering and Technology, Pimpri, Pune
+University.
+Willing to relocate to: Pune, Maharashtra hyderbad, Telangana Bangalore, Karnataka
+WORK EXPERIENCE
+Escalation Engineer
+Microsoft
+Working on escalated issues with System Centre Operations Manager, Service Manager and
+Orchestrator. Have trained batches for the same. Supported junior Engineers in resolving tough
+issues.
+Have worked as a Support Engineer
+Microsoft Pune, Maharashtra
+October 2015 to April 2017
+since May 2017 as a Subject Matter Expert to Jan 2018 and as Escalation Engineer since Feb
+2018 at Convergys India Pvt. Ltd. Pune for MICROSOFT Enterprise Support Team (SCS-MON)
+Roles and responsibilities:
+Working in Microsoft Commercial Technical Support SCS-MON Team providing advanced
+technical support by handling escalated or complex customer issues.
+Identify, investigate, research and provide resolution on Customer queries and problems related
+to System Center Products.
+Provide subject matter expertise in area of assignment and serve as a resource to other support
+personnel. Maintain high level of customer satisfaction always with an eye on productivity.
+Maintain a high level of technical product knowledge in the specified software/hardware
+products and become knowledgeable in new products when deployed.
+Have supported SCOM, SCSM and Orchestrator platform for Microsoft customers.
+My work includes helping the Engineers with Technical issues on System Center platform
+support.
+Core Competencies:
+System Center Operations Manager:
+Installation, deployment and troubleshooting of System Center Operations Manager
+Cross-domain and Cross platform monitoring.
+Network devices and Web Application monitoring
+Custom reports / Issue with blank reports
+Network Devices monitoring
+Integrating and monitoring other System Center Products such as SCCM, SCDPM, SCVMM etc.
+with SCOM
+Notifications
+System Center Orchestrator:
+Installation, deployment and troubleshooting of System Center Orchestrator
+Deployment of various Microsoft and Non-Microsoft Integration Packs
+Integration of SCSM-Orchestrator
+Creating and Deploying Runbooks
+Troubleshooting Runbook Server Performance Issues
+System Center Service Manager:
+Installation, deployment and troubleshooting of System Center Service Manager
+Configuring Connectors
+Notifications
+Portal deployment (SharePoint and HTML5)
+Troubleshooting workflows
+Troubleshooting ata-warehouse Jobs issues
+EDUCATION
+B.E.
+Pune University
+SKILLS
+OPERATIONS MANAGER (1 year), SCOM (1 year), SYSTEM CENTER OPERATIONS MANAGER (1
+year), Orchestrator SCSM
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Operating systems
+Microsoft Windows Server 2012 (R2) /2008 (R2) /2003 (R2)
+Microsoft Windows in8.1/Win8/Win7/Vista/XP
+Linux - Various Flavors and Distributions (Red Hat/Fedora /Centos/Debian)
+Server Applications
+Microsoft System Center Operations Manager (SCOM) 2016 /2012 [...] R2
+Microsoft System Center Service Manager (SCSM) 2016 /2012 R2/2012
+Microsoft System Center Orchestrator 2016 /2012 R2/2012
+Microsoft SQL [...] R2
+Virtual Appliances
+Microsoft Hyper-\
+VMware Workstation / VirtualBox
+Other Applications
+Microsoft Office [...]
+Trained and worked on Forefront Identity Manager, Microsoft Identity Manager, Forefront Threat
+Management Gateway and Unified Access Gateway for Windows security.
+Good knowledge of basic Networking concepts
+Good knowledge of basics of Microsoft Active Directory
+Basic Knowledge of Windows Failover Clusters, Microsoft Exchange and IIS.

@@ -1,0 +1,85 @@
+Madhuri Sripathi
+Banglore, Karnataka, Karnataka Email me on Indeed: indeed.com/r/Madhuri-
+Sripathi/04a52a2621751110
+Around 4 years of IT experience in analysis, testing and scripting on L2/L3 layer protocols and
+desiging testcases and automating the same in TCL/TK and Python.
+Expertise in Networking Protocols L2, L3 protocols, Manual, Performance, Platform, Regression
+and Automation Testing.
+Experience in python scripting and PYATS framework.
+Coordinating with onsite/offsite teams in resolving the defects found in Testing and working on
+queries raised by customers..
+Reviewing the automated scripts.
+Exposure to Networking Protocols such as DHCP, OSPF, RIP, VLAN, STP/RSTP, LACP, TCP/IP,
+IPv4, Ipv6, Ethernet.
+Automation in Python.
+Excellent ability to plan, organize and prioritize my work to meet on time the deadlines of my
+clients and keep customer's satisfaction at the highest level possible.
+Proven ability in quick understanding and learning of new technologies and their application
+in business solutions
+Good debugging and problem solving skills with excellent understanding of system
+development methodologies, techniques and tools.
+Highly motivated team member with strong communication, analytical and organizational
+skills.
+Strong communication, interpersonal and analytical skills with proficiency at grasping new
+concepts quickly and utilizing the same in a productive manner.
+Willingness and ability to quickly adapt to new environment.
+Good positive attitude and ability to learn new things independently.
+Worked as Senior project engineer in Wipro Technologies, from Jan2014 to till date.
+Languages: C
+Network Analysis Tools: QDDTS, GNS3, IXIA, SPIRENT, PAGENT
+Routing protocols VLAN, ETHECHANNELSTP, RSTP, RIP, EIGRP, OSPF, BGP, MPLS, L2VPN, L3VPN,
+IPSEC and MULTICAST.
+Scripting Language Perl, Tcl/TK, Python
+Traffic Generators IXIA, PAGENT, SPIRENT
+Management Protocols Telnet, SNMP
+Willing to relocate to: UAE Dubai abu-dabhi
+WORK EXPERIENCE
+Senior project engineer
+Cisco Bengaluru, Karnataka
+March 2014 to Present
+Cisco 7600 is a router which supports both layer2 and layer3 protocols. It mainly deploys protocols
+like MPLS and having specific modules to support the protocols IPSEC. Worked as system testing,
+performance testing, stress testing and regression testing for all the IOS release on all layer 2
+and layer 3 protocols.
+Wipro Technologies Limited (Bangalore, Karnataka)
+Senior project engineer (March 2014 till date)
+Senior software engineer
+Wipro
+February 2014 to Present
+Responsibilities:
+Responsible for regression and Manual testing of CISCO IOS -7600
+Test case execution, test case results tracking, debugging, logging defects in CDETS,
+reproductions and fix verification.
+Configuration and Testing on Routing protocols OSPF, BGP, OSPF, MPLS, L3VPN, L2VPN, IPSEC,
+QOS, SNMP and MULTICAST features on Cisco 7600 Routers.
+Filed critical bugs of high severity, through root cause analysis and effective testing methods
+Bug verification, Bug tracking, and documentation and review bug fixes.
+Engaged in regression testing, filing bugs against Cisco IOS images to improve the quality of
+the images and send weekly test reports.
+Mentoring of new joiners in the team and conducting technical training sessions.
+Responsibility for the 7600 platform customer queries (AT&T, Bharati, Vodafone, German IT,
+etc )
+Involved in Sev1, Sev2 and sev3 cases and MW related to L2/L3 Features.
+Create a Local Repro of the issue which was raised by the customer.
+Analyzed the customer issues and will provide the solutions to the customers
+Worked with Developer to verify the DDTs fix for the customer Found Defects
+System Testing on every New IOS build for the L2/L3 protocols.
+Configuration and Testing on routing protocols
+Working on Functionality, Scalability and Performance testing
+Preparing of Test beds and topologies using Line cards SIP200, SIP400, SIP600, ES+, ES20, GIG
+and
+TenGig Lancards, pagent, IXIA Traffic generators etc. to create customer setup in local Labs
+Knowledge on TCL scripting and automated customer found issues into regression testing and
+also able to troubleshoot the script issues.
+EDUCATION
+Master degree in computer science in computer science
+PES college
+S.S.C in computer science
+Rajah college
+SKILLS
+LINUX (4 years), UNIX (4 years), ospf (4 years), bgp (4 years), mpls (4 years), ipsec (4 years),
+multicast (4 years), l2vpn (4 years), l3vpn (4 years), tcl (4 years), python (2 years)
+ADDITIONAL INFORMATION
+Operating Systems: LINUX, UNIX
+Other protocols ARP, RARP, ICMP, ospf, bgp, mpls, l2vpn, l3vpn
+Automaton tools: tcl,python

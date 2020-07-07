@@ -1,0 +1,121 @@
+Yasothai Jayaramachandran
+Lead Engineer Automation & Testing
+Chennai, TAMIL NADU, IN Email me on Indeed: indeed.com/r/Yasothai-Jayaramachandran/
+c36e76b64d9f477f
+4 years of experience in testing methodologies Automation, Regression, Sanity and Manual.
+Hands-on experience in Selenium Webdriver with Python Automation.
+Skilled in IDE's Pycharm, Eclipse[Py plugin], Selenium for testing the web browser using
+Python.
+Expertise in developing automation scripts and testing various components.
+Skilled in providing effective and quality automation process.
+Hands-on experience in functional automation scripts using TCL Programming, Python.
+Experienced in planning, designing, developing and deploying testing strategies.
+Trained and worked closely along with developers and dev-test (manual) engineers for
+automation tasks.
+Good experience in reviewing the automated TCL, Python Scripts developed by the team
+members.
+Extracting data from excel and Csv files, posting results in excel file with Python.
+Experience in Agile development -Played responsible role Scrum master for Automation.
+WORK EXPERIENCE
+Lead Engineer Automation & Testing
+Cisco Systems
+January 2014 to June 2015
+DURATION Jan-2014 to Jun-2015
+TEAM SIZE 20
+ROLES AND RESPONSIBILITIES
+Lead Engineer Automation & Testing
+Identified the cases for giving the support to the WAAS product with v6 addressing from the
+test plan
+Played an active role Scrum Master for the Automation.
+Activity participated and organized the automation team to work on agile methodologies.
+Prepared the HLD document for the automatable cases.
+Automated around 1000+ cases in SNMP and Platform module.
+Automated the basic sanity test cases and executing sanity testing for the v6 support.
+Involved is regressing all the automated suites.
+Performed regression for all the automated cases through ATS framework with aetest script
+template.
+Reviewed the automated cases developed by team members.
+Regression Testing
+Defect filing in CDETS/Rally
+Worked on Agile development methodologies
+LANGUAGE TCL Programming, Python, Selenium
+RELEASES Hornet
+DESCRIPTION
+IPV6, formerl named Ing (next generation), is the latest version of the Internet Protocol (IP) IP
+is a packet-based protocol used to exchange data, voice, and video traffic over digital networks
+Cisco's Wide-Area Application Services IPV4 users can move to IPV6 and receive services such
+as end-to-end security, quality of service (Qos), and globally unique addresses. The IPV6 address
+space reduces the need for private addresses and Network Address Translation (NAT) processing
+by border routers at network edges.
+Implementing basic IPv6 connectivity in the Cisco IOS software consists of assigning IPv6
+addresses to individual router interfaces. The forwarding of IPV6 traffic can be enabled globally,
+and Cisco Express Forwarding switching for IPV6 can also be enabled
+The primary motivation for IPv6 is the need to meet the demand for globally unique IP
+addresses
+Mainly involves to checks the functionality of all waas features to work with v6 addressing
+PRODUCT IPv6 Support on WAAS (Wide Area Application Services)
+PROJECT CISCO-WAAS Express (WEXP)
+Member Technical Staff Automation & Testing
+Cisco Systems
+January 2013 to December 2013
+DURATION Jan-2013 to December-201
+TEAM SIZE 21
+ROLES AND RESPONSIBILITIES
+Member Technical Staff Automation & Testing
+Identified the automatable cases from the test plan.
+Prepared the HLD document for the automatable cases.
+Automated test cases for various components on the wexp product for the functionality check.
+Worked on Config_Sync HTTP, HTTPS, SSL, SMB_AO component automation.
+Automated around 200+ cases for various components.
+Performed regression for all the automated cases through ATS framework with aetest script
+template.
+Reviewed the automated cases developed by team members.
+Involved in executing all the automated cases for various releases as Phase1, Phase2 (pi19-25)
+and posted results in TIMS tool.
+Regression Testing
+Defect filing in CDETS
+LANGUAGE TCL Programming, Python
+RELEASES Phase1 &Phase2 (with 535)
+DESCRIPTION
+Cisco's Wide-Area Application Services (WAAS) Express feature is a key component of the Cisco
+WAAS product portfolio. WAAS Express is a cost-effective, IOS-based, WAN optimization solution
+that increases the amount of available bandwidth for small-to-mid-size branch offices and remote
+locations, while accelerating TCP-based applications that operate in a WAN environment.
+The Wide-Area Application Services (WAAS) Express software optimizes TCP traffic flows across
+a WAN. WAAS Express integrates with native services such as security, NetFlow, and quality of
+service (Qos) WAAS Express provides the following benefits:
+Bandwidth optimization
+Application acceleration
+Increase in remote user productivity
+Interoperation with existing Cisco WAAS infrastructure
+Network transparency
+Deployment flexibility with on-demand service enablement
+The Wexp is about the wide Area Application Service on IOS (Router) itself.
+Mainly involves to checks the functionality of optimizing the various Ao's like HTTP, SSL, HTTPS,
+SMB and Config_sync
+PRODUCT WAAS Express (Wide Area Application Services)
+PROJECT CISCO-WAAS
+CLIENT Cisco Systems
+ORGANISATION HCL Technologies Ltd
+Software Engineer Automation & Testing
+June 2011 to December 2012
+Identified the automatable cases from the test plan.
+Prepared the HLD document for the automatable cases.
+Automated test cases for various components on the waas product for the functionality check.
+Worked on Plaform, SNMP, SSL, HTTP component automation.
+Automated around 600+ cases for various components.
+Performed regression for all the automated cases through ATS framework with aetest script
+template.
+Active Participation in automating test cases for sanity test.
+Reviewed the automated cases developed by team members.
+Involved in executing all the automated cases and reporting bugs/defects.
+Worked on various releases of the products (Lancer, Phoenix, Skyhawk) for regressing the
+automated cases and posted results in TIMS tool.
+Defect filing in CDETS
+LANGUAGE TCL Programming, Python
+RELEASES LANCER, PHOENIX, SKYHAWK, SPRIT
+DESCRIPTION
+Wide Area Application Services (WAAS) is a Cisco Systems technology that improves the
+performance of applications on a wide area network (WAN) WAAS combines Cisco's Wide Area
+File Services (WAFS-products allow remote office users to access and share files globally at
+LAN speeds over the WAN) with WAN optimization inside of a router, accelerating TCP-based

@@ -1,0 +1,70 @@
+Ashish Indoriya
+Sr. Systems Engineer at Infosys Limited
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Ashish-
+Indoriya/84f99c99ebe940be
+Master of Computer Application (MCA) from Bhilai Institute of Technology, Durg, 2014.
+Having 3.3 years of Experience on Software Development at Infosys limited.
+Extensive working experience on Java, Spring, Hibernate and SQL
+Knowledge of design patterns such as Singleton, Factory, Facade, Observer and MVC.
+Knowledge of Front-end web development using JavaScript, JQuery, CSS &amp; HTML.
+Having knowledge of Oracle SQL Database.
+Reliable as a fully contributing, responsible and accountable member of task/ project teams
+with highly honed creative, logical and analytical approach.
+Automated some of HRMS processes like Hiring, transfer, termination to help speed up the QA
+process.
+Hands on knowledge of C, C++ including advanced concepts such as pointers and Dynamic
+Memory Management.
+Learning Hadoop and Big data analysis using Apache pig, hive and map reduce.
+Learning Scala with Spark for Big Data analysis
+Willing to relocate to: hyderbad, Telangana
+WORK EXPERIENCE
+Sr. Systems Engineer at Infosys Limited
+Fidelity Investments
+March 2015 to February 2018
+Roles &amp; Responsibilities:
+Description: This is an HRMS customization in Java programming language with Spring, SQL and
+JavaScript. A web based highly complex application to manage the processes of HRMS, with
+different types of reports. It's critical as the information managed directly or indirectly affects
+the payroll of the employees.
+Involved in Requirement Analysis and interaction with clients
+Involved in designing of Functional Design Document
+Involved in designing of Technical Design Document
+Responsible for implementing Business Logic using Java Programming Language as per
+requirements
+Involved in developing SQL scripts for various reports to pull data from HRMS Application
+database
+Automated some of HRMS processes like Hiring, transfer, termination to help speed up the QA
+process
+Involved in Zero Distance team to help the client reduce the manual work and worked on Excel
+Macro for Tax Calculation automation
+Involved in development of java module to remove duplicates or invalid entry from XML
+configuration file
+lissl
+Infosys Internal Project:
+Excel to RDBMS data load application
+An application to load data from Excel sheets to any database
+Description: Much of the legacy as well as current information was available in excel sheets within
+the organization, this application targets to keep them in database for availability, accessibility,
+faster retrievals and better organization.
+Flexible application to load data from different excel sheets with minimum configurations
+Applied Industry standard Design patterns like Singleton, Observer and Strategy
+Responsible for end to end application
+Achievements and Co-curricular Activities:
+Achievement
+Awarded Memento by client for outstanding contribution and client satisfaction
+Infy Insta Award for outstanding contribution and being reliable team member
+IBM DB2 Academic Associate: DB2 Database and Application Fundamentals.
+EDUCATION
+Secondary School Certificate in Design Pattern
+Chhattisgarh Board of Secondary Education Raipur, Chhattisgarh
+August 2010
+Master of Computer Applications in Computer Applications
+Bhilai Institute of Technology - Bhilai, Chhattisgarh
+Bachelor of Computer Applications in Computer Applications
+C V Raman University Bilaspur - Raman, Punjab
+Secondary School Certificate
+Chhattisgarh Board of Secondary Education - Raipur, Chhattisgarh
+SKILLS
+Java, SQL, J2EE, Sping, Hibernate, Javascript, HTML, CSS
+ADDITIONAL INFORMATION
+Serving notice period

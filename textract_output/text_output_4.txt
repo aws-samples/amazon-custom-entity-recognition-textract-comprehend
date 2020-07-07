@@ -1,0 +1,121 @@
+Alok Khandai
+Operational Analyst (SQL DBA) Engineer UNISYS
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Alok-khandai/5be849e443b8f467
+Having 3.5 Years of IT experience in SQL Database Administration, System Analysis, Design,
+evelopment & Support of MS SQL Servers in Production, Development environments &
+Replication and cluster Server Environments.
+Working Experience with relational database such as SQL.
+Experience in Installation, Configuration, Maintenance and Administration of SQL Server.
+Experience in upgrading SQL Server.
+Good experience with implementing DR solution, High Availability of database servers using
+Database mirroring and replications and Log Shipping.
+Experience in implementing SQL Server security and Object permissions like maintaining
+Database authentication modes, creation of users, configuring permissions and assigning roles
+to users.
+Experience in creating Jobs, Alerts, SQL Mail Agent
+Experience in performing integrity checks. Methods include configuring the database
+maintenance plan wizard and DBCC utilities
+Experience in using Performance Monitor, SQL Profiler and optimizing the queries, tracing long
+running queries and deadlocks.
+Experience in applying patches and service packs to keep the database at current patch level.
+Ability to manage own work and multitask to meet tight deadlines without losing sight of
+priorities.
+Willing to relocate to: Bengaluru, Karnataka
+WORK EXPERIENCE
+Operational Analyst (SQL DBA) Engineer
+UNISYS Bengaluru, Karnataka
+July 2016 to Present
+Having 3.5 Years of IT experience in SQL Database Administration, System Analysis, Design,
+Development & Support of MS SQL Servers in Production, Development environments &
+Replication and Cluster Server Environments.
+Working Experience with relational database such as SQL.
+Experience in Installation, Configuration, Maintenance and Administration of SQL Server.
+Experience in upgrading SQL Server.
+Good experience with implementing DR solution, High Availability of database servers using
+Database mirroring and replications and Log Shipping.
+Experience in implementing SQL Server security and Object permissions like maintaining
+Database authentication modes, creation of users, configuring permissions and assigning roles
+to users.
+DBA Support Analyst
+Microsoft Corporation Redmond, WA
+July 2016 to Present
+Client Description:
+Microsoft Corporation is an American public multinational corporation headquartered in
+Redmond, Washington, USA that develops, manufactures, licenses, and supports a wide range of
+products and services predominantly related to computing through its various product divisions.
+Environment:
+Microsoft has E2E development and production environment of more than 25000 servers and
+applications. We are responsible for pro-active monitoring of all the servers and their jobs using
+monitoring tools to reduce critical business impact by alerting respective peer teams. Microsoft
+Service Enterprise an ITSM tools are used for ticketing and SharePoint portal is used to store all
+technical and process documentation.
+Roles and Responsibilities:
+Responsible for Database support, troubleshooting, planning and migration. Resource planning
+and coordination for application migrations with project managers, application and web app
+teams. Project involved guidance and adherence to standardized procedures for planned data
+center consolidation for wor ldwide centers using in-house corporate and third party applications
+based on SQL 2000 in upgrade project to SQL 2005.
+Monitoring of database size and disk space in Production, Staging & Development environments
+Performed installation of SQL Enterprise 2005 64bit version on Windows 2003 servers on
+Enterprise systems of clustered and standalone servers in enterprise Data Centers. Patch
+applications.
+Failover cluster testing and resolution on HP servers as well as monitoring and backup reporting
+setup with Microsoft Operations Manager and backup teams.
+working in Microsoft production environment which includes applications and servers.
+Configured Transactional Replication and Log Shipping with SQL Server Management Studio as
+well as basic account management and troubleshooting with connectivity, security and firewall
+issues.
+Handling issues related to Server Availability, Performance.
+Performed Production support and on Call duties
+Conducted Performance Tuning using SQL Profiler and Windows Performance Monitor.
+Worked with various business groups while developing their applications, assisting in database
+design, installing SQL Server clients, phasing from development to QA and to Production
+environment.
+Previous Project
+Project Title: Finance Support
+Client: Costco Wholesale Corporation (USA)
+Team size: 22
+Role: DBA Support Analyst
+Environment: Window 10
+(SQL DBA Analyst) Engineer
+HCL Technologies Bengaluru, Karnataka
+November 2014 to July 2016
+Performed server installation and configurations for SQL Server 2005 and SQL Server 2000.
+Performed installation of SQL Server Service Packs
+Upgraded databases from SQL Server 2000 to SQL Server 2005.
+Scheduled Full and Transactional log backups for the user created and system databases in
+the production environment using the Database Maintenance Plan Wizard.
+Setup backup and restoration jobs for development and QA environments
+Created transactional replication for the reporting applications.
+Implemented disaster recovery solution at the remote site for the production databases using
+Log Shipping.
+Used System monitor to find the bottlenecks in CPU, Disk I/0 and memory devices and
+improved the database server performance.
+Used SQL Server Profiler to monitor and record database activities of particular users and
+applications.
+Used DBCC commands to troubleshoot issues related to database consistency
+Worked with various business groups while developing their applications, assisting in database
+design, installing SQL Server clients, phasing from development to QA and to Production
+environment
+Microsoft Corporation
+November 2014 to July 2016
+client Description:
+Costco Wholesale Corporation operates an international chain of membership warehouses,
+mainly under the "Costco Wholesale" name, that carry quality, brand name merchandise at
+substantially lower prices than are typically found at conventional wholesale or retail sources. The
+warehouses are designed to help small-to-medium-sized businesses reduce costs in purchasing
+for resale and for everyday business use. Individuals may also purchase for their personal needs.
+Responsibilities:
+Performed server installation and configurations for SQL Server 2005 and SQL Server 2000.
+Performed installation of SQL Server Service Packs
+Upgraded databases from SQL Server 2000 to SQL Server 2005.
+Scheduled Full and Transactional log backups for the user created and system databases in
+the production environment using the Database Maintenance Plan Wizard.
+Setup backup and restoration jobs for development and QA environments
+Created transactional replication for the reporting applications.
+Implemented disaster recovery solution at the remote site for the production databases using
+Log Shipping.
+Used System monitor to find the bottlenecks in CPU, Disk I/0 and memory devices and improved
+the database server performance.
+> Used SQL Server Profiler to monitor and record database activities of particular users and
+applications.

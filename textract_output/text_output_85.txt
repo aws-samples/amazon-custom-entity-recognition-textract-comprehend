@@ -1,0 +1,43 @@
+Snehal Jadhav
+Mumbai, Maharashtra Email me on Indeed: indeed.com/r/snehal.jadhav/o05etab8oob4cb42
+WORK EXPERIENCE
+L1 network engineer
+Cisco Mumbai, Maharashtra
+February 2017 to Present
+associated with Cisco on the role of ACESOFTLABS (INDIA) Pvt. Ltd
+EDUCATION
+HSC
+Maharashtra Board
+March 2012
+SSC
+Maharashtra Board
+March 2010
+B.E in Electronics & Telecommunication
+Shivaji University
+SKILLS
+Architecture (Less than 1 year), BGP (Less than 1 year), DHCP (Less than 1 year), DNS (Less
+than 1 year), EIGRP (Less than 1 year)
+ADDITIONAL INFORMATION
+Technical Skills
+Layer 2 Technologies like VTP, VLAN, STP, and RSTP.
+OSI Architecture, TCP/IP Module
+TCP/UDP, DHCP, DNS
+MP-BGP IPV4/IPV6, VPNV4, VPNV6, RT-Filter, IPv6-Multicats.
+Access-List, Prefix-List Distribution List, QOS.
+MPLS, L2/L3 VPN.
+GRE, IPSec, DMVPN.
+FTP-Active/Passive, TFTP.
+Configuring and Troubleshooting L2 and L3 Ether channels on Cisco 3550, 3560, 2950 switches.
+IP Addressing, VLSM, Summarization, understanding Lease Line and Dedicated Lease Lines.
+ttpslindeed coiisrelallachavelsetaseniaci4nisidre
+Configuring HSRP, VRRP, GLBP on Cisco Routers and Switches.
+VTP & Frame Tagging protocols ISL, Dot1q
+NAT, PAT, NAT-T.
+Strong skills in Configuring Cisco Routers (ASR901, ASR903, ASR900) using ISIS, OSPF, EIGRP
+and BGP. A good understanding of working on Small to High E1nd Routers and Switches.
+Comprehensive understanding of networking concepts pertaining to LAN, WAN, Security, IT
+communication, WAN protocols, Networking devices administration and maintenance in multi-
+platform environments.
+Strong hands-on technical knowledge of Microsoft Operating Systems (Network & Desktop),
+establishing & managing networks, Cisco Routers, Hardware clients & switches.
+Expertise in managing medium to large networks with Routers, Switches.

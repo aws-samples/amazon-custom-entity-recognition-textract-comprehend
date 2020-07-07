@@ -1,0 +1,7 @@
+{"Entities": [], "File": "test_document.txt", "Line": 0}
+{"Entities": [], "File": "test_document.txt", "Line": 1}
+{"Entities": [], "File": "test_document.txt", "Line": 2}
+{"Entities": [{"BeginOffset": 9, "EndOffset": 39, "Score": 0.9536434412002563, "Text": "analytical and problem solving", "Type": "SKILLS"}], "File": "test_document.txt", "Line": 3}
+{"Entities": [{"BeginOffset": 8, "EndOffset": 11, "Score": 0.9008303880691528, "Text": "AWS", "Type": "SKILLS"}, {"BeginOffset": 33, "EndOffset": 41, "Score": 0.9143772125244141, "Text": "Solution", "Type": "SKILLS"}], "File": "test_document.txt", "Line": 4}
+{"Entities": [{"BeginOffset": 20, "EndOffset": 23, "Score": 0.9764184355735779, "Text": "SQL", "Type": "SKILLS"}, {"BeginOffset": 25, "EndOffset": 31, "Score": 0.9987323880195618, "Text": "Oracle", "Type": "SKILLS"}], "File": "test_document.txt", "Line": 5}
+{"Entities": [{"BeginOffset": 2, "EndOffset": 13, "Score": 0.9639342427253723, "Text": "Programming", "Type": "SKILLS"}, {"BeginOffset": 25, "EndOffset": 27, "Score": 0.9998902678489685, "Text": "C,", "Type": "SKILLS"}, {"BeginOffset": 28, "EndOffset": 32, "Score": 0.9989197254180908, "Text": "C++,", "Type": "SKILLS"}, {"BeginOffset": 33, "EndOffset": 37, "Score": 0.9930425882339478, "Text": "Java", "Type": "SKILLS"}, {"BeginOffset": 39, "EndOffset": 42, "Score": 0.991688072681427, "Text": "PHP", "Type": "SKILLS"}, {"BeginOffset": 44, "EndOffset": 54, "Score": 0.991589367389679, "Text": "JavaScript", "Type": "SKILLS"}], "File": "test_document.txt", "Line": 6}

@@ -1,0 +1,80 @@
+Rahul Bollu
+Software Engineer Disney
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Rahul-Bollu/dc4of5ce78045741
+Over 3.5 years of experience in implementing organization Devops strategy in various
+environments of Linux and windows servers along with adopting cloud strategies based on
+Amazon Web Services.
+Experience in cloud Technologies like Amazon Web Services (AWS) VPC, EC2, S3, ELB, IAM,
+Auto Scaling, Route 53, SQS, SNS, RDS, Cloud Watch, Dynamo DB.
+Utilized cloud Watch to monitor AWS resources to set alarms for notification, and to monitor
+logs for a better operation of the system.
+Experience working with automated build platforms/continuous integration using Devops
+architecture.
+Implementing DevOps tools like Ansible as configuration management for Continuous
+Integration and Continuous Deployment with build tools using Maven on cloud Infrastructure
+using AWS.
+Experience on version control tool GIT- Creating branches, tracking changes, maintaining the
+history of code and helping the Developers in GIT related issues.
+Worked on Jenkins for continuous integration and for End to End automation for all build and
+deployments.
+Worked with Ansible as a configuration management tool, created playbooks to automate
+repetitive tasks, quickly deploy applications, and proactively manage change.
+Knowledge on Docker.
+WORK EXPERIENCE
+Software Engineer
+Disney
+September 2014 to Present
+Responsibilities:
+Coordinate/assist developers with establishing and applying appropriate branching, labeling/
+naming conventions using GIT source control.
+Implemented the setup for Master slave architecture to improve the performance of Jenkins.
+Used Jenkins to implement Continuous Integration and deployment into Tomcat/Web logic
+Application server.
+Created Ansible playbooks for automating the Infrastructure, deployment process.
+Managed clients, roles, tasks, playbooks in Ansible.
+Deploy and monitor scalable infrastructure on AWS & configuration management.
+Worked on making application more scalable and highly available in AWS.
+Created AWS IAM roles & total architecture deployment end to end (creation of EC2 instances
+& its infrastructure)
+Environment: GIT, Maven, Jenkins, Tomcat, Docker, Jira, AWS, Ansible, LAMP
+Software Engineer
+s
+HCL Technologies
+September 2014 to Present
+Coordinate/assist developers with establishing and applying appropriate branching, labeling/
+naming conventions using GIT source control.
+Implemented the setup for Master slave architecture to improve the performance of Jenkins.
+Used Jenkins to implement Continuous Integration and deployment into Tomcat/Web logic
+Application server.
+Created Ansible playbooks for automating the Infrastructure, deployment process.
+Managed clients, roles, tasks, playbooks in Ansible.
+Deploy and monitor scalable infrastructure on AWS & configuration management.
+Worked on making application more scalable and highly available in AWS.
+Created AWS IAM roles & total architecture deployment end to end (creation of EC2 instances
+& its infrastructure).
+Process Associate
+Microsoft
+July 2013 to August 2014
+Responsibilities:
+Collect and document user requirements.
+Design and develop database architecture for information systems projects.
+Design, construct, modify, integrate, implement and test data models and database
+management systems.
+Conduct research and provide advice to other informatics professionals regarding the selection,
+application and implementation of database management tools.
+Operate database management systems to analyze data and perform data mining analysis.
+EDUCATION
+Bachelor of Science
+Vaughn College of Aeronautics and Technology
+SKILLS
+AWS (3 years), Tomcat, Ansible, git, LAMP, docker, jenkins, Maven, Jira
+ADDITIONAL INFORMATION
+Technical Skills:
+Cloud Technologies: AWS
+Operating Systems: Linux, Windows.
+Version Control Systems: GIT
+Automated Build Tools: Maven
+Continuous Integration: Jenkins
+Scripting Languages: Shell Scripting
+Configuration Management: Ansible.
+Container service: Docker

@@ -1,0 +1,62 @@
+Nazish Alam
+Consultant SAP ABAP
+Ghaziabad, Uttar Pradesh Email me on Indeed: indeed.com/r/Nazish-Alam/
+b06dbac9d6236221
+Willing to relocate to: Delhi, Delhi Noida, Uttar Pradesh Lucknow, Uttar Pradesh
+WORK EXPERIENCE
+Consultant
+SAP ABAP Noida, Uttar Pradesh
+November 2016 to Present
+Credence Systems, Noida
+Credence Systems is IT Infrastructure Management Company, offers end-to-end solutions.
+Combining deep domain expertise with new technologies and a cost effective on-site/ offshore
+model. Helping companies integrate key business processes, improving their operational
+efficiencies and extracting, better business value from their investment.
+PROJECT UNDERTAKEN
+Client ECC Version Role and Responsibilities
+welspun Group Plate & Coil Mills Division
+SAP ECC 6.0
+Consultant
+SAP ABAP
+January 2016 to Present
+Reports:
+Designed technical program specifications based on business requirements.
+Generated basic lists and Interactive Reports for information in the MM/SD including Sales,
+Billing, Purchasing, Goods Received, Inspection Plan, and Batch Determination using ABAP
+programs, Screen, Report Painter and Menu Painters. Used Parameters, Select-options and Match
+Codes to make the reports more friendly and intuitive to the user.
+Generated different kind of reports like for PR (Purchase Requisition) analysis using ALV, PO
+(Purchase order) Pricing details, Pending Export Sales order etc.
+Developed report for the daily production done.
+SAP Scripts:
+Generated various client specific Layout sets and form letters using SAP Script.
+Involved in modification of SAP scripts for Purchase orders (MEDRUCK) and indents, Delivery
+notes (RVDELNOTE), and Invoices (RVINVOICE) according to customer needs.
+Modified existing layout sets for Purchase Order and GR using SAP Script.
+Data Migration:
+Implemented both Call Transaction and Session Method of BDC accordingly, depending upon
+the size, type, state and created routines for data upload using data extracts for sequential files
+on the application server and UPLOAD/WS_UPLOAD for local files on the presentation server.
+wrote ABAP programs for extracting data from SAP tables (Vendor master, Purchase Orders,
+Invoices and remittance) to be transferred to vendors using non-SAP systems for reconciliation
+and their local use.
+Object Oriented:
+Created local and global classes with SE24 and within programs.
+Used the Standard ALV classes in OOPs ALV reports.
+Used ABSTRACT classes and Interfaces.
+Having knowledge and used the different object oriented concepts technically.
+SKILLS
+SAP (2 years), ABAP (2 years), ADBC (Less than 1 year), C++ (Less than 1 year), DATA
+MODELING (Less than 1 year)
+ADDITIONAL INFORMATION
+OTHER TECHNICAL SKILLS
+Trained on SAP S4 HANA.
+Having knowledge of Code Push down, CDS view and it's consumption in ABAP.
+Data Modeling, creation of different type of views.
+AMDP.
+ADBC connectivity.
+Familiar with SQL, DDL, DML syntaxes.
+Work on Windows 7, Windows XP, Windows 8, Windows 10 OS, can work on C, C++
+ACADEMEIC CREDENTIALS
+2015 Master of Computer Application
+UPTU. India

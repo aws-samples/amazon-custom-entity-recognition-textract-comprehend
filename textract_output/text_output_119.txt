@@ -1,0 +1,72 @@
+Ganesh AlalaSundaram
+A Dev-Test Professional with 8+ Yrs of exp looking for SDET Lead/SDET/
+Scrum Master/Program Manager roles.
+Chennai, Tamil Nadu, Tamil Nadu Email me on Indeed: indeed.com/r/Ganesh-Alalasundaram/
+dd5b500021e61f65
+My long-term career objective is to lead programs that solves complex problems, responsible
+for product delivery and building products that positively impacts millions of consumers and
+enterprise users.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Consultant SDET
+Microsoft
+June 2013 to Present
+June 2013 - Present)
+Product Technologies: cloud &amp; Mobile Migrations, Devops for Test Strategies, Visual Studio,
+Azure.
+Orchestrated projects as an Individual Contributor and Led teams across global engagements.
+Contributed to 60% of the software component automation in the projects. Streamlined process
+and tools for Dev-Ops implementation that included training, metrics and reporting.
+Led Manual and Automated Test Management to elevate the quality of Mobile (x Platform),
+cloud and IoT Applications. Designed, Developed and Maintained automation coverage for UI
+and API layer by handshaking Visual Studio with Open Source frameworks.
+Migrated millions of customers to Azure cloud through FastTrack program. Developed Tools that
+reduced manual efforts worth 40 hours for each process.
+Programmer Analyst
+Cognizant
+March 2010 to May 2013
+Built WCF services for ios and Android Applications for a Poc which helped business to grab more
+mobile projects.
+Delivered quality of products to customers with the stipulated time. Stand-ups, defect triage,
+brown bag sessions, bug-bash and retrospectives. Owned and managed weekly quality report.
+Initiated transformation of web to mobile apps within project and assisted senior stakeholders
+of the company in analyzing the opportunity.
+Projects
+IOT and Smart City Projects
+Formulated the use of VSO Dashboards for ease of status reporting which reduced manual
+effort of an hour per day.
+psllwiniei ooitestAlalasudraieosooeslfoisitrerloml
+sllwinei coiciestalalasedraissoteeisisitererio
+Leveraged developer background to automate UI and API components through C#, Xamarin
+UI in ios and Android apps.
+Led process improvements that standardized operations that included on-boarding/reporting
+and customer acceptance.
+PubSec Projects Dubai/columbia/New York
+Coordinated between in-house and client teams and kept stakeholders informed of progress
+and milestones.
+Supervised an avg. of 10-member software QA team in developing and implementing quality-
+assurance and quality-control methodologies to ensure compliance with QA standards.
+Created tools that elped the development ecosystem by automating the long running manual
+process.
+Brought a strong focus on "voice of the customer" into the software development function to
+ensure product and customer success
+Portfolio
+MSDN Blog ttps://blogs.msdn.microsoft.com/ganesh/
+GitHub Repo- https://github.com/ganesh-alalasundaram/
+Personal Website: http://www.ganeshalalasundaram.com
+EDUCATION
+Software Product Management
+Product School - New York, NY
+Bachelor of Computer Science in Computer Science Engineering
+Anna University
+SKILLS
+Automation, Testing, Mobile Testing, SDET, Scrum Master
+CERTIFICATIONS/LICENSES
+Certified ScrumMaster (CSM)
+PUBLICATIONS
+MSDN
+https://blogs.misdn.microsoft.com/ganesh
+GIT
+https://github.com/ganesh-alalasundaran
+https://blogs.msdn.microsoft.com/ganesh
+https://github.com/ganesh-alalasundaram

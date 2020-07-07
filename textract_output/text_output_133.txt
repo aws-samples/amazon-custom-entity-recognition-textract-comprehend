@@ -1,0 +1,125 @@
+Mohammed Murtuza
+Major Incident Manager / Escalation Manager Microsoft India
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Mohammed-
+Murtuza/Ocdc3284bf1bbeab
+WORK EXPERIENCE
+Major Incident Manager / Escalation Manager
+Microsoft India
+June 2016 to Present
+June 2016 Till date
+Roles and Responsibilities:
+working as a Major Incident Manager / Escalation Manager for MSIT in Microsoft. Primary
+duties include leading team operations, managing team resources, leading &amp; driving high
+impact technical incidents to resolution. Providing executive updates throughout the incident
+till resolution, communicate to global customers, senior executives/GMs on ongoing incidents,
+facilitating positive and timely outcomes by evaluating and escalating incidents to appropriate
+resources when needed. Preparing post major incident reports and KPI reports of Escalation
+Management for monthly reviews.
+plan and provide elevated level IT support for scheduled planned change/premium events
+across organization.
+Leading team of 20 L1's and managing daily operations.
+Conduct Huddle meetings for team on daily performance targets and manage day to day shift
+activities.
+Validating the received escalation impact and pushing the tickets to the right severity with
+proper engagements to mitigate the issue at the earliest and understanding the Microsoft internal
+various service lines which is being affected in order to engage the appropriate resources to help
+drive resolution.
+Act as global escalation support to coordinate with various global teams within Microsoft IT and
+drive Bridge calls on high priority incidents such as Managed P1 &amp; P2 incidents to restore the
+services as soon as possible and send standard communications to global customers on status
+of the incident, ETA, and current restoration plan.
+Managing the lifecycle of all incidents to restore normal service operation as quickly as possible
+and minimize the adverse impact on business operations across globe, thus insuring that the
+best possible levels of service quality and availability are maintained.
+Monitoring the ticketing system and reviewing the communications which will be sent to higher
+management for all major incidents/outages.
+Follow the Escalation process and keep up with the SLA'S on all the new Escalation tickets and
+document incident chronology and timelines and support groups for Major incident resolution.
+Complete assigned On-The-Job (OJT) training for the newly hired techs.
+Preparing weekly meeting agenda which allows to improve coordination across teams and to
+discuss the overall incidents occurred in the past week.
+Tracking the model of escalations and calculating the SLA'S as a part of Quality check and
+circulating internal group.
+Join Daily Cross-Geo shift hand over calls to review all the ongoing high priority incidents/
+escalations from Redmond, USA team to India &amp; Vice versa.
+Create and publish post incident reports with high level incident summary and chronology
+to leadership team and thus suggest challenges and improvements to prevent reoccurrence of
+incident
+Identify and analyze problem requests and drive to circulate the RCA of the problem.
+Pre Communication preparations for the various Planned Event Support which includes
+reserving the groups which allows to complete the activity as scheduled without any downtime.
+Company: Genpact India
+client: Schneider Electric
+Major incident Management Team Incident Coordinator
+Roles and Responsibilities:
+Provided ultimate ownership and responsibility for end to end Management activities for all
+Severity 1 &amp; 2 incidents.
+Collaborate with internal and partner repair organizations, from engineers to executive and
+Ensures that the correct Technical teams are engaged and proper focus is paid to outages and
+recovery.
+Documented and tracked the timeline of events that occurred in the process to resolution for
+each of the incidents managed in support of post mortem/root cause analysis.
+Performed notifications and status of all incidents to high level internal leadership and client
+while managing SLA'S.
+Worked directly with Incident Lifecycle Coordinators to provide initial incident response.
+Manage, escalate, status, and assist, coordinating repair efforts on Service Assurance issues
+Provide updates to the Management of daily outages. Updating Outage forums.
+Company: Genpact India
+client: Invensys
+IT consultant
+Level-2 IT Consultant for Active Directory 2008, Exchange server 2007, VMware ESX 4 1, Lync
+2010 server.
+Roles and Responsibilities:
+Managed User Accounts on Windows NT and UNIX Platform (Creation, Deletion, Permissions,
+and VPN Access for company user's and contractors/vendors)
+Configure users, groups, group policy objects, service accounts.
+Developed organizational units in Active Directory (AD) and managed user security with group
+policies.
+Created and maintained email addresses and distribution lists in MS Exchange.
+Compiled data to assist technical writers with IT new hire manuals and prepared data to report
+to testers for system enhancements.
+Handled user account transfers from one field site to another moving client data to different
+servers, to ensure user accessibility.
+Maintained Microsoft Exchange e-mail accounts and public folder access through Microsoft
+Exchange System Manager.
+Served as lead contact for Desk Side Support Technicians, to provide assistance when trouble-
+shooting desk side issues.
+Setup queue's for networked printers and added clients to Blackberry Server, which enabled
+employees to efficiently conduct business while away from the office
+Company: Genpact India
+Client: Siemens
+SAP SRM consultant
+Key Responsibilities
+Functional support tickets handled in SAP SRM on the following areas of SAP-SRM.
+Maintenance &amp; Creation of shopping carts
+Workflow approvals
+Creation of automatic account determination for consumables.
+Maintenance on Purchase Orders
+Company: Genpact India
+client: Armstrong
+Service desk representative.
+Roles and Responsibilities
+Effectively answering inbound telephone calls from clients and providing client support through
+the use of an online knowledge base.
+Partnered with Tier II and Tier III help desk peers based in the across the globe to resolve
+complex problems that required escalation. Provided detailed descriptions of issues in trouble
+ticket system and followed up diligently to ensure swift resolutions
+Configuring &amp; troubleshooting Auto Discover, offline Address Book, Out of Office,
+Scheduling &amp; free/busy, Exchange Activesync, Outlook Web Access, Outlook Connectivity,
+RPC over HTTP (Outlook Anywhere)
+Troubleshooting for login issue, Microsoft Word, Excel, Access, Power Point, Front Page, Visio,
+Internet Explorer, Mozilla Firefox, Scanners, Desktop and Networked Printers.
+Unlocking and resetting user's passwords for Active Directory, SAP application
+Company: Wipro
+Client: HP
+Worked as Technical support representative for HP laptop support.
+Roles and Responsibilities:
+Diagnose, troubleshoot and resolve a range of software, hardware and connectivity issues.
+Excel in asking probing questions and researching, analyzing and rectifying problems in Windows
+XP/ Vista/7, MS Office, and LAN/WAN connectivity issues.
+Installed software, configured and tested customer PC's, analyzed functionality of peripheral
+appendages.
+Instructed and trained end-users regarding computer literacy
+Trained in sales and guided customer's in helping to select the right product
+EDUCATION
+MBA in Marketing and Human Resources

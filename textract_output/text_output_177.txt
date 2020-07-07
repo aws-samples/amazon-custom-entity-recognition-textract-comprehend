@@ -1,0 +1,126 @@
+Ajay Elango
+Software Engineer
+Bangalore City, Karnataka, Karnataka Email me on Indeed: indeed.com/r/Ajay-
+Elango/3c79ad143578c3f2
+7+ years of professional work experience as a Software Engineer with core expertise in C++
+programming on both Linux and Windows environments.
+Offered graduate admission in Computer Engineering into the following prestigious universities
+in
+the world: Georgia Tech (Atlanta), Carnegie Mellon University (Pittsburgh), Cornell University
+(Ithaca), University of Southern California (Los Angeles), University of Colorado Boulder
+(Boulder), Arizona State University (Tempe) and University of Illinois Chicago (Chicago)
+Graduated with Masters degree in Computer Engineering from Georgia Institute of Technology
+(Atlanta)
+Worked as a Software Engineer at the following world-class corporations: Mathworks
+(Massachusetts), Cadence Design Systems (Massachusetts), National Instruments (Texas),
+Infosys (Bangalore) and Aeronautical Development Establishment (Bangalore)
+Received Certifications from Stanford University (California), University of Washington
+(Seattle) and University of California San Diego (California)
+Won corporate awards and received client appreciations for outstanding performance and
+significant individual contribution.
+Proven track record of shipping secure, high quality software through all the phases of the
+software development life cycle.
+Passionate about designing, developing, troubleshooting, debugging, and testing large-scale
+software projects.
+Experienced in mentoring and managing new and experienced professionals on software
+development for enterprise applications.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+Software Engineer
+May 2016 to October 2017
+Worked in the core simulation and visualization team which is one of the earliest and the most
+revered and prestigious group of the organization.
+tips
+I was the owner of the Scope block which is widely considered as the most significant block
+in the Simulink toolset.
+Designed and implemented features for a suite of interactive, real-time, and world-class
+simulation visualization tools for MATLAB and Simulink. These tools are an essential part of
+Simulink models developed and used by engineers, researchers and scientists to visualize,
+measure, and analyze transitions and states of multichannel signals.
+Implemented and maintained large scale software projects written in C++, JavaScript, Java, and
+MATLAB.
+Collaborated with various teams including Application Support Engineering, UI, Technical
+Marketing, and Performance Engineering to develop specifications for the visualization tools.
+Solved several complex bugs in Scope and Logic Analyzer on both Windows and Linux
+environments.
+Improved performance of rendering signal names for multichannel signals in Logic Analyzer
+by over 85%.
+Enabled Logic Analyzer to be launched from MATLAB online.
+Involved in feature estimation, prioritization, and key discussions with product teams.
+Collaborated with cross-functional teams to achieve team and organizational goals.
+Languages &amp; Technologies: C++, Java, C, Javascript, MATLAB, Microsoft Visual Studio,
+Perforce, Gecko, vi, gedit, gdb, ddd
+Software Engineer
+Cadence Design Systems, Inc
+January 2015 to March 2016
+Designed and developed complex 3D Models for PCB components used in Allegro PCB Designer
+and Allegro Package Designer (Electronic Design Automation tools which provide full-featured
+PCB design solutions)
+Designed, implemented and tested algorithms for collision detection among all the 3D
+components rendered on the 3D viewer.
+Provided support, troubleshooting, solved several critical and sophisticated bugs in Allegro PCB
+Design Suite and Allegro Package Designer on both Linux and Windows environments.
+Worked closely with product engineers/technical sales and provided engineering solutions and
+workarounds to make customers successful.
+Provided comprehensive and easy-to-use solutions to assist designers with an efficient and
+successful handoff to manufacturing.
+Helped promote and drove sound engineering design, process and quality practices.
+Contributed to research, design and implemented improvements to Allegro PCB Designer and
+Allegro Package Designer solutions.
+Languages &amp; Technologies: C++, QT GUI, JIRA, Trello board, IBM clearcase, CCMS, Cadet,
+vi, Valgrind, gdb, ddd, Totalview. Visual Studio
+Software Engineer, Intern
+National Instruments, Austin US
+May 2014 to August 2014
+Implemented a boot up image on FPGA for the digitizer PXIe-5171 using LabVIEW.
+Configured reference clocks, onboard clocks, ADC, transceivers, and DAC components for
+various sampling rates and multiple channels.
+Automated the entire configure onboard clock sequence.
+Senior Systems Engineer Infosys Technologies Limited
+LabVIEW, Perforce, Trello - Bengaluru, Karnataka
+November 2009 to June 2013
+Bangalore, India
+(Nov 2009 June 2013)
+Implemented large scale software projects in C++ on Linux and Windows platform for a testing
+framework that was used to test the functionality of the firmware developed on wireless chipsets
+Mentored and managed new and experienced software engineers on software development for
+enterprise applications.
+Responsible for effectively initiating, planning, scheduling, estimating, forecasting, and
+delivering all activities for projects and related release initiatives.
+Won corporate awards and received client appreciations for outstanding performance and
+significant individual contribution.
+Collaborated with cross-functional teams to define business requirements along with project
+development and resource estimates.
+Consolidated, planned and developed low-level technical design documents for finalized client
+requirements.
+Analyzed complex technical issues and provided remediation options.
+Reviewed detailed designs and participated in code reviews.
+Significantly contributed to requirement analysis, feature estimates, and design improvements.
+Languages &amp; Technologies: C, C++, Siebel CRM, JIRA, gdb, ddd, Valgrind, Totalview, vi,
+eScripts
+Intern
+Aeronautical Development Establishment (Defense Research Bengaluru, Karnataka
+December 2008 to February 2009
+Implemented I2C protocol in VHDL for interfacing the video encoder (ADV 7174/7179) and video
+decoder (ADV 7184) with the video tracking system.
+Languages &amp; Technologies: VHDL, Modelsim
+EDUCATION
+Master of Science in Electrical & Computer Engineering
+Georgia Institute of Technology - Atlanta, GA
+August 2013 to December 2014
+Bachelor of Technology in Electronics & Communication Engineering
+Amrita School of Engineering - Bengaluru, Karnataka
+June 2005 to May 2009
+SKILLS
+C++ (6 years), LINUX (6 years), NET (2 years), VISUAL STUDIO (2 years), JAVA (1 year)
+LINKS
+ttp://www.linkedin.com/in/ajayelango
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Programming Languages: ++(98/11), Java, Python, C, Javascript, MATLAB, SQL, C#, PHP
+Software Tools: Microsoft Visual Studio, Eclipse, gdb, ddd, Totalview Debugger,
+Hoops 3DGS, OpenGL, IBM Clearcase, GitHub, vi editor, JIRA, Trello
+Board, Valgrind, Perforce, LabVIEW, Visio, Enterprise Architect, gedit
+Operating Systems: Linux, Windows
+Databases: Oracle [...] Microsoft SQL Server, IBM DB2
+ttp://www.linkedin.com/in/ajayelango

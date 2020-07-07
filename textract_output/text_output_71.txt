@@ -1,0 +1,127 @@
+Sai Patha
+Mule ESB Integration Developer Cisco Systems
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/Sai-patha/981ba615ab108e29
+6+ years of professional experience in end-to-end designing, developing and implementation
+of
+software solutions in the areas of Middleware Integration and J2EE based applications.
+Expertise in the areas of Core Java, Servlet 2.3, JSP, Web Services, MESB, and OSB.
+Expertise in PL SQL programming and Oracle Apps (Oracle order management)
+Having 2.5+ years of experience in Mule and expert in Mule ESB development (3.7v & 3.8v),
+Mule
+ESB administration and Mule API management (API GW 1.x, 2.x, 3.x) cloudHub.
+Experience in building Mule ESB & API management platform for organizations
+Experience in performance tuning, testing, and benchmarking the platform for the
+organization.
+Expert in building middleware systems using Message Routing, Content Enrichment, Cache
+Mechanism, Message Filtering, Message Transformation, Message sequencing, Batch message
+processing, Error handling and reconciliation mechanisms.
+Expertise in designing and implementing multi-tiered application with high performance using
+J2EE standards.
+Good understanding of API management systems Mulesoft and RAML.
+Experience in compiling proof of concepts and presenting to customers.
+Deep knowledge of all phases of software engineering involving analysis, design and
+implementation.
+Hands on experience in load testing and performance testing and setting up the environment.
+Very strong debugging skills.
+Expertise in implementing different J2EE design patterns and Java Multi-Threading.
+Hands on experience in creating Splunk dashboard, App for production proactive monitoring
+and
+for reporting.
+Good understanding in Web services security.
+Extensively worked on servers Apache Tomcat, JBoss, Web logic and WebSphere.
+Familiar with reviewing Functional Requirements and writing Technical Specifications.
+Extensive Expertise in using Oracle 11i.
+Broad knowledge of version control systems, build scripts and logging mechanisms.
+Analysis, design and development of Applications based on J2EE & allied technologies using
+Agile
+methodology.
+Implementing high-end performance REST services for Middleware using Core Java.
+Deploying Builds to DEV/TEST/PROD environment using Kintana, Udeploy & URelease tools.
+mplementation of modules using Core Java APIs, Java collection, XML technologies and
+integrating the modules.
+Responsible for converting the understood business into Technical Specification document.
+Taking KT sessions from client on Application functionality and discuss with Business Analysts to
+integrate new functionalities with existing systems.
+Utilize oracle as back-end database and TOAD for querying.
+Utilize Log4j as logging mechanism and developed wrapper class to configure the logs.
+Utilize CVS, SVN, and GIT as Version control tool.
+Used Maven build scripts to create and deploy the release builds.
+Prepare the Functional and Technical Design documents.
+Module implementation and customization based on the Change Requests.
+Development and support for different releases before and after implementation of launch.
+Review the fellow developers' code as an exercise of internal code review.
+Carry out Configuration Management activities for projects.
+Carry out weekly Status reporting activities such as MOM updates and health sheet generation.
+Excellent communication and interpersonal skills. Involved in client interactions for scoping,
+effort
+estimates and status reporting.
+WORK EXPERIENCE
+Mule ESB Integration Developer
+Cisco Systems San Jose, CA
+April 2017 to Present
+Project: Extended Enterprise B2B Transformation
+Responsibilities
+Followed agile methodology and Scrum.
+Involved in application design and participated in technical meetings, Effort estimations,
+backlog
+grooming, I&A etc.
+Involved in analyzing, developing, troubleshooting, debugging, and optimizing ESB application.
+Involved in documenting and presenting designed technical solutions.
+Extensively used Anypoint studio to develop and design the business process.
+Implemented complex transformation Logics using MEL
+Building RESTful Web Services with Anypoint Platform for APIs
+Involved in data transformation and mapping using data weave
+Tested the business process in test mode for debugging
+Build and deployed using Anypoint studio, maven.
+Participating i n meeting and on-calls
+Code reviews and independent unit testing for components
+Manage code release deployment into development, SIT, OAT and production
+Error handling is properly done in all the business processes
+Technologies: Mule Server 3.7 EE, Anypoint studio 5.4, cloud hub, Maven, core java, GIT, RAML,
+APIKit, SOAP 01, Postman, Agile, Jenkins.
+Mule Soft Team Lead
+Cisco Systems San Jose, CA
+June 2016 to March 2017
+Project:FSMS
+Responsibilities:
+Followed agile methodology and Scrum.
+Involved in application design and participated in technical meetings, Effort estimations,
+backlog
+grooming, I&A etc.
+Gather requirements and planning on integration of oracle data base with cloud applications
+using
+Mule ESB.
+Tightly integrated applications using MULE ESB.
+Involved in implementing ESB flows, Proxies, logging and exception handling.
+Extensively used Mule ESB components like File Transport, SMTP Transport, FTP/SFTP
+Transport, JDBC Connector, JMS and Transaction Manager.
+Used TOAD for internal data storage and retrieval.
+Involved in setting up Connection pooling and used JMS for Asynchronous messaging.
+Setting up Mule ESB for the development environment.
+Developed application using Mule ESB and deployed the services in dev, test and prod
+environments. And also done with Unit testing using Test Utility.
+Migrated Mule ESB 3.7.0 apps to Mule ESB 3.8.4
+Applied OAUTH authentication policy for API proxies
+Have integrated web services including SOAP as well as REST using Mule ESB.
+QA, UAT & Production issues investigation and supporting business users.
+Mule Soft Team Lead
+Cisco Systems San Jose, CA
+August 2015 to May 2016
+Project: Bay Bridge RMA Services
+Design and implement the Mule ESB platform for Cisco.
+Design and implement the RESTful WS using RAML to interact with AI system and storing in
+C3 Database.
+Implemented the security for the SOAP and REST Web services using OAUTH and Basic
+Authentication.
+Designed and developed the core modules, which pulls service request details from CSOne
+System.
+Design and developed common modules like Audit Logging, which can be used as a common
+module and shared resources for all the applications.
+Designed the Exception handling for all the apps on Mule platform.
+Designed the Domain to share the resource like HTTP, HTTPS & DB connector references.
+Created flows for basic authentication and caching the token for OAUTH.
+Have carried out performance testing for the ESB flows for memory leakage and for fine-tuning.
+Worked with Mule team on some of the issue with performance on DB connector.
+Interacted with dependent teams (CSONE and PEGA) and came up with the design on the
+implementation of the flows and architecture and design of services.
+Developed required back Java components.

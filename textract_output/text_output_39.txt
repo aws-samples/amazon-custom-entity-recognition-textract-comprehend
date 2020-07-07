@@ -1,0 +1,112 @@
+Lakshika Neelakshi
+Senior Systems Engineer Infosys Limited
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/Lakshika-
+Neelakshi/27b31f359c52ef76
+An organized and independent individual looking for role to be able to effectively coordinate
+tasks in
+project and accomplish the result adhering with timeliness and creativity.
+WORK EXPERIENCE
+Senior Systems Engineer
+Infosys Limited Bengaluru, Karnataka
+January 2018 to Present
+Environment SAPUI5 version 1.4
+Description:
+Airbus SE is a European multinational corporation that designs, manufactures, and sells civil and
+military aeronautical products wor ldwide.
+Project Contribution:
+Working on creating a custom Annotation Tool (AnnoQ) using a third party js library to annotate
+any 2D picture within a SAPUI5 application specifically designed to work on laptop and Desktop.
+The custom tool can be called from any SAP or Non- SAP system to be used as a plug-in to
+annotate pictures across the Airbus SE application to be used across browsers like
+Chrome/Edge and IE and should be compatible with Windows 7, 8, 10.
+Parts of a picture can be highlighted and marked and using this tool and can be saved for
+reference or future use.
+Worked extensively on Fabric js and created various customized objects like Call out Box,
+Measurement Arrow, Datum, Cross Datum, Forward arrow, etc on mouse and object events.
+Implemented various functionality like color change, crop, zoom, text size selection, width
+selection, saving the annotation in JSON format in the backend so as to retain the original
+picture as it is.
+Also contributed in designing the layout and overall appearance of the tool.
+Contributed in integrating the application with MNC Mobile Application.
+Senior Systems Engineer
+Infosys Limited Bengaluru, Karnataka
+October 2015 to Present
+Having 2.5 years of experience in SAPUI5/Fiori, Netweaver Gateway Odata Services and SAP
+ABAP development of large scale ERP packages.
+Working with SAP/R3, ECC environments also having experience in HTML, JavaScript, JSON,
+XML, CSS.
+tsllinderoiasiteselsieseeefisitrertontadl
+Currently working as Senior Systems Engineer with Infosys Limited, Bangalore since October
+2015.
+SAP Expertise
+SAPUI5/Fiori
+Expertise in developing SAP UI5 applications using ADT (Eclipse) /WebIDE, jQuery, JavaScript,
+HTML5 and CSS3. Also consuming the data by using Net weaver Gateway services.
+well equipped in extending and customizing various UI5 controls specially charts, vizframes
+and Smart Table, etc.
+Experience in integrating Gateway Odata/ JSON services with UI% application.
+Worked extensively with application having multiple Views and controllers and hence
+experienced in navigating through it using Routing using both XML and JS views.
+Exposed to be working in SAPUI5 Custom Applications and Standard Fiori Applications.
+Experienced with UI5 application development in local server and debug it in Chrome/Firefox
+debuggers
+Experienced in Github.
+Advance Business Application Programming
+ALV (ABAP List Viewer) Grid and List Display.
+SAP smart forms and Scripts.
+Worked in BDC (Batch Data Communication) BI and CTU method
+RFC Function Modules.
+Exposure in creating Data Dictionary objects (Domain, Data Elements, Structures and Views)
+Conceptual knowledge Dialog programs using Menu Painter/Screen Painter
+worked on Object Oriental Programming concepts (OOPS)
+Systems Engineer
+Infosys Limited Bengaluru, Karnataka
+August 2017 to December 2017
+Environment SAPUI5 version 1.28
+Description:
+Jabil Inc. is a US based global manufacturing services company headquartered in St. Petersburg,
+Florida. Jabil is involved in design engineering services. The company has industrial design
+services
+that concentrate on designing the look and feel of plastic and metal enclosures that house printed
+circuit board assemblies and systems.
+Project Contribution:
+Created custom Fiori apps for the client including screens having functionality of create
+document, Inbox to store the transaction mail and Dashboards to view day to day transactions.
+Prepared multiple screens for the dashboard with view reusability features.
+Worked on OData binding and hence display of data in relevant format on to the screen.
+Implemented various other functionalities based on OData consumption, Routing and
+Navigation and JSON models.
+Worked on complex functionality like excel data transfer directly to UI5 tables on screen while
+keeping the table data editable and also excel data upload functions to the table.
+Have clear and distinct knowledge of various UI5 controls.
+Systems Engineer
+Infosys Limited Hyderabad, Telangana
+2016 to July 2017
+Environment SAPUI5 version 1.5
+Description:
+American Water is an American public utility company operating in the United States and Canada.
+It
+was founded in 1886 as the American Water Works & Guarantee Company.
+Project Contribution:
+Worked as SAPUI5 developer in KPI project for American Waters account.
+Developed KPI Dashboards using controls like Vizframe, Tables etc.
+worked with different types Micro charts control available like Column, Comparison, Radial etc.
+Also extended some of them as per project requirements.
+Experience of working with OData to get the data to be displayed on the dashboards.
+Additionally, implemented some special features in the Dashboard development like Export to
+excel link, Download Image of the UI charts & documentation link in Fiori tiles.
+Also worked on multiple levels of drill downs using multiple controllers and views.
+Individually worked and delivered an extension for one of the UI5 controls which got much
+appreciated from clients and offshore team as well.
+Implementation of the apps on Fiori Launchpad.
+Implemented multiple filters on the data pulled from the service for desired results as per
+project requirements.
+SAP UI5:
+UI5 Controls:
+Created dashboards by various UI5 controls such as Tables, vizFrame, Tab Filters to name a few.
+Exposure in extending various UI5 standard controls to get the desired result.
+Used SAP best practices while using all these controls.
+Systems Engineer
+Infosys Limited Hyderabad, Telangana
+July 2016 to September 2016
+Environment SAP 5.0

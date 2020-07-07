@@ -1,0 +1,124 @@
+Sudaya Puranik
+Principal Engineer Technical Staff Company 1
+Bengaluru, Karnataka Email me on Indeed: indeed.con/r/sudaya-Puranik/eaf5f7c1a67c6c3t
+To secure a promising position that offers both a challenge and a good opportunity for both
+professional and personal growth.
+Willing to relocate to: Bengaluru, Karnataka
+WORK EXPERIENCE
+Principal Engineer Technical Staff
+Company 1 Bengaluru, Karnataka
+September 2005 to Present
+Total Experience: 12 years 6 months.
+Worked onshore and offshore for the projects. Extensive client facing and team management
+skills.
+Company 1: Oracle India Private Limited, Bangalore
+Designation: Principal Engineer Technical Staff
+Duration: September 2005 till date
+KEY TECHNICAL SKILLS
+Databases: Oracle 9i/10g, MySql
+Languages PL/SQL, Shell Script.
+Frameworks and Portals: Oracle ADF
+Server side Technology J2ee,
+IDE: Jdeveloper 10.x
+TECHNICAL EXPERIENCE SUMMARY
+1 year Oracle Applications checklist implementation
+3+ years of Disaster Recovery on Oracle Applications (EBSO 11i, R12) and Database.
+8+ years of Oracle Applications DBA with Build and Release activities.
+Installation of Oracle Applications (EBSO 11i, R12) at Customer environment and carry out DR
+Configuration of Oracle Applications (EBSO 11i, R12) as per Customer specification.
+Configuration of Discoverer, Admin, Concurrent, Forms, Web, Reports done on separate pillars
+Patching, Cloning of Oracle Apps
+Database conversion from non-RAC to 2 node, 3-node RAC
+Installation of OTO product on customer environment. Including the Infra, Asmt, discoverer,
+0C4J product.
+Carried out Disaster Recovery solutions for OTO
+Database Switchover code written for OTO
+Domain knowledge of Manual Testing.
+Oracle Apps Release and Build Engineer,
+Carried out 11i and R12 Upgrades on Oracle Internal Customers.
+Carried out 12.2.X upgrades from 11i and R12 baselines with 11g and 12c database level
+> Experienced with Database upgrades as well. Carried out upgrades from 10g to 11g, 11g to
+12C DB.
+Have been awarded Extra Mile Award 2 times for execution of projects on time with quality.
+Principal Engineer
+ORACLE
+September 2005 to Present
+Oracle Apps DBA for R12 and 12.2.X baselines, responsible for all the EBS release activities
+handled upgrades with latest adop technology.
+EDUCATION
+Bachelor of Engineering (Information Science) in Information Science
+B V Bhoomaraddi College of Engg and Technology Hubli Hubli, Karnataka
+2005
+Visveswaraiah Technological University Belgaum, Karnataka
+SKILLS
+Oracle Apps DBA Release Enginner
+ADDITIONAL INFORMATION
+Software/Tools
+Test cases written in MS Word
+Carried out manually as QTP does not support this Application
+5) Disaster Recovery Portal for carrying out Recovery on the Customers.
+It involves a portal through which we provide the Customer details and host types. There are
+xml plug-in, which are installed and parsed as Workflows. The workflows contain the steps of the
+DR for the MT and DB. As and when required we can pause and skip during the recovery. Tool
+tested and verified by the On Demand Operations and Customers like GE, Xerox, RIT etc.
+Client: On Demand Operations, Oracle Bangalore
+Roles and Responsibilities:
+Developed all the plug-in needed for the recovery which include Database Plug-in, E-business
+Suite Plug-in.
+Monitoring and Support 24/7
+Team Size: 2
+Software /Tools: Shell and Expect scripting.
+4) DR Solution for R12 (E-Business Suite)
+It involves setting up the primary by installing Oracle Apps R12, setup the standby site i.e
+Database, Mid Tier, by cloning the same and recover. It also involves operations like Switch Over
+and Fail Over.
+By Switch Over we mean Primary to Standby and vice versa
+By Fail over we mean the Primary has crashed, we need to make the Standby as the Primary.
+Client: On Demand Operations, Oracle Bangalore
+Team Size: 2
+Software /Tools: Shell and Expect scripting, PLSQL.
+Roles and Responsibilities:
+Installation, cloning, Patching of the Oracle Applications R12.
+Conversion of Database from non-RAC to RAC
+Setting up of the Standby.
+Carry out the Switchover, Fail over and Recovery.
+Carryout the whole Recovery Process through the UI.
+3) On Demand Service Continuity
+The project dealt with "Disaster Recovery & Backup" which involves automating checks so that
+disaster could be prevented. Also the recovery of database is involved.
+Client: On Demand Operations, Oracle Bangalore
+Team Size: 5
+Software /Tools:
+Unix Advanced shell scripting and expect. (Involves working on Korn Shell)
+Roles and Responsibilities:
+Automated the checklists for E-business suite and Peoplesoft products.
+2) CCB Portal Administration
+Project Description
+The new CCB Administration component is an integrated, web-based application intended to
+consolidate and simplify the CCB processes for On Demand. This application:
+Makes it easier to manage the process of change implementation in customer instances across
+the various milestones in the On Demand life cycle.
+Simplifies said change implementation by keeping the information organized in a centralized
+repository.
+In the CCB Administration application Release 1.0
+Client: System Assurance Centre, Oracle Unites States of America
+Team Size: 3
+Software /Tools:
+PL/SQL and HTML
+Roles and Responsibilities:
+* Developed the PL/SQL procedures & packages, HTML forms required for the Portal, using HTML
+for the user to enter the required data.
+The data is entered is validated, using Java Scripting, and the data is stored in the database.
+Developed the reports.
+1) ORACLE PRODUCTION ASSESSMENTS
+Project Description
+AUTO VERIFY TOOL
+Auto Verify is a utility that automates many of the tedious and repetitive tasks that are involved
+during QA testing of an Oracle Applications Release 11i environment. Auto Verify now performs
+many of the tasks automatically that used to be performed manually.
+Client: System Assurance Centre, Oracle Unites States of America
+Team Size: 4
+Software /Tools:
+UNIX Advanced Shell Scripting, PL/SQL.
+Roles and Responsibilities:
+Automated the all the checklists for 8 releases of E-business suite.

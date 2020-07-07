@@ -1,0 +1,130 @@
+Yathishwaran P
+Maximo Consultant Infosys Limited
+Namakkal, Tamil Nadu Email me on Indeed: indeed.com/r/Yathishwaran-P/a9c8d42210af40be
+Maximo Consultant in Infosys Limited, Chennai from August 2013 till date (around 4.8 years)
+IT professional with 4.4 years of experience in BIRT reporting, application support in IBM MAXIMO
+Application.
+IBM Certified MAXIMO ASSET MANAGEMENT, PURCHASE ORDER, PROCUREMENT, PURCHASE
+REQUISITION Professional
+Submitted Internal tutorial document on Configuration of Hover Dialogs and Its usage in Maximo
+V7.6
+Worked on various customer requirements and having overall experience with
+Preventive Maintenance
+Maximo automation and implementation
+MBO customizations
+Data Supply chain
+Portals, Workflows Designing
+Reports/Query Creation
+Work order tracking, Invoicing, Purchase order
+Asset Management
+Maximo Integration Framework (MIF)
+Labors, Crews, Security Group Set up
+Domains, Database configuration
+Basics of BIRT, Cognos Reporting, Monitor logs from Admin console.
+Maximo Java customization
+Maximo Installation/Upgradation
+Basic WebSphere function
+Strong interpersonal skills and the ability to work in team efficiently. Customer Service support
+experience in a helpdesk environment.
+Strong dedication towards work to ensure delivery of projects according to the schedules
+Proactively approached for delivering excellent customer service and liaising with stakeholders.
+Ambitious, enthusiastic and highly motivated person with excellent problem solving skills and
+also having ability to quickly master new technologies and skills.
+Maintains effective work behavior in the face of setbacks or pressure. Strong multi-tasking
+capability, target and deadline oriented.
+Engaging and resilient communicator demonstrating influencing skills and an ability to adapt
+approaches to differing situations
+Willing to relocate to: Chennai, Tamil Nadu Mysore, Karnataka Bengaluru, Karnataka
+WORK EXPERIENCE
+Maximo Consultant
+Infosys Limited Chennai, Tamil Nadu
+August 2013 to Present
+IESPALNASM|
+around 4.8 years)
+IT professional with 4.4 years of experience in BIRT reporting, application support in IBM MAXIMO
+Application.
+IBM Certified MAXIMO ASSET MANAGEMENT, PURCHASE ORDER, PROCUREMENT, PURCHASE
+REQUISITION Professional
+Submitted Internal tutorial document on Configuration of Hover Dialogs and Its usage in Maximo
+V7.6
+Worked on various customer requirements and having overall experience with
+Preventive Maintenance
+Maximo automation and implementation
+MBO customizations
+Data Supply chain
+Portals, Workflows Designing
+Reports/Query Creation
+Work order tracking, Invoicing, Purchase order
+Asset Management
+Maximo Integration Framework (MIF)
+Labors, Crews, Security Group Set up
+Domains, Database configuration
+Basics of BIRT, Cognos Reporting, Monitor logs from Admin console.
+Maximo Java customization
+Maximo Installation/Upgradation
+Basic WebSphere function
+Strong interpersonal skills and the ability to work in team efficiently. Customer Service support
+experience in a helpdesk environment.
+Strong dedication towards work to ensure delivery of projects according to the schedules.
+Proactively approached for delivering excellent customer service and liaising with stakeholders.
+Ambitious, enthusiastic and highly motivated person with excellent problem solving skills and
+also having ability to quickly master new technologies and skills.
+Maintains effective work behavior in the face of setbacks or pressure. Strong multi-tasking
+capability, target and deadline oriented.
+Engaging and resilient communicator demonstrating inf luencing skills and an ability to adapt
+approaches to differing situations
+Role: Senior Systems Engineer
+Working as Maximo Consultant for Bombardier Transportation, Canada
+Strong knowledge in Maximo configuration using Automation Scripting, Database configuration,
+Application Designer, Domains, Workflows and other major applications
+Providing efficient solution for the issues related to Work orders, Asset configuration, Item
+Master, Preventive Maintenance, Inventory, Domain related issue
+Thorough implementation, support knowledge of Bombardier Transportation Maximo version
+4, 6, 7.1 and 7.6.
+Having experience in Maximo Implementation, L2 and L3 support, and deployment activities
+Having experience in Incident Management, Problem management, Change management,
+Service Request, and other applications.
+Delivering 100% effectiveness in resolving ticket by ensuring compliance with client Service
+Level Agreements (SLAs)
+Developing Conditional Queries/Reports to verify the desired results.
+Worked on various formal and informal production reports.
+Created the template for maintaining the application maintenance activities.
+Worked in many configuration management applications for asset management related
+activities for future implementation.
+Working in 24*7 support. Resolved many critical issues which appreciated by client
+BIRT Reports
+BTRAMROOO1SYSER. rptdesign (Work order report):
+My client was using default BTRAMR2 Work order reports. They also use a different work order
+report in Maximo V4 and V6. The earlier used report have many drawbacks such as
+No Flexibility for modification since it is used by many divisions
+Empty boxes, lot of missing information
+Not align with Systems objectives and processes
+Historical context on the asset is missing
+Esthetical issues: Font too small, input fields not instinctive
+No bar coding used
+The outcome of this report is a form to support technician's work and regulation and give
+them simplicity to input information. It covers the full spectra of requirements of System Services
+divisions.
+This report is site specific one and it will display the WO details along with its task WOs and
+failure reporting information.
+Each site is having their own logo. This current report will display the logo based on site.
+It was implemented in V7.1 only. In V7.1 we do not have the option of auto resetting page
+numbers (i.e., while displaying multiple WOs, for each new WO page number will not be reset
+automatically) I have implemented this option in this report.
+Language ranslation was used for this report in German and French
+I did not use IBM templates for this report. I have customized our own template in this report.
+BTRAMR0009. .rptdesign (Availability Report):
+This particular report relates to the requirement of the business to be able to create a
+Availability Graph based on selected Train Assets, a timeframe and selected work types / work
+order parameters.
+Availability can be calculated based on a Fleet or a single Train. The business requirement is to
+be able to select this base as needed to suit the project or view needed at that time.
+BTRAMR0027. rptdesign (Card Stock Report)
+Existing report functionality:
+Technician requiring a part will take the component in its bin along with an Inventory Card. The
+technician reports the consumption at the exit of the storeroom on the Kiosk computer where
+he scans its work order and the Inventory Card in the application Issue and Transfer of Maximo.
+when we rebuild something internally, the technician will bring the new assembly in store, grab
+the Inventory Card and he will report the return in store against the rebuilt Work order.
+Objectives:
+Created a card stock report in order to match the existing Inventory Card tool developed by

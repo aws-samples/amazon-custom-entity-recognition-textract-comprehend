@@ -1,0 +1,128 @@
+Srinivas Vo
+Sr. Test Manager
+Mumbai, Maharashtra Email me on Indeed: indeed.com/r/srinivas.vo/39c8oe42cb6bc97f
+A Test Manager, with a track record of 15+Yrs ( 4yrs UK onsite) delivering major test solutions
+for global projects ($40m) on behalf of leading blue chip organisations. Delivering IT solutions,
+ranging from simple to complex and challenging projects and programs, establishing an enviable
+record of on-time, high quality & added value delivery.
+Testing capabilities to existing customers and prospective customers during client visits / at
+customer location.
+Own and Support RFI/RFPS, proposal walkthroughs and presentations and Transition
+knowledge from pre-sales to delivery, in case of project win
+Analyze proposal requirements in direct relation with clients, and provide innovative
+solutions, as part of proposals
+Develop proof of concepts to prospects during pre-sales phase, Provide test consulting
+services, on demand & Collate repository from delivery team, along with case studies for use in
+proposals, presentations and consulting
+Pipeline building through new opportunities, cross-selling, up-selling and Establish
+communication with Geo Sales and other streams of business
+Maintain order Book, Win /Loss analysis, pre-sales metrics
+Handle any technical question or issue which arises during a sales cycle and setting
+appropriate customer expectations
+Independently executes strategic leadership to others in identifying opportunities and Expert
+in driving pilots/proof of concepts.
+Talented in handling extremely risk and competitive situations and responsible for product
+and services, revenue goals at team and regional level.
+Proposed and implemented TCoE setup for 2 major clients, which helped in improving the
+productivity by reducing the staffing and operational cost by 25%.
+Involved in setup for Custom Application Testing Services (Oracle R12, Siebel, Fusion etc., )
+in Oracle SSI & Testing Centre of Excellence (TCoE)
+Ability to excite customers, generate awareness of new possibilities that can yield additional
+revenue.
+Planning, scheduling and tracking of the project modules and conducted trainings across
+teams and Experience in proposals for the projects, resource planning and estimations.
+Extensive experience on bid management, PMO process, risk management and prepared
+project management office documents.
+Expertise in building automation frameworks for Front to back testing of Retail / Healthcare/
+Telecom/ BFSI/Supply Chain Trading applications
+Expertise in design, development and implementation of frameworks using UNIX, Java, Net,
+VB, SQL, XML, SWIFT, MQ and FMW.
+Experience in E2E testing of variety of oracle Applications:
+Oracle Retail: Oracle RMS, RPM, REIM, SIM etc.
+Oracle Ebusiness Suite R12: AP, AR, GL, OM, PA, CM, TM
+Oracle IDM: OAM, OIM, OVD, OID, SSO
+Oracle Siebel: Public Sector, Call Center Apps, Ebilling Apps
+Oracle Fusion Applications: Fusion HCM, R12, OBIEE
+Oracle Transportation Management: Order Management,
+Shipments, Transport Request management, Routing and Consolidation
+Oracle FlexCube & Oracle Health Sciences: OracleR clinical
+oracle Communications: Billing and Revenue Management
+(BRS), order Management and Order Fulfillment (OMOF)
+Experience in managing large diversified team across geographies
+Experience includes customization of methodologies for the business needs and deploying
+them
+into programs/projects
+Experience in proposing out of box solutions for automation and convincing clients on alternate
+solutions and investments in automation using
+Oracle Tools (OATS, Oracle Load Tester, Oracle Test Manager)
+HP Tools (QTP, Load Runner, Test Director, Performance Centre)
+Rational Suite (Reqpro, RA, Rational Robot, RFT, RPT, RCC, RCQ)
+Open Source / Other Tools: Selenium Webdriver 2.0, Testng, JMeter,
+Appium, Junit, Cucumber, JIRA, Maven, SOAPUI, Jbehave, BDD etc.,
+A strategic thinker, problem solver, project implementer and change leader, who has
+consistently
+provided organizations with added value as they move towards achieving their objectives.
+Helped many large and small organizations to establish sound project & management practices
+integrated into the corporate framework to deliver projects, programs and managed portfolios.
+Ability to identify business value in customer needs and translate to innovative solutions
+communicating the requirements & mission, in context, to both management & IT & Quality
+development, using sound, proven and valued management practices through integrated best
+processes from clients and IT Governance Frameworks (RUP, CMMI and ISO)
+Solution Sectors
+Service successes in: Logistics & SCM, Investment Banking, Public Sector, Financial, Banking,
+Retail,
+Health Sciences, Telecom, Real Estate, Hospitality, Outsourcing, Project Management, Knowledge
+Management & Performance Management.
+Clientele
+DHL (UK), Mobily (Saudi Arabia), UBS (London, UK), Rolls Royce (Derby, UK), TNT (Hinckley, UK),
+RCUK (Research Councils, Swindon, UK), ADAT (Middle East), OHI (Netherlands), Citibank (USA),
+Transurban (Australia), BCBS (Blue Cross Blue Shield, USA) etc.
+Willing to relocate: Anywhere
+WORK EXPERIENCE
+QA Manager
+Tracelink Mumbai, Maharashtra
+April 2017 to October 2017
+Define, evangelize, and implement global, unified agile delivery processes; select
+common tools; specify core quality-measurement KPIs, expand automated-testing in
+Continuous Integration environment
+Project Manager and Scrum Master of company's highest priority Tracelink Products &
+Tracelink L3 Support Projects recognized by executive management as the model for
+project organization and execution.
+Manage and administer relations, budgets, and contracts with outsourcing vendor
+Define the test strategy and approach for one or many products, provide quality
+assurance leadership, and be ultimately responsible for ensuring product quality
+Perform hands-or job that requires strategic thinking and planning to provide leadership
+and expertise throughout the entire QA life cycle, ensuring the success of the team's
+manual and automation efforts
+Lead efforts to develop, document, and implement applicable QA processes and
+procedures to provide more effective quality methods within the group in support of
+providing quality products
+Create, implement, maintain, and enhance test plans, test scripts, and test
+methodologies to ensure comprehensive test coverage
+Develop world class automation for regression and feature testing
+Work closely with all stakeholders to ensure project alignment
+Provide quarterly presentations to executive staff on QA accomplishments and future vision
+and goals
+Environment: Amazon cloud Services (Habari, Elasticache, cloud Search, Dynamo, RDS, Redis,
+Amazon RedShift), Java, Scala, Selenium Webdriver, Jmeter etc.,
+Sr. Test Manager
+confidential Bengaluru, Karnataka
+July 2013 to March 2017
+Test Manager, Client
+Oracle SSI London
+January 2011 to November 2012
+London
+Description: Oracle will provide services to Manage process workshops with UBS to map the
+Oracle
+Fusion Human Capital Management (HCM) applications processes to UBS's global processes.
+Implement
+Oracle Fusion HCM applications within an Oracle. Software as a Service (Saas) environment.
+Support
+UBS with the mapping of the Oracle Fusion Applications data structures to UBS's current
+Peoplesoft 8.8
+system and then design, develop and unit test data load routines. This will include the definition
+of the reconciliation process. Configure and system test the application modules to support the
+Level 3 standard
+business processes and the UBS functional requirements identified.
+Responsibilities:
+Developed High Level Test Strategy for UBS Group HR Applications (Viz., Workforce

@@ -1,0 +1,76 @@
+Tejasri Gunnam
+Bengaluru, Karnataka Email me on Indeed: indeed.con/r/Tejasri-Gunnan/6ef1426c95ee894c
+3 years of experience in IT industry, involved in Software Testing.
+Proficient in development of Test Plans, Functional test scriptsfor Functionality Testing and
+Integration Testing, Test Execution, Defect Reporting, RegressionTesting.
+Very Good in GUI, Functional and Performance testing.
+well Acquainted With Bug Tracking Tools like CDETS, BUG SCRUBBER, MANTIS, JIRA
+Profound Knowledge in Software Testing Life Cycle.
+Involved in Preparing Test Cases and Test Reports.
+Knowledge on Quality Standards like ISO
+CCNA certified
+Very good knowledge in security testing.
+Knowledge in Python scripting.
+WORK EXPERIENCE
+Cisco SystemsIndPvtLtd Bengaluru, Karnataka
+September 2012 to Present
+under the payroll of Goldstone Technologies
+Agile team Member, Testing, Security testing
+Cisco SystemsIndPvtltd Bengaluru, Karnataka
+September 2012 to Present
+Duration Sep 2012 Till date
+Team Size 15 Members
+Role Agile team Member, Testing, Security testing
+Description:
+CSPC is a collector which is integrated with different CSOs (Common Service Objects) like the
+device discovery CSO, core collection, connectivity and data normalization. Together we call as
+CSPC or Common Services Platform Collector.CsPc-N is an add-on service which is written
+on top of the CSPC i.e., extra software written by the Nos team based on the CSPC 2.0 base
+code to cater to a group of customers. CSPC-NOS support on both Windows and Linux Cent Os
+platform. The Windows CSPC-NOS client can connect to the CSPC-NOS Linux server and vice-
+versa. Devices can be added manually or using the import seed file. when importing a seed file/
+when Device discovery is triggered the Device discovery module collects light inventory data
+from the devices. The light inventory data contain information like Sys Object Id, device family,
+OS-version etc. (This information collected can be seen by going to Reports->Managed Devices)
+This light inventory data is used by the inventory module to load the model rule for the respective
+device. This data is also used by the base collector to decide whether the device is managed
+or unmanaged.
+Responsibilities:
+slimineroeejasritemaierseiteeeisiterorionlodi
+Involved Identifying Scenarios to be tested
+Preparing Test Cases
+Executing Test Cases
+Automating Testcases using TCL scripting
+Preparing Progress Report for Sign off
+Test Plan
+Traceability Matrix
+order Progression
+Raising and reporting defects to dev team
+Defect Management on monthly basis
+Participated in Defect prevention meetings on quarterly basis to reduce defect density.
+Security Testing:
+Threat Modelling
+Gap Analysis using CSERV
+Manual Penetration Testing (Proxy testing and SSL scanning)
+Vulnerability Assessment using Nessus and Retina tools
+DECLARATION
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear
+the responsibility for the correctness of the above-mentioned particulars.
+Date:
+Place:Bangalore ( G Tejasri)
+EDUCATION
+B Tech in Electrical and Electronics Engineering
+Pondicherry University - Puducherry, Puducherry
+M.Tech in Power Electronics and Instrumentation Engineering
+Jawaharlal Nehru Technological University
+SKILLS
+Gap Analysis (5 years), Nessus (5 years), Security (5 years), SSL (5 years), testing (5 years)
+ADDITIONAL INFORMATION
+SKILL SET
+Databases: Oracle &SQL Server
+Operating System: MS-DOS, Windows 98/XP &UNIX, Windows 7
+Languages: C, C++
+Testing Tools: Q.T.P, Win Runner7.5, Load Runner 9.5
+Networking: Hands on Experience On Cisco devices, AAA, TACACS, RADIUS, VPNS
+Security: Security scans using Nessus and Retina tools, Penetration
+testing using Proxy and SSL scans, GAP Analysis using CSERV

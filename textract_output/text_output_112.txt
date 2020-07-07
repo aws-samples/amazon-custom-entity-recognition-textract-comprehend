@@ -1,0 +1,95 @@
+Zaheer Uddin
+Technical Project Manager
+Hyderabad, Telangana Email me on Indeed: indeed.com/r/zaheer-uddin/fd9892e91ac9a58t
+To be associated with a dynamic team in a progressive organization that gives me the scope to
+apply and enrich my knowledge and skills with continual learning and professional growth.
+WORK EXPERIENCE
+Technical Project Manager
+DELL EMC
+August 2015 to May 2018
+Provide expertise to support the project team in the following areas:
+Activity and resource planning.
+Analyzing and managing project risk.
+Planning, organizing, and Leading the Project teams from the entire metrics standpoint.
+Scope &amp; Charter Management
+Handled the Account Level Audit (ERM, ITIL)
+Estimations and cost management.
+Project Timeline planning and management
+Procurement, Software Asset management, Change management and Configuration
+management.
+Issue resolution and escalation
+Communications &amp; status reporting
+Scheduling, attending and running all project meetings.
+Identify, track, and resolve/escalate project impediments, risk, issues, actions.
+Implementing Power BI Business Analytics tool to analyze data and share insights.
+Implemented Six Sigma project (DMAIC) for improving the CSAT Score overall.
+Implemented LEAN project for optimizing the resource management and the Average handling
+time on the tickets/resolutions.
+Technical Lead/Operations Manager
+Microsoft
+July 2013 to July 2015
+Managing 24x7 IT infrastructure services with the scope of Incident management, Security
+patching and software deployment management services for Microsoft Outlook.co email
+service and 0365 cloud services with team size of 68 people.
+Transitioned and consolidated the Incident management, security patching and deployment
+management work for optimizing the team by improving the productivity and reducing the cycle
+time.
+Prepared technical architecture documents integrating all components of the project for better
+troubleshooting.
+Deploying builds &amp; security patches as per Build calendar schedule and co-coordinating
+the issues that arise during the build.
+Monitoring, Remote administration, maintenance of a Datacenter Servers comprising of
+10, 000+ Servers.
+Trouble shooting on HP storage Architecture in different SKU'S with RAID concepts.
+Implementing disaster recovery procedures to ensure minimal downtime and data loss.
+Re-building Operating Systems on servers (2003, 2008, 2008 R2) that are in the Hotmail
+Environment.
+Transitioned windows infrastructure support services involving the frontend, inbound, outbound
+and storage infrastructure.
+Handled security patching, application deployment and incident management for Windows,
+SQL and HP storage servers.
+Participate in Feature Specification and Release Reviews to ensure complete understanding of
+the features being deployed.
+Created the knowledge base articles for the debugging of the software application for the benefit
+of the Customer, Partner and the engineering team.
+Senior Service Engineer
+EMC
+January 2011 to June 2013
+Experience in installing and maintaining Windows Server 2000/2003, 2008.
+Alert and resolve any performance issues and notify end-users and resolve any storage
+shortages issues.
+Monitor and resolve any issues related to Usage, Performance, and availability on storage.
+Install and configure the EMC Disk tender (archiving) application as per the customer
+requirements.
+Troubleshooting NAS, CAS and DAS Storage issues on the servers.
+Replicate the break-fix implementation in the test machines to test the functionality of the
+break-fix and reproduce the same on the production server.
+Perform testing of the registry exports made from the Production environment and try and test
+it on the Test environment to resolve issues.
+Systems Engineer
+December 2007 to December 2010
+* Designing and developing computer hardware and support peripherals, including central
+processing units (CPUs), support logic, microprocessors, custom integrated circuits, printers, and
+disk drives.
+Managing, monitoring and troubleshooting all installed systems and infrastructure.
+Installing, configuring, testing and maintaining operating systems application software and
+system management tools.
+* Ensuring the highest levels of systems and infrastructure availability.
+Handling Level-2 technical escalations Tickets/Calls.
+Performing Upgrades, Installation of Software and Drivers and essential software
+troubleshooting.
+*
+Assisting end users in deploying Updates, services packs and hot fixes using Windows Update,
+Automatic Updates.
+*
+Setting up Active Directory, creating user accounts and providing permissions as requested by
+the network admin team.
+EDUCATION
+BSc
+Osmania University
+2007
+Board of Secondary Education
+Hyderabad, Telangana
+2004
+Diploma in Computer Application
+Mac infotech Center

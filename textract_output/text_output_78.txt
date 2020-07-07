@@ -1,0 +1,126 @@
+Shabnam Saba
+Offshore SAP CRM Functional Consultant
+Bengaluru, Karnataka Email me on Indeed: indeed.com/r/shabnan-Saba/dc7ofc366accb67f
+To understand the organization and to identify its needs and correlate them with my goals so as
+to apply myself to responsibility with total dedication and dynamism so as to grow along with
+the organization.
+Past Organization: Tata Consultancy Services as SAP CRM functional consultant (July 2014 - Jan
+2016), SAP Labs, India (from Feb 2011-June 2014), Cognizant Technology Solutions (May 2010-
+October 2010)
+WORK EXPERIENCE
+Offshore SAP CRM Functional Consultant
+SAP AG
+July 2014 to January 2016
+Description: The project involves SAP IT support with respect to AGS and SAP cloud Process .SAP
+IT support involves handling incident and service requests from SAP CRM users and customers
+across the globe.
+Responsibilities:
+Problem Analysing and Handling Tickets of SAP CRM (AGS and cloud process)
+Handling incident and providing solution with in SLA time frame.
+Configuring the system to resolve the issues.
+Worked on changes to the functional specifications required as per the clients
+requirement.
+Preparing test cases and taking approval from client before moving new changes to production.
+Coordinated with the technical team in solving the tickets.
+Quality Engineer
+SAP Labs
+July 2002 to January 2014
+Responsibilities:
+Worked in configuring and testing different areas of Framework:
+Nav. Bar profile
+Role Config key
+Business Roles and UI Config tool
+Creating A Business Role
+Functional Consultant
+SAP Labs
+March 2012 to June 2013
+Description:
+Mobile client Technology is client technology designed for Microsoft Windows-based occasionally
+server-connected CRM field applications. These applications offer a rich function set, such as
+SAP CRM Mobile Sales and SAP CRM Mobile Service. Mobile Sales for SAP CRM allows users to
+access all their accounts, contacts, leads, opportunities, and activities from a single point. All
+relationships between these business objects are automatically mapped in the application, which
+allows for fast and easy navigation.
+Responsibilities
+Testing the various business objects:
+Opportunities, Quotation, Sales orders, Activities.
+Worked on system set up (creation of sites, subscriptions), opportunity, quotation, order
+management.
+5. CRM Sales ( CRM 7.01, CRM 7.02, CRM 7.03) -Feb 2011-June 2014
+Client: SAP Labs India
+Role: Functional Consultant
+Description:
+This area in SAP Customer Relationship Management (SAP CRM) enables you to manage your
+sales cycle, starting with creating appointments and business opportunities, through to managing
+sales orders, contracts, and invoicing. It also allows you to organize and structure your sales
+territories according to your business requirements.
+Responsibilities:
+Was involved in customizations and testing of:
+Territory management
+Account and contact management
+Activity management, visit Planning
+opportunity planning, opportunity management
+quotation and order management
+Pricing
+Organizational Management and Billing
+Customizations of Surveys
+EDUCATION
+B.E in CSE
+Padmanava College of Engineering
+2009
+St. Joseph's convent school
+2003
+SKILLS
+CRM (10+ years), CUSTOMER RELATIONSHIP MANAGEMENT (10+ years), TESTING (10+ years),
+UI (10+ years), USER INTERFACE (10+ years)
+ADDITIONAL INFORMATION
+Other Skills:
+CRM Middleware:
+Worked on downloading initial and delta download between ECC and CRM,
+CRM and MSA.
+Monitoring middleware data between ECC and CRM.
+Monitoring Queues and error handling of BDocs.
+Worked on subscriptions and Publications, Replication Objects.
+SAP ECC Sales and Distribution:
+Strong Understanding of SAP Customizing and Detailed knowledge of core SD functions such
+as Item Categories, Text Determination, output determination, taxes
+Customer Master and Material Master data, item proposal, variant configuration, Product
+hierarchy
+Sales document types (Orders, Returns, CMR, DMR)
+Billing and Pricing concept, worked on bill plans
+Sales Enterprise structure
+Copy control, Incompletion log, Material listing and Exclusion
+Partner determination, Customization of Account groups
+Worked with cross-functional teams during development and configuration activities to ensure
+impact to other SAP modules and processes is considered.
+SAP CRM Skills:
+CRM Sales and Service order management (Extensive experience in configuration for Text
+Determination Procedures, Status Profile, Org. Data Determination and Transaction Types)
+SAP Fiori (creation of test data and application testing in different landscapes including browser
+testing)
+SAP Mobile Sales (creation of test data and system set up)
+well versed in base customizing and WEBUI configuration along with CRM Tables.
+Hands on experience in CRM middleware (creation of sites, subscription, publication, checking
+bdocs, idocs, download objects) and trouble shooting.
+In depth knowledge in CRM One Order Framework.
+Extensive experience in the configuration of Web UI for multiple Business Roles, Actions,
+Navigation Bar Profile.
+Competencies and Skills:
+CR-100 (BP, Product, Org model, Partner/Text determination, Transaction type, Item categories,
+Territory)
+CR-300
+CRM Mobile Sales
+CRM Middleware Basics
+Basic Debugging (ABAP)
+Knowledge on Idocs (set-up, filtration, reprocessing)
+Testing:
+Experience in SAP CRM Module (sales and service) with testing
+Good understanding of application testing process.
+Coordinated with SAP CRM technical team members to understand testing functionalities
+Written Test cases for different CRM modules (Account Management, opportunity, activity
+management, sales order creation) Sales & Service.
+Managed issue logs / defects and subsequent closures.
+Basic Debugging:
+Knowledge of ABAP Debugging, Basic ABAP (Tables, data elements, Working with Table
+Maintenance Generator, Creating a Transaction Variant, Creating an SAP Area Menus, Find the
+SAP IMG Customizing Activity from the Table Name, basic knowledge of Smartforms)
