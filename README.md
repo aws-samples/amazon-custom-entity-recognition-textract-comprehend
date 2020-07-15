@@ -1,11 +1,8 @@
-## My Project
+# amazon-custom-entity-recognition-textract-comprehend
+***
+## Instruction
+- Use the CloudFormation template provide inside this repo to create your stack. This will include all necessary roles and permissions.
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
