@@ -3,7 +3,7 @@ Resources:
   BasicNotebookInstance:
     Type: 'AWS::SageMaker::NotebookInstance'
     Properties:
-      InstanceType: ml.m5.large
+      InstanceType: ml.m5.xlarge
       RoleArn: !GetAtt ExecutionRole.Arn
   ExecutionRole:
     Type: 'AWS::IAM::Role'
